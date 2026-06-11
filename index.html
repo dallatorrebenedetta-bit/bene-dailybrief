@@ -12,10 +12,9 @@
   --text: #1d1d1f;
   --muted: #6e6e73;
   --red: #d71920;
+  --green: #137333;
   --soft-red: #fff1f1;
   --border: #e5e5e7;
-  --green: #137333;
-  --soft: #fafafa;
 }
 
 * { box-sizing: border-box; }
@@ -138,9 +137,7 @@ h1 {
   line-height: 1.45;
 }
 
-.why strong {
-  color: var(--red);
-}
+.why strong { color: var(--red); }
 
 .source-link {
   color: var(--red);
@@ -179,15 +176,17 @@ h1 {
   color: var(--muted);
   margin-top: 4px;
 }
+
 .metric-change.positive {
-  color: #137333;
+  color: var(--green);
   font-weight: 800;
 }
 
 .metric-change.negative {
-  color: #d71920;
+  color: var(--red);
   font-weight: 800;
 }
+
 .deepread {
   background: linear-gradient(135deg, #ffffff, #f8f8f8);
 }
@@ -297,9 +296,9 @@ function renderStories(containerId, stories) {
     const article = document.createElement("article");
     article.className = "news-card";
 
-    const why = story.why 
-      ? `<div class="why"><strong>Why it matters:</strong> ${story.why}</div>` 
-      : `<div class="why"><strong>Why it matters:</strong> Questa notizia è rilevante perché può influenzare mercati, aziende o decisioni politiche nei prossimi giorni.</div>`;
+    const why = story.why
+      ? `<div class="why"><strong>Why it matters:</strong> ${story.why}</div>`
+      : "";
 
     article.innerHTML = `
       <h3>${story.title}</h3>
@@ -325,272 +324,18 @@ function renderNumbers(numbers) {
     const div = document.createElement("div");
     div.className = "metric";
 
-    const isPositive = item.detail.startsWith("+");
-    const isNegative = item.detail.startsWith("-");
+    const detail = item.detail || "";
+    const isPositive = detail.trim().startsWith("+");
+    const isNegative = detail.trim().startsWith("-");
 
     let changeClass = "";
-
-    if (isPositive) {
-      changeClass = "positive";
-    }
-
-    if (isNegative) {
-      changeClass = "negative";
-    }
+    if (isPositive) changeClass = "positive";
+    if (isNegative) changeClass = "negative";
 
     div.innerHTML = `
       <div class="metric-name">${item.name}</div>
       <div class="metric-value">${item.value}</div>
-      <div class="metric-change ${changeClass}">
-        ${item.detail}
-      </div>
-    `;
-
-    container.appendChild(div);
-  });
-}
-
-loadBrief();
-</script>
-
-</body>
-</html>  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-h1 {
-  font-size: 34px;
-  line-height: 1.05;
-  margin: 8px 0 8px;
-}
-
-.subtitle {
-  color: var(--muted);
-  font-size: 16px;
-}
-
-.section {
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 22px;
-  padding: 20px;
-  margin-bottom: 16px;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.04);
-}
-
-.section h2 {
-  margin: 0 0 14px;
-  font-size: 22px;
-}
-
-.theme {
-  background: linear-gradient(135deg, #ffffff, var(--soft-red));
-  border-left: 5px solid var(--red);
-}
-
-.theme-title {
-  font-size: 21px;
-  font-weight: 750;
-  margin-bottom: 8px;
-}
-
-.theme p,
-.news-card p {
-  margin: 0 0 10px;
-  color: #333;
-  line-height: 1.55;
-  font-size: 15.5px;
-}
-
-.news-card {
-  border-top: 1px solid var(--border);
-  padding-top: 16px;
-  margin-top: 16px;
-}
-
-.news-card:first-of-type {
-  border-top: none;
-  padding-top: 0;
-  margin-top: 0;
-}
-
-.news-card h3 {
-  margin: 0 0 6px;
-  font-size: 19px;
-  line-height: 1.25;
-}
-
-.meta {
-  color: var(--red);
-  font-size: 13px;
-  font-weight: 700;
-  margin-bottom: 10px;
-}
-
-.source-link {
-  color: var(--red);
-  text-decoration: none;
-  font-weight: 700;
-  font-size: 14px;
-}
-
-.number-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 12px;
-}
-
-.metric {
-  background: #fafafa;
-  border: 1px solid var(--border);
-  padding: 14px;
-  border-radius: 16px;
-}
-
-.metric-name {
-  color: var(--muted);
-  font-size: 13px;
-}
-
-.metric-value {
-  font-size: 20px;
-  font-weight: 750;
-  margin-top: 4px;
-}
-
-.metric-change {
-  font-size: 13px;
-  color: var(--muted);
-  margin-top: 3px;
-}
-
-.footer {
-  text-align: center;
-  color: var(--muted);
-  font-size: 13px;
-  margin: 28px 0 10px;
-}
-
-@media (max-width: 600px) {
-  body { padding: 16px; }
-  h1 { font-size: 30px; }
-  .section { border-radius: 20px; padding: 18px; }
-}
-</style>
-</head>
-
-<body>
-<div class="container">
-
-  <header class="header">
-    <div class="kicker">Daily Intelligence</div>
-    <h1>Benedetta Daily Brief</h1>
-    <div class="subtitle" id="brief-date">Loading today’s brief...</div>
-  </header>
-
-  <section class="section theme">
-    <h2>🌍 Today’s Theme</h2>
-    <div class="theme-title" id="theme-title">Loading...</div>
-    <p id="theme-text">Loading today’s theme...</p>
-  </section>
-
-  <section class="section">
-    <h2>🌍 Top Stories</h2>
-    <div id="top-stories"></div>
-  </section>
-
-  <section class="section">
-    <h2>📈 Today in Numbers</h2>
-    <div class="number-grid" id="numbers"></div>
-  </section>
-
-  <section class="section">
-    <h2>🤖 AI & Technology</h2>
-    <div id="ai-section"></div>
-  </section>
-
-  <section class="section">
-    <h2>🏦 Finance</h2>
-    <div id="finance-section"></div>
-  </section>
-
-  <section class="section">
-    <h2>🏛 Politics & Geopolitics</h2>
-    <div id="geopolitics-section"></div>
-  </section>
-
-  <section class="section">
-    <h2>🏢 Business</h2>
-    <div id="business-section"></div>
-  </section>
-
-  <section class="section">
-    <h2>📚 Deep Read of the Day</h2>
-    <div id="deepread-section"></div>
-  </section>
-
-  <div class="footer">
-    Benedetta Daily Brief · Live dashboard
-  </div>
-
-</div>
-
-<script>
-async function loadBrief() {
-  try {
-    const response = await fetch("data/brief.json");
-    const brief = await response.json();
-
-    document.getElementById("brief-date").textContent = brief.date;
-    document.getElementById("theme-title").textContent = brief.theme.title;
-    document.getElementById("theme-text").textContent = brief.theme.text;
-
-    renderStories("top-stories", brief.topStories);
-    renderNumbers(brief.numbers);
-    renderStories("ai-section", [brief.ai]);
-    renderStories("finance-section", [brief.finance]);
-    renderStories("geopolitics-section", [brief.geopolitics]);
-    renderStories("business-section", [brief.business]);
-    renderStories("deepread-section", [brief.deepRead]);
-
-  } catch (error) {
-    document.getElementById("brief-date").textContent = "Brief not available yet";
-    document.getElementById("theme-title").textContent = "Daily brief loading failed";
-    document.getElementById("theme-text").textContent = "Create data/brief.json to activate the live dashboard.";
-  }
-}
-
-function renderStories(containerId, stories) {
-  const container = document.getElementById(containerId);
-  container.innerHTML = "";
-
-  stories.forEach(story => {
-    const article = document.createElement("article");
-    article.className = "news-card";
-
-    article.innerHTML = `
-      <h3>${story.title}</h3>
-      <div class="meta">${story.category} · ${story.source}</div>
-      <p>${story.summary}</p>
-      <a class="source-link" href="${story.url}" target="_blank" rel="noopener noreferrer">Leggi fonte →</a>
-    `;
-
-    container.appendChild(article);
-  });
-}
-
-function renderNumbers(numbers) {
-  const container = document.getElementById("numbers");
-  container.innerHTML = "";
-
-  numbers.forEach(item => {
-    const div = document.createElement("div");
-    div.className = "metric";
-
-    div.innerHTML = `
-      <div class="metric-name">${item.name}</div>
-      <div class="metric-value">${item.value}</div>
-      <div class="metric-change">${item.detail}</div>
+      <div class="metric-change ${changeClass}">${detail}</div>
     `;
 
     container.appendChild(div);
@@ -602,3 +347,4 @@ loadBrief();
 
 </body>
 </html>
+
