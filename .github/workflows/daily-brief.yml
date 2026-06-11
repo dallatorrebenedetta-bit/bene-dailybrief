@@ -1,0 +1,31 @@
+name: Generate Daily Brief
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-brief:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate brief
+        run: python scripts/generate_brief.py
+
+      - name: Commit updated brief
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update daily brief"
+          file_pattern: data/brief.json
