@@ -179,7 +179,15 @@ h1 {
   color: var(--muted);
   margin-top: 4px;
 }
+.metric-change.positive {
+  color: #137333;
+  font-weight: 800;
+}
 
+.metric-change.negative {
+  color: #d71920;
+  font-weight: 800;
+}
 .deepread {
   background: linear-gradient(135deg, #ffffff, #f8f8f8);
 }
@@ -317,10 +325,25 @@ function renderNumbers(numbers) {
     const div = document.createElement("div");
     div.className = "metric";
 
+    const isPositive = item.detail.startsWith("+");
+    const isNegative = item.detail.startsWith("-");
+
+    let changeClass = "";
+
+    if (isPositive) {
+      changeClass = "positive";
+    }
+
+    if (isNegative) {
+      changeClass = "negative";
+    }
+
     div.innerHTML = `
       <div class="metric-name">${item.name}</div>
       <div class="metric-value">${item.value}</div>
-      <div class="metric-change">${item.detail}</div>
+      <div class="metric-change ${changeClass}">
+        ${item.detail}
+      </div>
     `;
 
     container.appendChild(div);
