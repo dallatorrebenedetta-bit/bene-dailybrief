@@ -1,102 +1,102 @@
 {
   "date": "11 June 2026",
   "theme": {
-    "title": "Markets are watching rates, AI investment and geopolitical risk.",
-    "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su mercati, banche centrali, geopolitica, tecnologia e grandi aziende."
+    "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
+    "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Four developed market central banks are now hiking rates - Reuters",
+      "title": "Italy to align its levy on small parcels with EU scheme, economy minister says",
       "category": "Top Story",
       "source": "Reuters",
-      "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
-      "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaTF0ZmI1Z1dPelZEcnlJTVZrZk1SYjlIQjVubTM1Zm5JcUxsRERNcDRYUWU5aDl0Yy14c1k4OUNfQnFzajVVbkUtVVhBN1cwRng2enIyTVJOSm1wdzZTVEtUTldYYzdpbjNfZjZSMWUyTjJubEdQamI4dkJqSjFNc2NZRjJFdGRRYVhTaTIwTmRUdw?oc=5"
+      "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
+      "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORkladlh5RERURjhNejFkMVF6eTFLTFdxTUQxRDBjcWNjUm81U1paUUFkMzZ2dlpMUkxTSUNfR2lIZElnaDdMa3RuaW9rZW1iUTBNMXJ5aFlfNmU4NzBRZzVMdzBWRFBiVFBnMi0wUHNvRUE1WDRxRkdDQW92bTRLYzhqTTNWSFY4TUxmUzEtZWpwT2YwRVlYcEZJaTFfNGhHczdHSlozX0RCSFRQdHNJbjJrcFRKVFJPakM4TFhLUjdTa0hMdEE?oc=5"
     },
     {
-      "title": "The unlikely alliance pushing an AI sovereign wealth fund - Financial Times",
-      "category": "AI & Technology",
+      "title": "The environmental cost of AI",
+      "category": "AI & Tecnologia",
       "source": "Financial Times",
-      "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
-      "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUt5R2xjYTV0OVZqdlE1NDhfMnI1aDlXOTVKLXg5TTJ2MHBsMlJodlU4eFR6SWFRb2h2QzduTS1ocDA2Z195bmZSUThtbVctQkhFbDZMZ1k2UHZXTlZFNTduT0JXbnFPNzZxQXAtLWJBVHptRV9FUXZrSWVvQjJhWnQ5NjI?oc=5"
+      "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
+      "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "Market data",
-      "detail": "Check live"
+      "value": "7,381",
+      "detail": "-0.07%"
     },
     {
       "name": "Nasdaq",
-      "value": "Market data",
-      "detail": "Check live"
+      "value": "25,692",
+      "detail": "+0.05%"
     },
     {
       "name": "EUR/USD",
-      "value": "FX",
-      "detail": "Check live"
+      "value": "1.1574",
+      "detail": "+0.34%"
     },
     {
-      "name": "Gold",
-      "value": "Commodities",
-      "detail": "Check live"
+      "name": "Oro",
+      "value": "$4,192.70",
+      "detail": "+2.06%"
     },
     {
-      "name": "Brent Oil",
-      "value": "Energy",
-      "detail": "Check live"
+      "name": "Brent",
+      "value": "$90.40",
+      "detail": "-2.90%"
     },
     {
       "name": "Bitcoin",
-      "value": "Crypto",
-      "detail": "Check live"
+      "value": "$63,391",
+      "detail": "+3.16%"
     },
     {
       "name": "VIX",
-      "value": "Volatility",
-      "detail": "Check live"
+      "value": "19.62",
+      "detail": "-11.70%"
     }
   ],
   "ai": {
-    "title": "The unlikely alliance pushing an AI sovereign wealth fund - Financial Times",
-    "category": "AI & Technology",
+    "title": "The environmental cost of AI",
+    "category": "AI & Tecnologia",
     "source": "Financial Times",
-    "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
-    "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUt5R2xjYTV0OVZqdlE1NDhfMnI1aDlXOTVKLXg5TTJ2MHBsMlJodlU4eFR6SWFRb2h2QzduTS1ocDA2Z195bmZSUThtbVctQkhFbDZMZ1k2UHZXTlZFNTduT0JXbnFPNzZxQXAtLWJBVHptRV9FUXZrSWVvQjJhWnQ5NjI?oc=5"
+    "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
+    "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "ECB Raises Interest Rates and Lifts Inflation Forecasts - Morningstar",
-    "category": "Finance",
+    "title": "BCE: tassi aumentati in Europa dello 0,25%. Riviste al ribasso previsioni crescita, al rialzo quelle su inflazione - Criptovaluta.it",
+    "category": "Finanza",
     "source": "ECB / Fed",
-    "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
-    "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSFZISGRUVURxODNKUTNSbWtNSEJQWTJxcWJRaFdQYjc5UmVVdTZ4OV80ODNWOWgxSzNYQzJSeHhJcWpXTWR2S1FQM1MzXzE5TjhZdjVhQzNQS1BlSkpYZmFzRDlfOG9tVkgxRXk1dGc3dnJMS1pidlhJX3lYUTF2V0JZRlFpV24tVndwZURDckxsT0R1b0lmSDM1OEg?oc=5"
+    "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
+    "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zNEdpdEtfUWpjWXdXMHJXOFlzU3drUDltNUlzd0g3Q0tOcXhTSzZ3c3poeDBfNnBaRUFybWZXT1ltWUNSYUI1eW82ODhWVEJPRUo1Y25LWEpYXzZIRWp4MVBhZFBIVEkyTlU1bjBvYw?oc=5"
   },
   "geopolitics": {
-    "title": "Wall St edges up as chips rebound, Middle East in focus - Reuters",
-    "category": "Politics & Geopolitics",
+    "title": "McDonald's CFO says overseas sales to weaken more on Middle East, China hit",
+    "category": "Politica & Geopolitica",
     "source": "Reuters",
-    "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
-    "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlhSNlNaTm02QnN2dzg4bUw0U3UwR29UTUxLRXNCamhCMWtMbHlibEhLYjM4ZXE0SGUwWG9Jd2E0SjlWYk1MYkFMbktVSGFXd2xoM3RhR08tRUZZWDdwcm1VMTl0XzhxRjdfTGpHWVczaUZtcU0zb2E5SlVwTzhtZDlqb3ZtVG14RFBkbElXbTF5WWxIQjVmcEROWVJEUFlzOHhV?oc=5"
+    "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
+    "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjVrNDYzc0oyenlqRG9oSmVkWXpSOVZvSy0xTDNzOUU4UTFPN2dYNVdZZmFEUjZpZGU5WUh5M1djR0psem9HZ1pLQjBMXzdkR01oRFNJb25pTTVjTndrbTNuRHFJRVFyQjVKWjNpcWdpT0RzWlNkelp0SFRsd0VJYlJOcFBZT1NpeGJuSkU5cnUwT3N6T2tJMzlfaVRSTE5GNEQxYVhITmhtNTV3OHNFLTJn?oc=5"
   },
   "business": {
-    "title": "Campbell’s Sales Fall on Continued Weak Demand for Snacks - WSJ",
+    "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
     "category": "Business",
     "source": "Wall Street Journal",
-    "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
-    "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdFRTeVlwVXpuMWFDbkFQSFpyTDI0U3hWaGI0R1ZkQjhJTmFpOTM2MzAzNnhyTy1mV1R1OXhhTEUwYi03RXZnMXEzdEpvemNEeDNhMF9nbFpYLVRUUkdRaExRdFhXa1l4ZVJKdHliYU5sNnItUnNqN1p4MTd6dUFubEJPOUt1ZlBhT1FPOVhuOF9JWWh4SlBvbDgxSWVZUjJRMXNnWnZB?oc=5"
+    "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
+    "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHR2Q2Z0R2R4OGhvT1NGN0NuZFREUHA1TkhKM21sSlF2ai1FWm9Del9Ob1VDa0U3S2lMZEs3U1I1ZVg0cXNOaWVYSFNfRGpiOFJFYTRjR21EeHBGb3BmcTRUaXUyUnZYekhWYk9VVjR6VXF2ak14N2x5NEdOV0VDQU9Xbk5OMlIxZWF6TnRYa2dRVzl3YXBDQmpDVXloRzZERTZnUmw0ZkN6czY4RlY5TFVFdzhGM3M?oc=5"
   },
   "deepRead": {
-    "title": "China is innovative. Its economy is a mess. Which will win out? - The Economist",
-    "category": "Deep Read",
+    "title": "Brexit has not caused much economic damage. Until now",
+    "category": "Approfondimento",
     "source": "The Economist",
-    "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
-    "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWVnbWswdzB0UVNkUWQ2TE8wYVhNUFA5Y1ZfWFZZeFFkVUowN2QxeFoxWUdVYXdmam54NzZpaU9LczVhbUJ4NE1KaGR2VTViUmpXQnJOOHBOb0NsOVQ5d1NhSzVZZE51QWtMVV9oREs4SE1ORHVzS3BUak9NQi1kTkdvbmdtVGg4RHFWNy1HZWhXWVlaQXItdmJJQThiakJpMVlNTlZsT2pZS3hiNkw4MFFnUDRCWllxcnRJ?oc=5"
+    "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
+    "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdDVac1dzRVVsdGd4MFBoaVVWTVA5Y2VGNVhDLUI3VlV0QjE3b25RajlYLXMzYjdfekYzOXBJU2tadktFQXpFZUpSZzhOQW1vRC1yeHRScEx0WFhVbnNjUDFwWVNoeVprOGdxUUxsMVR6RDBkeDNRNjhwVDYwdkFfbUdZVW9ISkhIR29ldkcwbjVQbXNaN1FmMnZuejkyZw?oc=5"
   }
 }
