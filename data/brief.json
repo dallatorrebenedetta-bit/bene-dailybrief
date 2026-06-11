@@ -1,102 +1,102 @@
-    {
+{
   "date": "11 June 2026",
   "theme": {
     "title": "Markets are watching rates, AI investment and geopolitical risk.",
-    "text": "Gli investitori stanno cercando di capire come evolveranno i tassi di interesse, mentre l’intelligenza artificiale continua ad attrarre capitali e la geopolitica resta una fonte di incertezza per mercati ed economia."
+    "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su mercati, banche centrali, geopolitica, tecnologia e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Global markets watch central banks as investors reassess rate expectations",
+      "title": "Four developed market central banks are now hiking rates - Reuters",
       "category": "Top Story",
       "source": "Reuters",
-      "summary": "Gli investitori restano concentrati sulle banche centrali e sul percorso dei tassi. I mercati stanno rivalutando la probabilità di ulteriori tagli nei prossimi mesi.",
-      "why": "Tassi più elevati per più tempo possono ridurre le valutazioni azionarie e aumentare il costo del capitale per le imprese.",
-      "url": "https://www.reuters.com"
+      "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
+      "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaTF0ZmI1Z1dPelZEcnlJTVZrZk1SYjlIQjVubTM1Zm5JcUxsRERNcDRYUWU5aDl0Yy14c1k4OUNfQnFzajVVbkUtVVhBN1cwRng2enIyTVJOSm1wdzZTVEtUTldYYzdpbjNfZjZSMWUyTjJubEdQamI4dkJqSjFNc2NZRjJFdGRRYVhTaTIwTmRUdw?oc=5"
     },
     {
-      "title": "AI investment continues to reshape technology and corporate strategy",
-      "category": "Top Story",
+      "title": "The unlikely alliance pushing an AI sovereign wealth fund - Financial Times",
+      "category": "AI & Technology",
       "source": "Financial Times",
-      "summary": "La spesa in AI continua a influenzare Big Tech, semiconduttori, cloud e infrastrutture. Le aziende stanno aumentando gli investimenti per non restare indietro nella corsa all'intelligenza artificiale.",
-      "why": "L'AI sta diventando uno dei principali driver di crescita degli utili e delle valutazioni nel settore tecnologico.",
-      "url": "https://www.ft.com"
+      "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
+      "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUt5R2xjYTV0OVZqdlE1NDhfMnI1aDlXOTVKLXg5TTJ2MHBsMlJodlU4eFR6SWFRb2h2QzduTS1ocDA2Z195bmZSUThtbVctQkhFbDZMZ1k2UHZXTlZFNTduT0JXbnFPNzZxQXAtLWJBVHptRV9FUXZrSWVvQjJhWnQ5NjI?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "6,210",
-      "detail": "+0.45%"
+      "value": "Market data",
+      "detail": "Check live"
     },
     {
       "name": "Nasdaq",
-      "value": "20,340",
-      "detail": "+0.62%"
+      "value": "Market data",
+      "detail": "Check live"
     },
     {
       "name": "EUR/USD",
-      "value": "1.14",
-      "detail": "-0.10%"
+      "value": "FX",
+      "detail": "Check live"
     },
     {
       "name": "Gold",
-      "value": "$3,350",
-      "detail": "+0.20%"
+      "value": "Commodities",
+      "detail": "Check live"
     },
     {
       "name": "Brent Oil",
-      "value": "$68.4",
-      "detail": "-0.55%"
+      "value": "Energy",
+      "detail": "Check live"
     },
     {
       "name": "Bitcoin",
-      "value": "$108,200",
-      "detail": "+1.80%"
+      "value": "Crypto",
+      "detail": "Check live"
     },
     {
       "name": "VIX",
-      "value": "18.2",
-      "detail": "-0.70%"
+      "value": "Volatility",
+      "detail": "Check live"
     }
   ],
   "ai": {
-    "title": "AI infrastructure remains the key technology investment theme",
+    "title": "The unlikely alliance pushing an AI sovereign wealth fund - Financial Times",
     "category": "AI & Technology",
-    "source": "Bloomberg",
-    "summary": "La domanda di chip, data center e cloud capacity continua a guidare le strategie delle grandi aziende tecnologiche.",
-    "why": "La crescita dell'AI richiede enormi investimenti infrastrutturali che stanno sostenendo utili e capex in tutto il settore.",
-    "url": "https://www.bloomberg.com"
+    "source": "Financial Times",
+    "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
+    "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUt5R2xjYTV0OVZqdlE1NDhfMnI1aDlXOTVKLXg5TTJ2MHBsMlJodlU4eFR6SWFRb2h2QzduTS1ocDA2Z195bmZSUThtbVctQkhFbDZMZ1k2UHZXTlZFNTduT0JXbnFPNzZxQXAtLWJBVHptRV9FUXZrSWVvQjJhWnQ5NjI?oc=5"
   },
   "finance": {
-    "title": "Central banks remain cautious as inflation risks persist",
+    "title": "ECB Raises Interest Rates and Lifts Inflation Forecasts - Morningstar",
     "category": "Finance",
     "source": "ECB / Fed",
-    "summary": "Le banche centrali continuano a valutare con prudenza il percorso dei tassi e l'evoluzione dell'inflazione.",
-    "why": "Le decisioni delle banche centrali influenzano direttamente obbligazioni, azioni, mutui e costo del credito.",
-    "url": "https://www.ecb.europa.eu"
+    "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
+    "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSFZISGRUVURxODNKUTNSbWtNSEJQWTJxcWJRaFdQYjc5UmVVdTZ4OV80ODNWOWgxSzNYQzJSeHhJcWpXTWR2S1FQM1MzXzE5TjhZdjVhQzNQS1BlSkpYZmFzRDlfOG9tVkgxRXk1dGc3dnJMS1pidlhJX3lYUTF2V0JZRlFpV24tVndwZURDckxsT0R1b0lmSDM1OEg?oc=5"
   },
   "geopolitics": {
-    "title": "Geopolitical tensions remain a key source of market uncertainty",
+    "title": "Wall St edges up as chips rebound, Middle East in focus - Reuters",
     "category": "Politics & Geopolitics",
     "source": "Reuters",
-    "summary": "Le tensioni geopolitiche continuano a influenzare energia, commercio globale e sentiment degli investitori.",
-    "why": "Shock geopolitici possono avere effetti immediati su petrolio, supply chain e crescita economica.",
-    "url": "https://www.reuters.com/world/"
+    "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
+    "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlhSNlNaTm02QnN2dzg4bUw0U3UwR29UTUxLRXNCamhCMWtMbHlibEhLYjM4ZXE0SGUwWG9Jd2E0SjlWYk1MYkFMbktVSGFXd2xoM3RhR08tRUZZWDdwcm1VMTl0XzhxRjdfTGpHWVczaUZtcU0zb2E5SlVwTzhtZDlqb3ZtVG14RFBkbElXbTF5WWxIQjVmcEROWVJEUFlzOHhV?oc=5"
   },
   "business": {
-    "title": "Companies adapt strategy around AI, rates and supply chains",
+    "title": "Campbell’s Sales Fall on Continued Weak Demand for Snacks - WSJ",
     "category": "Business",
     "source": "Wall Street Journal",
-    "summary": "Le grandi aziende stanno adattando investimenti, M&A e strategie operative a un contesto dominato da AI e tassi elevati.",
-    "why": "Le decisioni strategiche delle grandi imprese spesso anticipano i trend economici futuri.",
-    "url": "https://www.wsj.com"
+    "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
+    "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdFRTeVlwVXpuMWFDbkFQSFpyTDI0U3hWaGI0R1ZkQjhJTmFpOTM2MzAzNnhyTy1mV1R1OXhhTEUwYi03RXZnMXEzdEpvemNEeDNhMF9nbFpYLVRUUkdRaExRdFhXa1l4ZVJKdHliYU5sNnItUnNqN1p4MTd6dUFubEJPOUt1ZlBhT1FPOVhuOF9JWWh4SlBvbDgxSWVZUjJRMXNnWnZB?oc=5"
   },
   "deepRead": {
-    "title": "Why AI Is Becoming a Macroeconomic Story",
+    "title": "China is innovative. Its economy is a mess. Which will win out? - The Economist",
     "category": "Deep Read",
     "source": "The Economist",
-    "summary": "L'AI non è più soltanto una storia tecnologica ma un tema macroeconomico che coinvolge produttività, energia, investimenti e mercati finanziari.",
-    "why": "Capire le implicazioni macro dell'AI può aiutare a interpretare meglio i movimenti di mercati, aziende e banche centrali.",
-    "url": "https://www.economist.com"
+    "summary": "Questa notizia è stata selezionata automaticamente da una fonte ritenuta rilevante. Va letta come segnale della giornata per capire il contesto macro, finanziario o tecnologico.",
+    "why": "È rilevante perché può influenzare sentiment di mercato, decisioni degli investitori o aspettative su crescita, tassi e rischio globale.",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWVnbWswdzB0UVNkUWQ2TE8wYVhNUFA5Y1ZfWFZZeFFkVUowN2QxeFoxWUdVYXdmam54NzZpaU9LczVhbUJ4NE1KaGR2VTViUmpXQnJOOHBOb0NsOVQ5d1NhSzVZZE51QWtMVV9oREs4SE1ORHVzS3BUak9NQi1kTkdvbmdtVGg4RHFWNy1HZWhXWVlaQXItdmJJQThiakJpMVlNTlZsT2pZS3hiNkw4MFFnUDRCWllxcnRJ?oc=5"
   }
 }
