@@ -1,95 +1,102 @@
-{
+    {
   "date": "11 June 2026",
   "theme": {
     "title": "Markets are watching rates, AI investment and geopolitical risk.",
-    "text": "Il filo conduttore della giornata è l’equilibrio tra aspettative sui tassi, investimenti nell’intelligenza artificiale e rischi geopolitici. Questo è un primo brief dinamico di prova."
+    "text": "Gli investitori stanno cercando di capire come evolveranno i tassi di interesse, mentre l’intelligenza artificiale continua ad attrarre capitali e la geopolitica resta una fonte di incertezza per mercati ed economia."
   },
   "topStories": [
     {
       "title": "Global markets watch central banks as investors reassess rate expectations",
       "category": "Top Story",
       "source": "Reuters",
-      "summary": "Gli investitori restano concentrati sulle banche centrali e sul percorso dei tassi. Il tema è importante perché aspettative più restrittive possono pesare su azioni, obbligazioni e valutazioni delle aziende growth.",
+      "summary": "Gli investitori restano concentrati sulle banche centrali e sul percorso dei tassi. I mercati stanno rivalutando la probabilità di ulteriori tagli nei prossimi mesi.",
+      "why": "Tassi più elevati per più tempo possono ridurre le valutazioni azionarie e aumentare il costo del capitale per le imprese.",
       "url": "https://www.reuters.com"
     },
     {
       "title": "AI investment continues to reshape technology and corporate strategy",
       "category": "Top Story",
       "source": "Financial Times",
-      "summary": "La spesa in AI continua a influenzare Big Tech, semiconduttori, cloud e infrastrutture. Per i mercati, il punto chiave è capire se questi investimenti genereranno profitti sufficienti a giustificare le valutazioni attuali.",
+      "summary": "La spesa in AI continua a influenzare Big Tech, semiconduttori, cloud e infrastrutture. Le aziende stanno aumentando gli investimenti per non restare indietro nella corsa all'intelligenza artificiale.",
+      "why": "L'AI sta diventando uno dei principali driver di crescita degli utili e delle valutazioni nel settore tecnologico.",
       "url": "https://www.ft.com"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "—",
-      "detail": "Daily change"
+      "value": "6,210",
+      "detail": "+0.45%"
     },
     {
       "name": "Nasdaq",
-      "value": "—",
-      "detail": "Daily change"
+      "value": "20,340",
+      "detail": "+0.62%"
     },
     {
       "name": "EUR/USD",
-      "value": "—",
-      "detail": "FX rate"
+      "value": "1.14",
+      "detail": "-0.10%"
     },
     {
       "name": "Gold",
-      "value": "—",
-      "detail": "USD/oz"
+      "value": "$3,350",
+      "detail": "+0.20%"
     },
     {
       "name": "Brent Oil",
-      "value": "—",
-      "detail": "Energy benchmark"
+      "value": "$68.4",
+      "detail": "-0.55%"
     },
     {
       "name": "Bitcoin",
-      "value": "—",
-      "detail": "Crypto sentiment"
+      "value": "$108,200",
+      "detail": "+1.80%"
     },
     {
       "name": "VIX",
-      "value": "—",
-      "detail": "Market fear index"
+      "value": "18.2",
+      "detail": "-0.70%"
     }
   ],
   "ai": {
     "title": "AI infrastructure remains the key technology investment theme",
     "category": "AI & Technology",
     "source": "Bloomberg",
-    "summary": "L’intelligenza artificiale resta uno dei principali driver di investimento globale. La domanda di chip, data center e cloud capacity continua a guidare le strategie delle grandi aziende tecnologiche.",
+    "summary": "La domanda di chip, data center e cloud capacity continua a guidare le strategie delle grandi aziende tecnologiche.",
+    "why": "La crescita dell'AI richiede enormi investimenti infrastrutturali che stanno sostenendo utili e capex in tutto il settore.",
     "url": "https://www.bloomberg.com"
   },
   "finance": {
     "title": "Central banks remain cautious as inflation risks persist",
     "category": "Finance",
     "source": "ECB / Fed",
-    "summary": "Le banche centrali continuano a valutare con prudenza il percorso dei tassi. Per banche e mercati obbligazionari, il tema principale resta la durata del contesto di tassi elevati.",
+    "summary": "Le banche centrali continuano a valutare con prudenza il percorso dei tassi e l'evoluzione dell'inflazione.",
+    "why": "Le decisioni delle banche centrali influenzano direttamente obbligazioni, azioni, mutui e costo del credito.",
     "url": "https://www.ecb.europa.eu"
   },
   "geopolitics": {
     "title": "Geopolitical tensions remain a key source of market uncertainty",
     "category": "Politics & Geopolitics",
     "source": "Reuters",
-    "summary": "Le tensioni geopolitiche continuano a influenzare energia, commercio globale e sentiment degli investitori. I mercati monitorano soprattutto gli eventi con impatto su petrolio, supply chain e sicurezza internazionale.",
+    "summary": "Le tensioni geopolitiche continuano a influenzare energia, commercio globale e sentiment degli investitori.",
+    "why": "Shock geopolitici possono avere effetti immediati su petrolio, supply chain e crescita economica.",
     "url": "https://www.reuters.com/world/"
   },
   "business": {
     "title": "Companies adapt strategy around AI, rates and supply chains",
     "category": "Business",
     "source": "Wall Street Journal",
-    "summary": "Le grandi aziende stanno adattando investimenti, M&A e strategie operative a un contesto dominato da AI, costo del capitale più alto e maggiore incertezza geopolitica.",
+    "summary": "Le grandi aziende stanno adattando investimenti, M&A e strategie operative a un contesto dominato da AI e tassi elevati.",
+    "why": "Le decisioni strategiche delle grandi imprese spesso anticipano i trend economici futuri.",
     "url": "https://www.wsj.com"
   },
   "deepRead": {
-    "title": "Why AI is becoming a macroeconomic story",
+    "title": "Why AI Is Becoming a Macroeconomic Story",
     "category": "Deep Read",
     "source": "The Economist",
-    "summary": "Il deep read di oggi aiuta a capire perché l’AI non è solo una storia tecnologica, ma anche un tema macro: investimenti, produttività, energia, inflazione e valutazioni di mercato sono sempre più collegati.",
+    "summary": "L'AI non è più soltanto una storia tecnologica ma un tema macroeconomico che coinvolge produttività, energia, investimenti e mercati finanziari.",
+    "why": "Capire le implicazioni macro dell'AI può aiutare a interpretare meglio i movimenti di mercati, aziende e banche centrali.",
     "url": "https://www.economist.com"
   }
 }
