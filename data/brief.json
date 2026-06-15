@@ -1,5 +1,5 @@
 {
-  "date": "14 June 2026",
+  "date": "15 June 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,431",
-      "detail": "+2.26%"
+      "value": "7,557",
+      "detail": "+2.19%"
     },
     {
       "name": "Nasdaq",
-      "value": "25,889",
-      "detail": "+2.86%"
+      "value": "26,630",
+      "detail": "+3.18%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1573",
-      "detail": "+0.32%"
+      "value": "1.1597",
+      "detail": "+0.18%"
     },
     {
       "name": "Oro",
-      "value": "$4,238.80",
-      "detail": "+0.56%"
+      "value": "$4,344.60",
+      "detail": "+2.50%"
     },
     {
       "name": "Brent",
-      "value": "$87.33",
-      "detail": "+0.00%"
+      "value": "$83.57",
+      "detail": "-4.31%"
     },
     {
       "name": "Bitcoin",
-      "value": "$64,465",
-      "detail": "+0.07%"
+      "value": "$66,656",
+      "detail": "+1.44%"
     },
     {
       "name": "VIX",
-      "value": "17.68",
-      "detail": "-9.05%"
+      "value": "16.12",
+      "detail": "-8.82%"
     }
   ],
   "ai": {
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zNEdpdEtfUWpjWXdXMHJXOFlzU3drUDltNUlzd0g3Q0tOcXhTSzZ3c3poeDBfNnBaRUFybWZXT1ltWUNSYUI1eW82ODhWVEJPRUo1Y25LWEpYXzZIRWp4MVBhZFBIVEkyTlU1bjBvYw?oc=5"
   },
   "geopolitics": {
-    "title": "Assenteismo, ai domiciliari 36 dipendenti comune Portici",
+    "title": "Leonardo sees EU defence spending boosting cash flow, pays dividend",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWJtb0hfY3RXU1lQUmluM0c3bzdYS0NMRDNBanlTWUtxcXczQWplUWx6bklBMmhYSEhtb0o2Wkh5TUNsdW5tc3BuZUd5elc1dVNmQ1lXWXIwVWpVY1RoakRESmRIZW5TbFRldFdPbk5LcEVXb3dDdG5tcVhuWEtWNmVUMldmaFJmY29NaGlhekFoYW5OQjZzSnU4V2JtZjMtZHlZQ19sZTAxQkd0?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGhWY0pIbzAtanVNWk03Y1N1bDF5RVN5c2M3YkhoR0tmM3h0YmVMWEFfVjlGaUc2MjNNNWhLUGdvS0JWS25keXRzZ3lDcUFlVnUwRXZrUmhiMkMtWHZJYkZCZXlXalBaeHlrWmk5c1hINkdIWUs1enA2S2RKbU53T2NTd1R5anItMmFiLTZUa2lOMDEzaW9nWlczR3pBUjJzQm9zcGU0aVFJaF9zUTdLSnBudFVXM3J0Q0U5Wm52UkZCd2syR25VOQ?oc=5"
   },
   "business": {
     "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
