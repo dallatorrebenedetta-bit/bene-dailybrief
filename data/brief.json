@@ -1,5 +1,5 @@
 {
-  "date": "16 June 2026",
+  "date": "17 June 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,527",
-      "detail": "+1.29%"
+      "value": "7,512",
+      "detail": "-0.56%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,505",
-      "detail": "+2.38%"
+      "value": "26,376",
+      "detail": "-1.15%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1614",
-      "detail": "+0.09%"
+      "value": "1.1594",
+      "detail": "+0.00%"
     },
     {
       "name": "Oro",
-      "value": "$4,360.80",
-      "detail": "+0.76%"
+      "value": "$4,380.60",
+      "detail": "+1.15%"
     },
     {
       "name": "Brent",
-      "value": "$79.23",
-      "detail": "-4.74%"
+      "value": "$79.53",
+      "detail": "+0.72%"
     },
     {
       "name": "Bitcoin",
-      "value": "$65,772",
-      "detail": "-0.78%"
+      "value": "$65,951",
+      "detail": "+0.53%"
     },
     {
       "name": "VIX",
-      "value": "15.86",
-      "detail": "-2.10%"
+      "value": "16.87",
+      "detail": "+2.80%"
     }
   ],
   "ai": {
@@ -68,20 +68,20 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "BCE: tassi aumentati in Europa dello 0,25%. Riviste al ribasso previsioni crescita, al rialzo quelle su inflazione - Criptovaluta.it",
+    "title": "Ricette giuste per Paesi sbagliati? Le politiche controvento di Fed e Bce - Il Sole 24 ORE",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zNEdpdEtfUWpjWXdXMHJXOFlzU3drUDltNUlzd0g3Q0tOcXhTSzZ3c3poeDBfNnBaRUFybWZXT1ltWUNSYUI1eW82ODhWVEJPRUo1Y25LWEpYXzZIRWp4MVBhZFBIVEkyTlU1bjBvYw?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjI4R21TN0lzZ1BvVWJ4S1U2WmR3aEtHaC1FZEdxMHJ1U2NWQ2VqRV9yelZlMW1yeHViZHVkbk81YUI3Z2lMRWVOZUY4YUlUdExRamlFdW56b3cwNTRGeDk5VU1PVUN1UHFMbnlPOEFRNjJCWTNQcXpwOHNRWHdXTEhKeGtjNG5nY3VEbHJqRTUtbnRxZHRCeVhPZVVCM2FTYkhHNk5xS0ZOUQ?oc=5"
   },
   "geopolitics": {
-    "title": "Leonardo sees EU defence spending boosting cash flow, pays dividend",
+    "title": "Assenteismo, ai domiciliari 36 dipendenti comune Portici",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGhWY0pIbzAtanVNWk03Y1N1bDF5RVN5c2M3YkhoR0tmM3h0YmVMWEFfVjlGaUc2MjNNNWhLUGdvS0JWS25keXRzZ3lDcUFlVnUwRXZrUmhiMkMtWHZJYkZCZXlXalBaeHlrWmk5c1hINkdIWUs1enA2S2RKbU53T2NTd1R5anItMmFiLTZUa2lOMDEzaW9nWlczR3pBUjJzQm9zcGU0aVFJaF9zUTdLSnBudFVXM3J0Q0U5Wm52UkZCd2syR25VOQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWJtb0hfY3RXU1lQUmluM0c3bzdYS0NMRDNBanlTWUtxcXczQWplUWx6bklBMmhYSEhtb0o2Wkh5TUNsdW5tc3BuZUd5elc1dVNmQ1lXWXIwVWpVY1RoakRESmRIZW5TbFRldFdPbk5LcEVXb3dDdG5tcVhuWEtWNmVUMldmaFJmY29NaGlhekFoYW5OQjZzSnU4V2JtZjMtZHlZQ19sZTAxQkd0?oc=5"
   },
   "business": {
     "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
