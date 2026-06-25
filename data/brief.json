@@ -1,5 +1,5 @@
 {
-  "date": "24 June 2026",
+  "date": "25 June 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,365",
-      "detail": "-1.80%"
+      "value": "7,358",
+      "detail": "-1.53%"
     },
     {
       "name": "Nasdaq",
-      "value": "25,587",
-      "detail": "-3.51%"
+      "value": "25,477",
+      "detail": "-2.64%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1334",
-      "detail": "-0.81%"
+      "value": "1.1360",
+      "detail": "-0.18%"
     },
     {
       "name": "Oro",
-      "value": "$4,048.70",
-      "detail": "-1.97%"
+      "value": "$3,998.70",
+      "detail": "+0.21%"
     },
     {
       "name": "Brent",
-      "value": "$74.63",
-      "detail": "-3.18%"
+      "value": "$73.54",
+      "detail": "-0.27%"
     },
     {
       "name": "Bitcoin",
-      "value": "$62,759",
-      "detail": "+0.15%"
+      "value": "$61,266",
+      "detail": "+0.44%"
     },
     {
       "name": "VIX",
-      "value": "18.77",
-      "detail": "-3.69%"
+      "value": "18.13",
+      "detail": "-2.68%"
     }
   ],
   "ai": {
@@ -68,7 +68,7 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING THINK economic and financial analysis | ING THINK",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
