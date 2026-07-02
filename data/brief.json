@@ -1,5 +1,5 @@
 {
-  "date": "01 July 2026",
+  "date": "02 July 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,499",
-      "detail": "+1.98%"
+      "value": "7,483",
+      "detail": "+0.58%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,214",
-      "detail": "+3.62%"
+      "value": "26,040",
+      "detail": "+0.85%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1403",
-      "detail": "-0.17%"
+      "value": "1.1418",
+      "detail": "+0.04%"
     },
     {
       "name": "Oro",
-      "value": "$3,991.20",
-      "detail": "-0.79%"
+      "value": "$4,078.80",
+      "detail": "+0.26%"
     },
     {
       "name": "Brent",
-      "value": "$72.28",
-      "detail": "-0.88%"
+      "value": "$70.85",
+      "detail": "-1.01%"
     },
     {
       "name": "Bitcoin",
-      "value": "$58,654",
-      "detail": "+0.16%"
+      "value": "$60,238",
+      "detail": "+0.39%"
     },
     {
       "name": "VIX",
-      "value": "16.98",
-      "detail": "+3.22%"
+      "value": "16.82",
+      "detail": "+1.39%"
     }
   ],
   "ai": {
