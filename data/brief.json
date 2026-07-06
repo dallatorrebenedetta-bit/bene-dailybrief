@@ -1,5 +1,5 @@
 {
-  "date": "05 July 2026",
+  "date": "06 July 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -35,28 +35,28 @@
     },
     {
       "name": "EUR/USD",
-      "value": "1.1440",
-      "detail": "+0.54%"
+      "value": "1.1421",
+      "detail": "-0.02%"
     },
     {
       "name": "Oro",
-      "value": "$4,187.30",
-      "detail": "+1.81%"
+      "value": "$4,161.20",
+      "detail": "+0.86%"
     },
     {
       "name": "Brent",
-      "value": "$72.13",
-      "detail": "+0.46%"
+      "value": "$71.78",
+      "detail": "-0.03%"
     },
     {
       "name": "Bitcoin",
-      "value": "$62,929",
-      "detail": "-0.25%"
+      "value": "$62,837",
+      "detail": "-1.12%"
     },
     {
       "name": "VIX",
-      "value": "15.81",
-      "detail": "-2.11%"
+      "value": "16.35",
+      "detail": "+3.42%"
     }
   ],
   "ai": {
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
   },
   "geopolitics": {
-    "title": "Leonardo sees EU defence spending boosting cash flow, pays dividend",
+    "title": "China targets ways to boost domestic demand for economic growth",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGhWY0pIbzAtanVNWk03Y1N1bDF5RVN5c2M3YkhoR0tmM3h0YmVMWEFfVjlGaUc2MjNNNWhLUGdvS0JWS25keXRzZ3lDcUFlVnUwRXZrUmhiMkMtWHZJYkZCZXlXalBaeHlrWmk5c1hINkdIWUs1enA2S2RKbU53T2NTd1R5anItMmFiLTZUa2lOMDEzaW9nWlczR3pBUjJzQm9zcGU0aVFJaF9zUTdLSnBudFVXM3J0Q0U5Wm52UkZCd2syR25VOQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVR6cDU1b2NJeWJsdHozOEQxT2EtTDhWWGhLc0pUWnlSbC04Q3FVV05renVRU2drT0w0WWI4QmtWOVAwRHZXY3RnYS02UTJwVF9LOUhaQVVOWnZaRTFvZ0wyX09HbFRVaHExWUE2aXdnYzB3RmJkZ21Bd0VNUE5OaHIzLWd1Z2VLNGxRRXdKcTAteF9kb0kyc1hGSFMwaFZhM25WbklmekJjeUItMTZwNA?oc=5"
   },
   "business": {
     "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
@@ -92,11 +92,11 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHR2Q2Z0R2R4OGhvT1NGN0NuZFREUHA1TkhKM21sSlF2ai1FWm9Del9Ob1VDa0U3S2lMZEs3U1I1ZVg0cXNOaWVYSFNfRGpiOFJFYTRjR21EeHBGb3BmcTRUaXUyUnZYekhWYk9VVjR6VXF2ak14N2x5NEdOV0VDQU9Xbk5OMlIxZWF6TnRYa2dRVzl3YXBDQmpDVXloRzZERTZnUmw0ZkN6czY4RlY5TFVFdzhGM3M?oc=5"
   },
   "deepRead": {
-    "title": "Addio, Dolce Vita",
+    "title": "The last thing Italy needs",
     "category": "Approfondimento",
     "source": "The Economist",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYZnZGeWFZZ1RMVG9OSUZ6YUE3OG12b3BnVmd0YzN3VTdUM0txSnFFSVVqU1N3UmRLQnVMdkpBRlRpNU1XZGFKUHl2RVU4TXlyYktCbVZLLW1ZbVVWNzhHZnlubHdjYUN2eE5lNDg1UklWWkoyR2ZV?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50b3VvQk9Yb2g2emJWSHB6eVUwdDdkUDJTTGY5OE1ySEo5aFZwZm1LMnRKMDFYTXJ1UGJBZkJ4YWxHLXh0aERZQVhCY1VXc3JGNzFmc21aRkM1eHZlOGJhYjAzNXQ5Y1NlUDVrS09Yd1g3akRSRWktV3hR?oc=5"
   }
 }
