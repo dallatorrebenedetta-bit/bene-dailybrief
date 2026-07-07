@@ -1,5 +1,5 @@
 {
-  "date": "06 July 2026",
+  "date": "07 July 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,483",
-      "detail": "-0.21%"
+      "value": "7,537",
+      "detail": "+0.72%"
     },
     {
       "name": "Nasdaq",
-      "value": "25,833",
-      "detail": "-1.45%"
+      "value": "26,121",
+      "detail": "+0.31%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1421",
-      "detail": "-0.02%"
-    },
-    {
-      "name": "Oro",
-      "value": "$4,161.20",
-      "detail": "+0.86%"
-    },
-    {
-      "name": "Brent",
-      "value": "$71.78",
+      "value": "1.1434",
       "detail": "-0.03%"
     },
     {
+      "name": "Oro",
+      "value": "$4,140.80",
+      "detail": "-0.34%"
+    },
+    {
+      "name": "Brent",
+      "value": "$72.82",
+      "detail": "+1.15%"
+    },
+    {
       "name": "Bitcoin",
-      "value": "$62,837",
-      "detail": "-1.12%"
+      "value": "$63,051",
+      "detail": "-1.47%"
     },
     {
       "name": "VIX",
-      "value": "16.35",
-      "detail": "+3.42%"
+      "value": "15.94",
+      "detail": "+2.38%"
     }
   ],
   "ai": {
@@ -68,12 +68,12 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING THINK economic and financial analysis | ING THINK",
+    "title": "L’aumento dei tassi della BCE potrebbe costringere la Fed ad agire - BeInCrypto",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fZVJPWVk2WERsQmJSUklHMmxMc2prX3NtU2YzWFNTWkQ2dHA2Smh6ZFRrWnlzUDRHWDBNbjM3c243ellSOVNMS2hPWXJqRUxKdU9VU0puZUdSQ1dlaGZ1anRIRERyRm4zckVfbk5xOHpvQQ?oc=5"
   },
   "geopolitics": {
     "title": "China targets ways to boost domestic demand for economic growth",
