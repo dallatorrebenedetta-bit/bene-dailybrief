@@ -1,5 +1,5 @@
 {
-  "date": "08 July 2026",
+  "date": "10 July 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,504",
-      "detail": "+0.28%"
+      "value": "7,544",
+      "detail": "+0.53%"
     },
     {
       "name": "Nasdaq",
-      "value": "25,819",
-      "detail": "-0.05%"
+      "value": "26,207",
+      "detail": "+1.50%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1426",
-      "detail": "-0.14%"
+      "value": "1.1440",
+      "detail": "+0.16%"
     },
     {
       "name": "Oro",
-      "value": "$4,127.90",
-      "detail": "-0.42%"
+      "value": "$4,114.40",
+      "detail": "-0.39%"
     },
     {
       "name": "Brent",
-      "value": "$76.35",
-      "detail": "+2.95%"
+      "value": "$75.49",
+      "detail": "-1.06%"
     },
     {
       "name": "Bitcoin",
-      "value": "$62,656",
-      "detail": "-1.01%"
+      "value": "$64,026",
+      "detail": "+1.32%"
     },
     {
       "name": "VIX",
-      "value": "16.13",
-      "detail": "+0.00%"
+      "value": "16.14",
+      "detail": "+1.89%"
     }
   ],
   "ai": {
@@ -68,20 +68,20 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING THINK economic and financial analysis | ING THINK",
+    "title": "Tempo di verbali: BCE e Fed tra inflazione e rialzo dei tassi - Ekonomia.it",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlBWZ0lPZjIzZmxiVWVRellCSTJDSm1ZR1NfaWtNOG11WloyRG45Q0Ftb1RnVE5qT1Q5WDQ2WGNBX3oyOEJ6VV9vQWVYcUlyX0t2SGk2S19hS3otaVdfR05tOUwyU05nQnEwUFdpMldpUDlKeGdPelc3MHB5ZkQ3Uzh2enpPdkpOQmFfRWZGb2J0aTd5NGdLVk92dU8?oc=5"
   },
   "geopolitics": {
-    "title": "China targets ways to boost domestic demand for economic growth",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVR6cDU1b2NJeWJsdHozOEQxT2EtTDhWWGhLc0pUWnlSbC04Q3FVV05renVRU2drT0w0WWI4QmtWOVAwRHZXY3RnYS02UTJwVF9LOUhaQVVOWnZaRTFvZ0wyX09HbFRVaHExWUE2aXdnYzB3RmJkZ21Bd0VNUE5OaHIzLWd1Z2VLNGxRRXdKcTAteF9kb0kyc1hGSFMwaFZhM25WbklmekJjeUItMTZwNA?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
     "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
