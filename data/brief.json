@@ -1,5 +1,5 @@
 {
-  "date": "12 July 2026",
+  "date": "13 July 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -35,28 +35,28 @@
     },
     {
       "name": "EUR/USD",
-      "value": "1.1419",
-      "detail": "-0.03%"
+      "value": "1.1438",
+      "detail": "+0.04%"
     },
     {
       "name": "Oro",
-      "value": "$4,113.70",
-      "detail": "+0.23%"
+      "value": "$4,074.20",
+      "detail": "-0.96%"
     },
     {
       "name": "Brent",
-      "value": "$76.01",
-      "detail": "+0.00%"
+      "value": "$78.73",
+      "detail": "+3.58%"
     },
     {
       "name": "Bitcoin",
-      "value": "$63,836",
-      "detail": "+0.05%"
+      "value": "$62,889",
+      "detail": "-1.36%"
     },
     {
       "name": "VIX",
-      "value": "15.03",
-      "detail": "-5.11%"
+      "value": "16.39",
+      "detail": "+9.05%"
     }
   ],
   "ai": {
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlBWZ0lPZjIzZmxiVWVRellCSTJDSm1ZR1NfaWtNOG11WloyRG45Q0Ftb1RnVE5qT1Q5WDQ2WGNBX3oyOEJ6VV9vQWVYcUlyX0t2SGk2S19hS3otaVdfR05tOUwyU05nQnEwUFdpMldpUDlKeGdPelc3MHB5ZkQ3Uzh2enpPdkpOQmFfRWZGb2J0aTd5NGdLVk92dU8?oc=5"
   },
   "geopolitics": {
-    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
+    "title": "Flash - Futures FTSE Mib in rialzo, supporto a 19.000 punti",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUlRLTWRGNGFndllaRkZ4VjRNcnc5WERkaGt5NVN4U1FSTi16TnVJWlhBc0RDV285cUxQMUYtMVZ2U1p2X18xQlNwQ3VNYmMtdGJ1dUp2WENVaWFKVExQLU9ZUl9yWEJ0OTBlakRqY2RNRjRMeklSMmE2Y3ptbktNbXRaMkVadFY4cW53cWRNMWg1Y2Q3WExVT3JhVV85b2F2ZnhMYnFUc2FQM0p5Nm5ucHh6Y0NGWUUyZ1lzTllR?oc=5"
   },
   "business": {
     "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
