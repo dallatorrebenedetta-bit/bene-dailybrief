@@ -1,5 +1,5 @@
 {
-  "date": "14 July 2026",
+  "date": "15 July 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,66 +14,66 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORkladlh5RERURjhNejFkMVF6eTFLTFdxTUQxRDBjcWNjUm81U1paUUFkMzZ2dlpMUkxTSUNfR2lIZElnaDdMa3RuaW9rZW1iUTBNMXJ5aFlfNmU4NzBRZzVMdzBWRFBiVFBnMi0wUHNvRUE1WDRxRkdDQW92bTRLYzhqTTNWSFY4TUxmUzEtZWpwT2YwRVlYcEZJaTFfNGhHczdHSlozX0RCSFRQdHNJbjJrcFRKVFJPakM4TFhLUjdTa0hMdEE?oc=5"
     },
     {
-      "title": "The environmental cost of AI",
+      "title": "The agony and the ecstasy of Lorenzo Musetti",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWEE5amNaY2R4RlFpclBZUklIc1FOZXhlaGYyVEw0cmd4Ny1SaV9iQ1ZuVk5lc1ZlVEtRTEl4QkZUdlNsWjJITGpfVGF0Mm5vWnYzazhiQ2wyRTlidV9NbUZBN2k3d21vX1Brb1VpUFQ?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,515",
-      "detail": "-0.38%"
+      "value": "7,544",
+      "detail": "-0.42%"
     },
     {
       "name": "Nasdaq",
-      "value": "25,873",
-      "detail": "-1.27%"
+      "value": "26,107",
+      "detail": "-0.66%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1388",
-      "detail": "-0.14%"
+      "value": "1.1431",
+      "detail": "+0.41%"
     },
     {
       "name": "Oro",
-      "value": "$4,030.20",
-      "detail": "+0.83%"
+      "value": "$4,037.70",
+      "detail": "-0.58%"
     },
     {
       "name": "Brent",
-      "value": "$85.52",
-      "detail": "+2.67%"
+      "value": "$85.57",
+      "detail": "+0.99%"
     },
     {
       "name": "Bitcoin",
-      "value": "$62,551",
-      "detail": "+0.50%"
+      "value": "$64,732",
+      "detail": "-0.34%"
     },
     {
       "name": "VIX",
-      "value": "17.16",
-      "detail": "+0.00%"
+      "value": "16.50",
+      "detail": "-3.85%"
     }
   ],
   "ai": {
-    "title": "The environmental cost of AI",
+    "title": "The agony and the ecstasy of Lorenzo Musetti",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWEE5amNaY2R4RlFpclBZUklIc1FOZXhlaGYyVEw0cmd4Ny1SaV9iQ1ZuVk5lc1ZlVEtRTEl4QkZUdlNsWjJITGpfVGF0Mm5vWnYzazhiQ2wyRTlidV9NbUZBN2k3d21vX1Brb1VpUFQ?oc=5"
   },
   "finance": {
-    "title": "Tempo di verbali: BCE e Fed tra inflazione e rialzo dei tassi - Ekonomia.it",
+    "title": "Warsh: la Fed USA deciderà sul rialzo dei tassi tra 4 settimane - Euronews.com",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlBWZ0lPZjIzZmxiVWVRellCSTJDSm1ZR1NfaWtNOG11WloyRG45Q0Ftb1RnVE5qT1Q5WDQ2WGNBX3oyOEJ6VV9vQWVYcUlyX0t2SGk2S19hS3otaVdfR05tOUwyU05nQnEwUFdpMldpUDlKeGdPelc3MHB5ZkQ3Uzh2enpPdkpOQmFfRWZGb2J0aTd5NGdLVk92dU8?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdEwzNnh4eHV5TE5YWHB5aTlFOGhST25QTGVvdzBXTS14STNUTUtlZ0I0ZlEwSHY3MzBLaTZ3Y0pQSGJQUHppaUhBMEZsM2U5R2J4NnBncG9xa1N5U0x0MTVKaVJGTGVLdW9MWW1QYmVPR25vWldZSnB3MV9UMHFvblM2Mm1NZTZpbXEwVTB4RmFGMEszdGhJYWNNQXdkM2tCczZKcXBwMmpWcGlTRDAzb2pUT1o?oc=5"
   },
   "geopolitics": {
     "title": "Flash - Futures FTSE Mib in rialzo, supporto a 19.000 punti",
