@@ -1,5 +1,5 @@
 {
-  "date": "15 July 2026",
+  "date": "16 July 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,544",
-      "detail": "-0.42%"
+      "value": "7,572",
+      "detail": "+0.76%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,107",
-      "detail": "-0.66%"
+      "value": "26,269",
+      "detail": "+1.53%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1431",
+      "value": "1.1472",
       "detail": "+0.41%"
     },
     {
       "name": "Oro",
-      "value": "$4,037.70",
-      "detail": "-0.58%"
+      "value": "$4,033.60",
+      "detail": "-0.26%"
     },
     {
       "name": "Brent",
-      "value": "$85.57",
-      "detail": "+0.99%"
+      "value": "$84.58",
+      "detail": "-0.44%"
     },
     {
       "name": "Bitcoin",
-      "value": "$64,732",
-      "detail": "-0.34%"
+      "value": "$64,572",
+      "detail": "-0.22%"
     },
     {
       "name": "VIX",
-      "value": "16.50",
-      "detail": "-3.85%"
+      "value": "15.67",
+      "detail": "+0.00%"
     }
   ],
   "ai": {
@@ -92,11 +92,11 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHR2Q2Z0R2R4OGhvT1NGN0NuZFREUHA1TkhKM21sSlF2ai1FWm9Del9Ob1VDa0U3S2lMZEs3U1I1ZVg0cXNOaWVYSFNfRGpiOFJFYTRjR21EeHBGb3BmcTRUaXUyUnZYekhWYk9VVjR6VXF2ak14N2x5NEdOV0VDQU9Xbk5OMlIxZWF6TnRYa2dRVzl3YXBDQmpDVXloRzZERTZnUmw0ZkN6czY4RlY5TFVFdzhGM3M?oc=5"
   },
   "deepRead": {
-    "title": "The last thing Italy needs",
+    "title": "Brexit has not caused much economic damage. Until now",
     "category": "Approfondimento",
     "source": "The Economist",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50b3VvQk9Yb2g2emJWSHB6eVUwdDdkUDJTTGY5OE1ySEo5aFZwZm1LMnRKMDFYTXJ1UGJBZkJ4YWxHLXh0aERZQVhCY1VXc3JGNzFmc21aRkM1eHZlOGJhYjAzNXQ5Y1NlUDVrS09Yd1g3akRSRWktV3hR?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdDVac1dzRVVsdGd4MFBoaVVWTVA5Y2VGNVhDLUI3VlV0QjE3b25RajlYLXMzYjdfekYzOXBJU2tadktFQXpFZUpSZzhOQW1vRC1yeHRScEx0WFhVbnNjUDFwWVNoeVprOGdxUUxsMVR6RDBkeDNRNjhwVDYwdkFfbUdZVW9ISkhIR29ldkcwbjVQbXNaN1FmMnZuejkyZw?oc=5"
   }
 }
