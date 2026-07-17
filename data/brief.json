@@ -1,5 +1,5 @@
 {
-  "date": "16 July 2026",
+  "date": "17 July 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,37 +25,37 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,572",
-      "detail": "+0.76%"
+      "value": "7,534",
+      "detail": "-0.13%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,269",
-      "detail": "+1.53%"
+      "value": "25,882",
+      "detail": "-0.86%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1472",
-      "detail": "+0.41%"
+      "value": "1.1451",
+      "detail": "-0.17%"
     },
     {
       "name": "Oro",
-      "value": "$4,033.60",
-      "detail": "-0.26%"
+      "value": "$4,004.60",
+      "detail": "+0.48%"
     },
     {
       "name": "Brent",
-      "value": "$84.58",
-      "detail": "-0.44%"
+      "value": "$84.43",
+      "detail": "+0.24%"
     },
     {
       "name": "Bitcoin",
-      "value": "$64,572",
-      "detail": "-0.22%"
+      "value": "$62,809",
+      "detail": "-1.54%"
     },
     {
       "name": "VIX",
-      "value": "15.67",
+      "value": "16.73",
       "detail": "+0.00%"
     }
   ],
@@ -68,12 +68,12 @@
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWEE5amNaY2R4RlFpclBZUklIc1FOZXhlaGYyVEw0cmd4Ny1SaV9iQ1ZuVk5lc1ZlVEtRTEl4QkZUdlNsWjJITGpfVGF0Mm5vWnYzazhiQ2wyRTlidV9NbUZBN2k3d21vX1Brb1VpUFQ?oc=5"
   },
   "finance": {
-    "title": "Warsh: la Fed USA deciderà sul rialzo dei tassi tra 4 settimane - Euronews.com",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdEwzNnh4eHV5TE5YWHB5aTlFOGhST25QTGVvdzBXTS14STNUTUtlZ0I0ZlEwSHY3MzBLaTZ3Y0pQSGJQUHppaUhBMEZsM2U5R2J4NnBncG9xa1N5U0x0MTVKaVJGTGVLdW9MWW1QYmVPR25vWldZSnB3MV9UMHFvblM2Mm1NZTZpbXEwVTB4RmFGMEszdGhJYWNNQXdkM2tCczZKcXBwMmpWcGlTRDAzb2pUT1o?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
   },
   "geopolitics": {
     "title": "Flash - Futures FTSE Mib in rialzo, supporto a 19.000 punti",
