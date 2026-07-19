@@ -1,5 +1,5 @@
 {
-  "date": "18 July 2026",
+  "date": "19 July 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -41,17 +41,17 @@
     {
       "name": "Oro",
       "value": "$4,018.80",
-      "detail": "+0.83%"
+      "detail": "+0.15%"
     },
     {
       "name": "Brent",
       "value": "$88.10",
-      "detail": "+4.59%"
+      "detail": "+0.00%"
     },
     {
       "name": "Bitcoin",
-      "value": "$63,939",
-      "detail": "+0.06%"
+      "value": "$64,671",
+      "detail": "-0.19%"
     },
     {
       "name": "VIX",
@@ -68,12 +68,12 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "Warsh: la Fed USA deciderà sul rialzo dei tassi tra 4 settimane - Euronews.com",
+    "title": "Tempo di verbali: BCE e Fed tra inflazione e rialzo dei tassi - Ekonomia.it",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdEwzNnh4eHV5TE5YWHB5aTlFOGhST25QTGVvdzBXTS14STNUTUtlZ0I0ZlEwSHY3MzBLaTZ3Y0pQSGJQUHppaUhBMEZsM2U5R2J4NnBncG9xa1N5U0x0MTVKaVJGTGVLdW9MWW1QYmVPR25vWldZSnB3MV9UMHFvblM2Mm1NZTZpbXEwVTB4RmFGMEszdGhJYWNNQXdkM2tCczZKcXBwMmpWcGlTRDAzb2pUT1o?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlBWZ0lPZjIzZmxiVWVRellCSTJDSm1ZR1NfaWtNOG11WloyRG45Q0Ftb1RnVE5qT1Q5WDQ2WGNBX3oyOEJ6VV9vQWVYcUlyX0t2SGk2S19hS3otaVdfR05tOUwyU05nQnEwUFdpMldpUDlKeGdPelc3MHB5ZkQ3Uzh2enpPdkpOQmFfRWZGb2J0aTd5NGdLVk92dU8?oc=5"
   },
   "geopolitics": {
     "title": "Antitrust avvia istruttoria su Borsa italiana e Blt market services",
