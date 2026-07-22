@@ -1,5 +1,5 @@
 {
-  "date": "21 July 2026",
+  "date": "22 July 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,37 +25,37 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,443",
-      "detail": "-1.20%"
+      "value": "7,509",
+      "detail": "+0.69%"
     },
     {
       "name": "Nasdaq",
-      "value": "25,508",
-      "detail": "-1.44%"
+      "value": "25,837",
+      "detail": "+1.24%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1429",
-      "detail": "+0.01%"
-    },
-    {
-      "name": "Oro",
-      "value": "$4,077.30",
-      "detail": "+1.67%"
-    },
-    {
-      "name": "Brent",
-      "value": "$89.20",
+      "value": "1.1416",
       "detail": "-0.02%"
     },
     {
+      "name": "Oro",
+      "value": "$4,123.30",
+      "detail": "+1.28%"
+    },
+    {
+      "name": "Brent",
+      "value": "$93.34",
+      "detail": "+2.56%"
+    },
+    {
       "name": "Bitcoin",
-      "value": "$65,887",
-      "detail": "+1.01%"
+      "value": "$65,860",
+      "detail": "-0.97%"
     },
     {
       "name": "VIX",
-      "value": "18.65",
+      "value": "17.05",
       "detail": "+0.00%"
     }
   ],
@@ -68,20 +68,20 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "Tempo di verbali: BCE e Fed tra inflazione e rialzo dei tassi - Ekonomia.it",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlBWZ0lPZjIzZmxiVWVRellCSTJDSm1ZR1NfaWtNOG11WloyRG45Q0Ftb1RnVE5qT1Q5WDQ2WGNBX3oyOEJ6VV9vQWVYcUlyX0t2SGk2S19hS3otaVdfR05tOUwyU05nQnEwUFdpMldpUDlKeGdPelc3MHB5ZkQ3Uzh2enpPdkpOQmFfRWZGb2J0aTd5NGdLVk92dU8?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
   },
   "geopolitics": {
-    "title": "Antitrust avvia istruttoria su Borsa italiana e Blt market services",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNWlNZzVmSkxKcHJZclVuZ1R6bEdHaFZpLTlfcUoxcWNvc1lwWE56MnJlN21ibHUtQlFya1hFUTc3ZDE5dTVUWTRSUU05Z2NReEhoR3Y0RDZpVU5XaFlndDlZazM5c012d2ZLeGNfb2NIbG82SUotdUozZDY0UG5ubkcxMG5TX0VYeU9yRmd6R2dTdkNPc1lodzZyYXJQVWdCclVlSmE0T1QxZ1M0cFFKUHM4OFhDd1pOMHl3aVNuZGp1YjFpMjJMRzRaQkllZw?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
     "title": "Pay or Burn: An Italian Mafia’s Message to Businesses",
