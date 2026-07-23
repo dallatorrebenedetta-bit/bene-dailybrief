@@ -1,5 +1,5 @@
 {
-  "date": "22 July 2026",
+  "date": "23 July 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,37 +25,37 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,509",
-      "detail": "+0.69%"
+      "value": "7,499",
+      "detail": "+0.75%"
     },
     {
       "name": "Nasdaq",
-      "value": "25,837",
-      "detail": "+1.24%"
+      "value": "25,691",
+      "detail": "+0.72%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1416",
-      "detail": "-0.02%"
+      "value": "1.1429",
+      "detail": "+0.22%"
     },
     {
       "name": "Oro",
-      "value": "$4,123.30",
-      "detail": "+1.28%"
+      "value": "$4,113.30",
+      "detail": "-0.81%"
     },
     {
       "name": "Brent",
-      "value": "$93.34",
-      "detail": "+2.56%"
+      "value": "$97.45",
+      "detail": "+3.59%"
     },
     {
       "name": "Bitcoin",
-      "value": "$65,860",
-      "detail": "-0.97%"
+      "value": "$65,381",
+      "detail": "-1.09%"
     },
     {
       "name": "VIX",
-      "value": "17.05",
+      "value": "16.64",
       "detail": "+0.00%"
     }
   ],
@@ -68,12 +68,12 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
+    "title": "BCE e Fed alla prova dei tassi, cosa aspettarsi dalle riunioni di luglio - Wall Street Italia",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGdHNlFzb19fSjByazVwZHFqQzFkS3ZPMjIxWmV4YnoxbkEtZGV6VHNtc1l5Unh4TGFCLXpnanhqY0lTWTV0eUd1ZjV4eUNodmVfN0ZxdGh5anFwMHFoZzMxLTdOYmVpZFhJdUlyb0YzbTE5a1dCSkVXV2ZCbFg0eC1RckJlUEtSZ2x0bDdybXptMHdlblAwb1NsNzZYMmYxUlQyQnpIS1A?oc=5"
   },
   "geopolitics": {
     "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
@@ -84,12 +84,12 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
-    "title": "Pay or Burn: An Italian Mafia’s Message to Businesses",
+    "title": "Eataly Agrees to Deal to Sell Majority Stake",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3NXcUtSdENsQ0RtLXhSVC1VNnBPa281TUhnWFNobkY5c3A3V3BOSTFlNUtnNkR2OUZTY05xQVZzQ1ZVZkRXd2lxWE83cWg2LTJUSFRhRGpjbGVMRHdkSkdDNmd3UGZCYUlhUXByck80d2NwZ3d3S2M0eG5GMlZQV2MtS0lmeG5iSXZKTHE1bWcyR1BlM2JxVER3d0o?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3hjS1AzNDRuRkg4ZDdBcGtCQWJaMDg0b25aWnMyVTQ2eWtYRTJpUDQ4WHNTbFRTYUg1Q2s2T0hjRWNLMVItU3RDYUc1U0tVbGYycV9iRmpIRFQtN3NxRTRMUDB1aG1zNkFZd3FQTzVuLXBIYWp4b1hNR3lfMEhKVkFBS21YYU0?oc=5"
   },
   "deepRead": {
     "title": "Brexit has not caused much economic damage. Until now",
