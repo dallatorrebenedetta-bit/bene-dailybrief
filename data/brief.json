@@ -1,5 +1,5 @@
 {
-  "date": "23 July 2026",
+  "date": "24 July 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,37 +25,37 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,499",
-      "detail": "+0.75%"
+      "value": "7,408",
+      "detail": "-1.34%"
     },
     {
       "name": "Nasdaq",
-      "value": "25,691",
-      "detail": "+0.72%"
+      "value": "25,138",
+      "detail": "-2.71%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1429",
-      "detail": "+0.22%"
+      "value": "1.1400",
+      "detail": "-0.11%"
     },
     {
       "name": "Oro",
-      "value": "$4,113.30",
-      "detail": "-0.81%"
+      "value": "$4,047.50",
+      "detail": "+0.02%"
     },
     {
       "name": "Brent",
-      "value": "$97.45",
-      "detail": "+3.59%"
+      "value": "$98.88",
+      "detail": "-1.80%"
     },
     {
       "name": "Bitcoin",
-      "value": "$65,381",
-      "detail": "-1.09%"
+      "value": "$65,607",
+      "detail": "+0.86%"
     },
     {
       "name": "VIX",
-      "value": "16.64",
+      "value": "18.70",
       "detail": "+0.00%"
     }
   ],
@@ -68,12 +68,12 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "BCE e Fed alla prova dei tassi, cosa aspettarsi dalle riunioni di luglio - Wall Street Italia",
+    "title": "Warsh: la Fed USA deciderà sul rialzo dei tassi tra 4 settimane - Euronews.com",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGdHNlFzb19fSjByazVwZHFqQzFkS3ZPMjIxWmV4YnoxbkEtZGV6VHNtc1l5Unh4TGFCLXpnanhqY0lTWTV0eUd1ZjV4eUNodmVfN0ZxdGh5anFwMHFoZzMxLTdOYmVpZFhJdUlyb0YzbTE5a1dCSkVXV2ZCbFg0eC1RckJlUEtSZ2x0bDdybXptMHdlblAwb1NsNzZYMmYxUlQyQnpIS1A?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdEwzNnh4eHV5TE5YWHB5aTlFOGhST25QTGVvdzBXTS14STNUTUtlZ0I0ZlEwSHY3MzBLaTZ3Y0pQSGJQUHppaUhBMEZsM2U5R2J4NnBncG9xa1N5U0x0MTVKaVJGTGVLdW9MWW1QYmVPR25vWldZSnB3MV9UMHFvblM2Mm1NZTZpbXEwVTB4RmFGMEszdGhJYWNNQXdkM2tCczZKcXBwMmpWcGlTRDAzb2pUT1o?oc=5"
   },
   "geopolitics": {
     "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
