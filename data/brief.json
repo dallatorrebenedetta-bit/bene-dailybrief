@@ -1,5 +1,5 @@
 {
-  "date": "25 July 2026",
+  "date": "26 July 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -41,17 +41,17 @@
     {
       "name": "Oro",
       "value": "$4,070.80",
-      "detail": "+0.60%"
+      "detail": "+0.08%"
     },
     {
       "name": "Brent",
       "value": "$96.78",
-      "detail": "-3.88%"
+      "detail": "+0.00%"
     },
     {
       "name": "Bitcoin",
-      "value": "$63,948",
-      "detail": "-0.23%"
+      "value": "$64,308",
+      "detail": "-0.01%"
     },
     {
       "name": "VIX",
@@ -68,12 +68,12 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "Tempo di verbali: BCE e Fed tra inflazione e rialzo dei tassi - Ekonomia.it",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlBWZ0lPZjIzZmxiVWVRellCSTJDSm1ZR1NfaWtNOG11WloyRG45Q0Ftb1RnVE5qT1Q5WDQ2WGNBX3oyOEJ6VV9vQWVYcUlyX0t2SGk2S19hS3otaVdfR05tOUwyU05nQnEwUFdpMldpUDlKeGdPelc3MHB5ZkQ3Uzh2enpPdkpOQmFfRWZGb2J0aTd5NGdLVk92dU8?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
   },
   "geopolitics": {
     "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
