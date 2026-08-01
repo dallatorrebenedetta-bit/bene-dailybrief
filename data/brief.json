@@ -1,5 +1,5 @@
 {
-  "date": "31 July 2026",
+  "date": "01 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,438",
-      "detail": "+0.12%"
+      "value": "7,490",
+      "detail": "+2.37%"
     },
     {
       "name": "Nasdaq",
-      "value": "25,122",
-      "detail": "+0.99%"
+      "value": "25,374",
+      "detail": "+3.81%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1522",
-      "detail": "+0.48%"
+      "value": "1.1527",
+      "detail": "+0.52%"
     },
     {
       "name": "Oro",
-      "value": "$4,128.10",
-      "detail": "+0.68%"
+      "value": "$4,107.00",
+      "detail": "+0.17%"
     },
     {
       "name": "Brent",
-      "value": "$88.08",
-      "detail": "-1.07%"
+      "value": "$90.12",
+      "detail": "+1.22%"
     },
     {
       "name": "Bitcoin",
-      "value": "$63,847",
-      "detail": "-1.36%"
+      "value": "$63,019",
+      "detail": "+0.33%"
     },
     {
       "name": "VIX",
-      "value": "16.84",
-      "detail": "-1.46%"
+      "value": "15.99",
+      "detail": "-6.44%"
     }
   ],
   "ai": {
@@ -84,7 +84,7 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
-    "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
+    "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business - wsj.com",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
