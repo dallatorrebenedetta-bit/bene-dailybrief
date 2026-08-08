@@ -1,5 +1,5 @@
 {
-  "date": "07 August 2026",
+  "date": "08 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,710",
-      "detail": "-0.34%"
+      "value": "7,758",
+      "detail": "+0.44%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,348",
-      "detail": "-0.89%"
+      "value": "26,691",
+      "detail": "+1.24%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1525",
-      "detail": "-0.28%"
+      "value": "1.1562",
+      "detail": "+0.04%"
     },
     {
       "name": "Oro",
-      "value": "$4,334.20",
-      "detail": "+2.17%"
+      "value": "$4,399.70",
+      "detail": "+3.72%"
     },
     {
       "name": "Brent",
-      "value": "$83.58",
-      "detail": "+1.32%"
+      "value": "$83.55",
+      "detail": "+1.29%"
     },
     {
       "name": "Bitcoin",
-      "value": "$64,271",
-      "detail": "+0.02%"
+      "value": "$64,978",
+      "detail": "+0.14%"
     },
     {
       "name": "VIX",
-      "value": "15.15",
-      "detail": "-4.17%"
+      "value": "14.90",
+      "detail": "-1.65%"
     }
   ],
   "ai": {
