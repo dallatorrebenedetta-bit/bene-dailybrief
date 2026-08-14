@@ -1,5 +1,5 @@
 {
-  "date": "13 August 2026",
+  "date": "14 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,748",
-      "detail": "-0.06%"
+      "value": "7,799",
+      "detail": "+0.92%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,588",
-      "detail": "-0.06%"
+      "value": "26,803",
+      "detail": "+1.35%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1525",
-      "detail": "-0.16%"
+      "value": "1.1547",
+      "detail": "+0.15%"
     },
     {
       "name": "Oro",
-      "value": "$4,439.50",
-      "detail": "+0.69%"
+      "value": "$4,385.50",
+      "detail": "+0.50%"
     },
     {
       "name": "Brent",
-      "value": "$88.90",
-      "detail": "-0.09%"
+      "value": "$87.68",
+      "detail": "+0.70%"
     },
     {
       "name": "Bitcoin",
-      "value": "$63,757",
-      "detail": "+0.55%"
+      "value": "$63,258",
+      "detail": "-0.25%"
     },
     {
       "name": "VIX",
-      "value": "14.55",
-      "detail": "-4.78%"
+      "value": "14.63",
+      "detail": "+0.55%"
     }
   ],
   "ai": {
@@ -68,7 +68,7 @@
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11bm5NUXVmZUotWEhNZDBPbEJKeG5JWHRyWXJXVENQeTc5ZVBfemVlNExEN3JzTnlRRXo1eEVZZjNwMXY3R3JkbnkwQmdfM3oxdlVPeWJBcHdoZjZtcVAzZE01OWVnbmlWZjRVVUxFYlo?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING THINK economic and financial analysis | ING THINK",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
