@@ -1,5 +1,5 @@
 {
-  "date": "14 August 2026",
+  "date": "15 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,58 +14,58 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "Sorry, but Spanish olive oil is far superior to Italian",
+      "title": "The environmental cost of AI",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11bm5NUXVmZUotWEhNZDBPbEJKeG5JWHRyWXJXVENQeTc5ZVBfemVlNExEN3JzTnlRRXo1eEVZZjNwMXY3R3JkbnkwQmdfM3oxdlVPeWJBcHdoZjZtcVAzZE01OWVnbmlWZjRVVUxFYlo?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,799",
-      "detail": "+0.92%"
+      "value": "7,786",
+      "detail": "+0.48%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,803",
-      "detail": "+1.35%"
+      "value": "26,729",
+      "detail": "+0.53%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1547",
-      "detail": "+0.15%"
+      "value": "1.1573",
+      "detail": "+0.37%"
     },
     {
       "name": "Oro",
-      "value": "$4,385.50",
-      "detail": "+0.50%"
+      "value": "$4,437.30",
+      "detail": "+1.69%"
     },
     {
       "name": "Brent",
-      "value": "$87.68",
-      "detail": "+0.70%"
+      "value": "$88.52",
+      "detail": "+1.67%"
     },
     {
       "name": "Bitcoin",
-      "value": "$63,258",
-      "detail": "-0.25%"
+      "value": "$63,092",
+      "detail": "+0.18%"
     },
     {
       "name": "VIX",
-      "value": "14.63",
-      "detail": "+0.55%"
+      "value": "14.25",
+      "detail": "-2.60%"
     }
   ],
   "ai": {
-    "title": "Sorry, but Spanish olive oil is far superior to Italian",
+    "title": "The environmental cost of AI",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11bm5NUXVmZUotWEhNZDBPbEJKeG5JWHRyWXJXVENQeTc5ZVBfemVlNExEN3JzTnlRRXo1eEVZZjNwMXY3R3JkbnkwQmdfM3oxdlVPeWJBcHdoZjZtcVAzZE01OWVnbmlWZjRVVUxFYlo?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
     "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
@@ -84,7 +84,7 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
-    "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
+    "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business - wsj.com",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
