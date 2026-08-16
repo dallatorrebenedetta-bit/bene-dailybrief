@@ -1,5 +1,5 @@
 {
-  "date": "15 August 2026",
+  "date": "16 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -41,17 +41,17 @@
     {
       "name": "Oro",
       "value": "$4,437.30",
-      "detail": "+1.69%"
+      "detail": "+1.30%"
     },
     {
       "name": "Brent",
       "value": "$88.52",
-      "detail": "+1.67%"
+      "detail": "+0.00%"
     },
     {
       "name": "Bitcoin",
-      "value": "$63,092",
-      "detail": "+0.18%"
+      "value": "$62,999",
+      "detail": "-0.04%"
     },
     {
       "name": "VIX",
@@ -84,7 +84,7 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
-    "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business - wsj.com",
+    "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
