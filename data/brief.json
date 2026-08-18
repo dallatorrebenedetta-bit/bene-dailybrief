@@ -1,5 +1,5 @@
 {
-  "date": "17 August 2026",
+  "date": "18 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,7 +14,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "The environmental cost of AI",
+      "title": "The environmental cost of AI - ft.com",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -25,42 +25,42 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,786",
-      "detail": "+0.48%"
+      "value": "7,745",
+      "detail": "-0.69%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,729",
-      "detail": "+0.53%"
+      "value": "26,645",
+      "detail": "-0.59%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1590",
-      "detail": "+0.48%"
+      "value": "1.1574",
+      "detail": "+0.00%"
     },
     {
       "name": "Oro",
-      "value": "$4,446.60",
-      "detail": "+0.21%"
+      "value": "$4,447.90",
+      "detail": "+0.68%"
     },
     {
       "name": "Brent",
-      "value": "$88.59",
-      "detail": "+0.08%"
+      "value": "$91.50",
+      "detail": "+0.69%"
     },
     {
       "name": "Bitcoin",
-      "value": "$63,466",
-      "detail": "+1.01%"
+      "value": "$64,184",
+      "detail": "-0.47%"
     },
     {
       "name": "VIX",
-      "value": "14.25",
-      "detail": "-2.60%"
+      "value": "15.19",
+      "detail": "+6.60%"
     }
   ],
   "ai": {
-    "title": "The environmental cost of AI",
+    "title": "The environmental cost of AI - ft.com",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -68,7 +68,7 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING THINK economic and financial analysis | ING THINK",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
