@@ -1,5 +1,5 @@
 {
-  "date": "19 August 2026",
+  "date": "20 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,692",
-      "detail": "-1.21%"
+      "value": "7,708",
+      "detail": "-0.48%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,290",
-      "detail": "-1.64%"
+      "value": "26,331",
+      "detail": "-1.18%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1590",
-      "detail": "+0.06%"
+      "value": "1.1678",
+      "detail": "+0.85%"
     },
     {
       "name": "Oro",
-      "value": "$4,393.60",
-      "detail": "+0.63%"
+      "value": "$4,547.00",
+      "detail": "+1.28%"
     },
     {
       "name": "Brent",
-      "value": "$91.55",
-      "detail": "+0.58%"
+      "value": "$91.81",
+      "detail": "+0.21%"
     },
     {
       "name": "Bitcoin",
-      "value": "$64,295",
-      "detail": "-0.60%"
+      "value": "$69,523",
+      "detail": "+0.34%"
     },
     {
       "name": "VIX",
-      "value": "15.84",
-      "detail": "+4.28%"
+      "value": "14.89",
+      "detail": "-6.00%"
     }
   ],
   "ai": {
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
   },
   "geopolitics": {
-    "title": "Italy raises corporate tax on energy companies to fund bill cuts",
+    "title": "Banche, Renzi: Italia non è epicentro crisi ma devono trasformarsi",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT185bkp4VGNMWU16aTJ0OTU4SENkd2VIV2pPZmFJS2RXdklOSlFPbXVRX2lQelpqRE54eXZoZm1JNnVkMWFMZnlqN001YVhweDdyMHhkRWFESmdnTHpGUkpkUTJPMjFOektVUjZDdzFvZkcyQXF4RUY4T2RvNjJfOEctYTNrRTRoaWxYOFVnTGtYUG1lbTVZSEhLWGU0bk5UOUd2bEZn?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOWjlyR1FsV0tRRUJiaUV2a2s1dko3VEJXelNQNER1ZWFvbXIzTDk5S3JpUUJ5X2FYNUt5ZnRxVHdYaEpxQ052Nkk0QkcxUlBmb1dicTVxTzBuTWxvaFJ5UXNJMEVmRVRacVBsYjhnTm41TjA?oc=5"
   },
   "business": {
     "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
