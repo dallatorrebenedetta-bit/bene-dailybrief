@@ -1,5 +1,5 @@
 {
-  "date": "20 August 2026",
+  "date": "21 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,708",
-      "detail": "-0.48%"
+      "value": "7,641",
+      "detail": "-0.66%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,331",
-      "detail": "-1.18%"
+      "value": "26,067",
+      "detail": "-0.85%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1678",
-      "detail": "+0.85%"
+      "value": "1.1696",
+      "detail": "+0.19%"
     },
     {
       "name": "Oro",
-      "value": "$4,547.00",
-      "detail": "+1.28%"
+      "value": "$4,592.30",
+      "detail": "+1.68%"
     },
     {
       "name": "Brent",
-      "value": "$91.81",
-      "detail": "+0.21%"
+      "value": "$93.18",
+      "detail": "-0.64%"
     },
     {
       "name": "Bitcoin",
-      "value": "$69,523",
-      "detail": "+0.34%"
+      "value": "$75,280",
+      "detail": "+3.10%"
     },
     {
       "name": "VIX",
-      "value": "14.89",
-      "detail": "-6.00%"
+      "value": "16.01",
+      "detail": "+7.52%"
     }
   ],
   "ai": {
@@ -68,7 +68,7 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING THINK economic and financial analysis | ING THINK",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -92,11 +92,11 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHR2Q2Z0R2R4OGhvT1NGN0NuZFREUHA1TkhKM21sSlF2ai1FWm9Del9Ob1VDa0U3S2lMZEs3U1I1ZVg0cXNOaWVYSFNfRGpiOFJFYTRjR21EeHBGb3BmcTRUaXUyUnZYekhWYk9VVjR6VXF2ak14N2x5NEdOV0VDQU9Xbk5OMlIxZWF6TnRYa2dRVzl3YXBDQmpDVXloRzZERTZnUmw0ZkN6czY4RlY5TFVFdzhGM3M?oc=5"
   },
   "deepRead": {
-    "title": "Italian bosses want Giorgia Meloni to hurry up with reform",
+    "title": "Time for a double dip?",
     "category": "Approfondimento",
     "source": "The Economist",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWRZVTdOOTFIUzdrWFJSRlI4WE1lRzFpWERFb3AxMG1FTzRuNDJfZ1hNakFCV0FGSDgxQU5xNHlfdEh4dlNobjBYa0tzNmFzU2tjajlXb0VJWFBoMGw2TXNJNkhGNi0zWDdueXNjOVhfem5QZVd4RzBpajBvWHNzM2hVTlgxN3lqUnZydTl1VWZTdktCLUxpcldrb254V1pEWkFqbXNrRQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRkNLbTg4RzlWcFM1ZHpleUdxeXFiNzVuU2FBN3A0cDRqdER3RmIxVHVWNmtjYTZtdHFYTl93eV9Ra2xFVWNIalM1clVWRFlReW5ObWJiZjRraDhGTEpB?oc=5"
   }
 }
