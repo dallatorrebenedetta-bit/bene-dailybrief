@@ -1,5 +1,5 @@
 {
-  "date": "21 August 2026",
+  "date": "22 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,641",
-      "detail": "-0.66%"
+      "value": "7,674",
+      "detail": "-0.44%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,067",
-      "detail": "-0.85%"
+      "value": "26,180",
+      "detail": "-0.57%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1696",
-      "detail": "+0.19%"
+      "value": "1.1678",
+      "detail": "+0.03%"
     },
     {
       "name": "Oro",
-      "value": "$4,592.30",
-      "detail": "+1.68%"
+      "value": "$4,680.60",
+      "detail": "+3.64%"
     },
     {
       "name": "Brent",
-      "value": "$93.18",
-      "detail": "-0.64%"
+      "value": "$94.39",
+      "detail": "+0.65%"
     },
     {
       "name": "Bitcoin",
-      "value": "$75,280",
-      "detail": "+3.10%"
+      "value": "$77,261",
+      "detail": "-1.36%"
     },
     {
       "name": "VIX",
-      "value": "16.01",
-      "detail": "+7.52%"
+      "value": "15.13",
+      "detail": "-5.50%"
     }
   ],
   "ai": {
@@ -68,7 +68,7 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING THINK economic and financial analysis | ING THINK",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
   },
   "geopolitics": {
-    "title": "Banche, Renzi: Italia non è epicentro crisi ma devono trasformarsi",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOWjlyR1FsV0tRRUJiaUV2a2s1dko3VEJXelNQNER1ZWFvbXIzTDk5S3JpUUJ5X2FYNUt5ZnRxVHdYaEpxQ052Nkk0QkcxUlBmb1dicTVxTzBuTWxvaFJ5UXNJMEVmRVRacVBsYjhnTm41TjA?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
     "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
