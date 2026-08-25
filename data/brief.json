@@ -1,5 +1,5 @@
 {
-  "date": "24 August 2026",
+  "date": "25 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,674",
-      "detail": "-0.44%"
+      "value": "7,653",
+      "detail": "+0.15%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,180",
-      "detail": "-0.57%"
+      "value": "25,980",
+      "detail": "-0.33%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1682",
-      "detail": "-0.05%"
+      "value": "1.1658",
+      "detail": "-0.21%"
     },
     {
       "name": "Oro",
-      "value": "$4,697.40",
-      "detail": "+0.36%"
+      "value": "$4,693.90",
+      "detail": "+1.14%"
     },
     {
       "name": "Brent",
-      "value": "$93.08",
-      "detail": "-1.39%"
+      "value": "$92.12",
+      "detail": "-0.05%"
     },
     {
       "name": "Bitcoin",
-      "value": "$76,994",
-      "detail": "-0.94%"
+      "value": "$80,509",
+      "detail": "+1.93%"
     },
     {
       "name": "VIX",
-      "value": "15.13",
-      "detail": "-5.50%"
+      "value": "15.85",
+      "detail": "+4.76%"
     }
   ],
   "ai": {
@@ -68,12 +68,12 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING THINK economic and financial analysis | ING THINK",
+    "title": "Bce, tassi a fine corsa. Per la Fed il test indipendenza. Banchieri allo stress test di credibilità - la Repubblica",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcUl1b2htNDR2Y2k0aUZ0V2VDbXVUbzA4N0xsNEpWNnJLdDhVWWRzYnJpMC1lanhoRm1MU1FlaTlTeXluOVFrQXpLOU1uQ0Zja1YzM1FXeXZBNFdOZXF1NEZHZ1RGU0FMTnhEZ0VXSEtTZkt6cXNUMTEwTTcwREdnSmxWNXdkTTdfcnI5ZXlMdm0xR2ZlX3FTa1M4bXBSME9tVGxJOHo0QU51aXY1Z0kzbmlMNXdRNE5hS2duUTFKTWNnaEtrWTNtT0hOMVNnVWJfam56Z0czeU1leDVFMnFLQjd0Mmk1OU1Ea1E5YnFsRQ?oc=5"
   },
   "geopolitics": {
     "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
@@ -84,12 +84,12 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
-    "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
+    "title": "Why a Grand Tour of Italy Should Include a Stop in Genoa",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHR2Q2Z0R2R4OGhvT1NGN0NuZFREUHA1TkhKM21sSlF2ai1FWm9Del9Ob1VDa0U3S2lMZEs3U1I1ZVg0cXNOaWVYSFNfRGpiOFJFYTRjR21EeHBGb3BmcTRUaXUyUnZYekhWYk9VVjR6VXF2ak14N2x5NEdOV0VDQU9Xbk5OMlIxZWF6TnRYa2dRVzl3YXBDQmpDVXloRzZERTZnUmw0ZkN6czY4RlY5TFVFdzhGM3M?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaZzREcGVWUmx0RmthdXVjb29sVmNzMzczYWtKenBVZjRjUXV0RmxDcGFUcDE0dUZ6ZU84b0x5RWVFMUFXdVV1UFVkWDFhem42Vm5lbmtPVEx1aGFHMnpyaFRJVnlFV1p2VjBVOWRMWXpsVnIxd1czdzFR?oc=5"
   },
   "deepRead": {
     "title": "Time for a double dip?",
