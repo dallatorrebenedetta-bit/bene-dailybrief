@@ -1,5 +1,5 @@
 {
-  "date": "26 August 2026",
+  "date": "27 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,58 +14,58 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "Meloni wants a snap election to hide her economic failures",
+      "title": "Letter: Bank chief says MPS plans have been mischaracterised",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84NXlaZ2VQOUw5YmwxNG1oQU0tbEI0WTU2blFTTVB1dy0tT3p4NHRad3kzdkJtblhnYWNiR0dDeWZYMmc0Rkl6MGs2ZkdtZkNvdXZNMDdWVTVpaHNxWndJR2ttd2NqNWd2cDRjS2lFVks?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKUmhGelNuN25vNWxSZDQxS1JkbnpDMTl3M3RSMkhYUkNKYm5leEpTVDA3T01ESFJfQTl4UkYtZDdBTVVFYy1FWk5hb2JCR2Z4UUpEVzJVNHpPbkJqYzJCUE5LVnZDUTIzWlduTE9zRzk?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,677",
-      "detail": "+0.04%"
+      "value": "7,724",
+      "detail": "+0.61%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,151",
-      "detail": "-0.11%"
+      "value": "26,469",
+      "detail": "+1.21%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1667",
-      "detail": "-0.01%"
+      "value": "1.1658",
+      "detail": "-0.15%"
     },
     {
       "name": "Oro",
-      "value": "$4,700.50",
-      "detail": "+1.35%"
+      "value": "$4,659.60",
+      "detail": "+1.34%"
     },
     {
       "name": "Brent",
-      "value": "$85.60",
-      "detail": "-3.36%"
+      "value": "$87.46",
+      "detail": "-0.43%"
     },
     {
       "name": "Bitcoin",
-      "value": "$79,037",
-      "detail": "+0.65%"
+      "value": "$80,321",
+      "detail": "+1.64%"
     },
     {
       "name": "VIX",
-      "value": "15.45",
-      "detail": "-2.52%"
+      "value": "14.59",
+      "detail": "-4.08%"
     }
   ],
   "ai": {
-    "title": "Meloni wants a snap election to hide her economic failures",
+    "title": "Letter: Bank chief says MPS plans have been mischaracterised",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84NXlaZ2VQOUw5YmwxNG1oQU0tbEI0WTU2blFTTVB1dy0tT3p4NHRad3kzdkJtblhnYWNiR0dDeWZYMmc0Rkl6MGs2ZkdtZkNvdXZNMDdWVTVpaHNxWndJR2ttd2NqNWd2cDRjS2lFVks?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKUmhGelNuN25vNWxSZDQxS1JkbnpDMTl3M3RSMkhYUkNKYm5leEpTVDA3T01ESFJfQTl4UkYtZDdBTVVFYy1FWk5hb2JCR2Z4UUpEVzJVNHpPbkJqYzJCUE5LVnZDUTIzWlduTE9zRzk?oc=5"
   },
   "finance": {
     "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
   },
   "geopolitics": {
-    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
+    "title": "China hits EU dairy with tariffs, broadening trade conflict",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTRic2hCaFhhb3VjYmpUT3A0c1RpNGkwTjlmek5CeW9YT1hTQmFsaHB4eEdfYmdiYkg5X1hnNUk1d0dGaU1Qa2ZsMERiTXVja1Y4aGNPYnFuM0o0eXlrdzVoTE9WZ2RDQkR4Qml5WHROTGZua1BJSXJySXRYSDZNQi1Qbk4ydGhjNGdwaS1UakdRb3lrUy1kelpteXV2ZzF0cTdqUGJhQQ?oc=5"
   },
   "business": {
     "title": "Why a Grand Tour of Italy Should Include a Stop in Genoa",
