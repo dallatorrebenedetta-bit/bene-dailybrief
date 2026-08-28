@@ -1,5 +1,5 @@
 {
-  "date": "27 August 2026",
+  "date": "28 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,724",
-      "detail": "+0.61%"
+      "value": "7,710",
+      "detail": "+0.44%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,469",
-      "detail": "+1.21%"
+      "value": "26,406",
+      "detail": "+1.06%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1658",
-      "detail": "-0.15%"
+      "value": "1.1590",
+      "detail": "-0.56%"
     },
     {
       "name": "Oro",
-      "value": "$4,659.60",
-      "detail": "+1.34%"
+      "value": "$4,534.20",
+      "detail": "-1.64%"
     },
     {
       "name": "Brent",
-      "value": "$87.46",
-      "detail": "-0.43%"
+      "value": "$88.24",
+      "detail": "-1.63%"
     },
     {
       "name": "Bitcoin",
-      "value": "$80,321",
-      "detail": "+1.64%"
+      "value": "$77,763",
+      "detail": "-3.11%"
     },
     {
       "name": "VIX",
-      "value": "14.59",
-      "detail": "-4.08%"
+      "value": "14.51",
+      "detail": "+0.00%"
     }
   ],
   "ai": {
@@ -84,12 +84,12 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTRic2hCaFhhb3VjYmpUT3A0c1RpNGkwTjlmek5CeW9YT1hTQmFsaHB4eEdfYmdiYkg5X1hnNUk1d0dGaU1Qa2ZsMERiTXVja1Y4aGNPYnFuM0o0eXlrdzVoTE9WZ2RDQkR4Qml5WHROTGZua1BJSXJySXRYSDZNQi1Qbk4ydGhjNGdwaS1UakdRb3lrUy1kelpteXV2ZzF0cTdqUGJhQQ?oc=5"
   },
   "business": {
-    "title": "Why a Grand Tour of Italy Should Include a Stop in Genoa",
+    "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaZzREcGVWUmx0RmthdXVjb29sVmNzMzczYWtKenBVZjRjUXV0RmxDcGFUcDE0dUZ6ZU84b0x5RWVFMUFXdVV1UFVkWDFhem42Vm5lbmtPVEx1aGFHMnpyaFRJVnlFV1p2VjBVOWRMWXpsVnIxd1czdzFR?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHR2Q2Z0R2R4OGhvT1NGN0NuZFREUHA1TkhKM21sSlF2ai1FWm9Del9Ob1VDa0U3S2lMZEs3U1I1ZVg0cXNOaWVYSFNfRGpiOFJFYTRjR21EeHBGb3BmcTRUaXUyUnZYekhWYk9VVjR6VXF2ak14N2x5NEdOV0VDQU9Xbk5OMlIxZWF6TnRYa2dRVzl3YXBDQmpDVXloRzZERTZnUmw0ZkN6czY4RlY5TFVFdzhGM3M?oc=5"
   },
   "deepRead": {
     "title": "Time for a double dip?",
