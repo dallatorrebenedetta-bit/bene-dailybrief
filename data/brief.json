@@ -1,5 +1,5 @@
 {
-  "date": "29 August 2026",
+  "date": "30 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,12 +14,12 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "Letter: Bank chief says MPS plans have been mischaracterised",
+      "title": "Meloni wants a snap election to hide her economic failures",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKUmhGelNuN25vNWxSZDQxS1JkbnpDMTl3M3RSMkhYUkNKYm5leEpTVDA3T01ESFJfQTl4UkYtZDdBTVVFYy1FWk5hb2JCR2Z4UUpEVzJVNHpPbkJqYzJCUE5LVnZDUTIzWlduTE9zRzk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84NXlaZ2VQOUw5YmwxNG1oQU0tbEI0WTU2blFTTVB1dy0tT3p4NHRad3kzdkJtblhnYWNiR0dDeWZYMmc0Rkl6MGs2ZkdtZkNvdXZNMDdWVTVpaHNxWndJR2ttd2NqNWd2cDRjS2lFVks?oc=5"
     }
   ],
   "numbers": [
@@ -41,17 +41,17 @@
     {
       "name": "Oro",
       "value": "$4,529.90",
-      "detail": "-1.73%"
+      "detail": "+1.16%"
     },
     {
       "name": "Brent",
       "value": "$88.10",
-      "detail": "-1.78%"
+      "detail": "-1.35%"
     },
     {
       "name": "Bitcoin",
-      "value": "$77,670",
-      "detail": "-0.22%"
+      "value": "$78,029",
+      "detail": "-0.26%"
     },
     {
       "name": "VIX",
@@ -60,12 +60,12 @@
     }
   ],
   "ai": {
-    "title": "Letter: Bank chief says MPS plans have been mischaracterised",
+    "title": "Meloni wants a snap election to hide her economic failures",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKUmhGelNuN25vNWxSZDQxS1JkbnpDMTl3M3RSMkhYUkNKYm5leEpTVDA3T01ESFJfQTl4UkYtZDdBTVVFYy1FWk5hb2JCR2Z4UUpEVzJVNHpPbkJqYzJCUE5LVnZDUTIzWlduTE9zRzk?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84NXlaZ2VQOUw5YmwxNG1oQU0tbEI0WTU2blFTTVB1dy0tT3p4NHRad3kzdkJtblhnYWNiR0dDeWZYMmc0Rkl6MGs2ZkdtZkNvdXZNMDdWVTVpaHNxWndJR2ttd2NqNWd2cDRjS2lFVks?oc=5"
   },
   "finance": {
     "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
@@ -84,12 +84,12 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTRic2hCaFhhb3VjYmpUT3A0c1RpNGkwTjlmek5CeW9YT1hTQmFsaHB4eEdfYmdiYkg5X1hnNUk1d0dGaU1Qa2ZsMERiTXVja1Y4aGNPYnFuM0o0eXlrdzVoTE9WZ2RDQkR4Qml5WHROTGZua1BJSXJySXRYSDZNQi1Qbk4ydGhjNGdwaS1UakdRb3lrUy1kelpteXV2ZzF0cTdqUGJhQQ?oc=5"
   },
   "business": {
-    "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
+    "title": "Why a Grand Tour of Italy Should Include a Stop in Genoa",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHR2Q2Z0R2R4OGhvT1NGN0NuZFREUHA1TkhKM21sSlF2ai1FWm9Del9Ob1VDa0U3S2lMZEs3U1I1ZVg0cXNOaWVYSFNfRGpiOFJFYTRjR21EeHBGb3BmcTRUaXUyUnZYekhWYk9VVjR6VXF2ak14N2x5NEdOV0VDQU9Xbk5OMlIxZWF6TnRYa2dRVzl3YXBDQmpDVXloRzZERTZnUmw0ZkN6czY4RlY5TFVFdzhGM3M?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaZzREcGVWUmx0RmthdXVjb29sVmNzMzczYWtKenBVZjRjUXV0RmxDcGFUcDE0dUZ6ZU84b0x5RWVFMUFXdVV1UFVkWDFhem42Vm5lbmtPVEx1aGFHMnpyaFRJVnlFV1p2VjBVOWRMWXpsVnIxd1czdzFR?oc=5"
   },
   "deepRead": {
     "title": "Time for a double dip?",
