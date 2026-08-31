@@ -1,5 +1,5 @@
 {
-  "date": "30 August 2026",
+  "date": "31 August 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -35,28 +35,28 @@
     },
     {
       "name": "EUR/USD",
-      "value": "1.1587",
-      "detail": "-0.58%"
+      "value": "1.1602",
+      "detail": "-0.46%"
     },
     {
       "name": "Oro",
-      "value": "$4,529.90",
-      "detail": "+1.16%"
+      "value": "$4,504.50",
+      "detail": "-0.56%"
     },
     {
       "name": "Brent",
-      "value": "$88.10",
-      "detail": "-1.35%"
+      "value": "$88.62",
+      "detail": "+2.90%"
     },
     {
       "name": "Bitcoin",
-      "value": "$78,029",
-      "detail": "-0.26%"
+      "value": "$78,597",
+      "detail": "+1.16%"
     },
     {
       "name": "VIX",
-      "value": "14.43",
-      "detail": "-0.55%"
+      "value": "15.21",
+      "detail": "+5.41%"
     }
   ],
   "ai": {
@@ -68,7 +68,7 @@
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84NXlaZ2VQOUw5YmwxNG1oQU0tbEI0WTU2blFTTVB1dy0tT3p4NHRad3kzdkJtblhnYWNiR0dDeWZYMmc0Rkl6MGs2ZkdtZkNvdXZNMDdWVTVpaHNxWndJR2ttd2NqNWd2cDRjS2lFVks?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ing think",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
