@@ -1,5 +1,5 @@
 {
-  "date": "31 August 2026",
+  "date": "01 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,712",
-      "detail": "+0.47%"
+      "value": "7,686",
+      "detail": "-0.58%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,402",
-      "detail": "+1.04%"
+      "value": "26,371",
+      "detail": "-0.64%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1602",
-      "detail": "-0.46%"
+      "value": "1.1601",
+      "detail": "+0.10%"
     },
     {
       "name": "Oro",
-      "value": "$4,504.50",
-      "detail": "-0.56%"
+      "value": "$4,416.70",
+      "detail": "-0.32%"
     },
     {
       "name": "Brent",
-      "value": "$88.62",
-      "detail": "+2.90%"
+      "value": "$92.37",
+      "detail": "+2.08%"
     },
     {
       "name": "Bitcoin",
-      "value": "$78,597",
-      "detail": "+1.16%"
+      "value": "$77,911",
+      "detail": "-0.81%"
     },
     {
       "name": "VIX",
-      "value": "15.21",
-      "detail": "+5.41%"
+      "value": "15.91",
+      "detail": "+6.64%"
     }
   ],
   "ai": {
@@ -84,15 +84,15 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTRic2hCaFhhb3VjYmpUT3A0c1RpNGkwTjlmek5CeW9YT1hTQmFsaHB4eEdfYmdiYkg5X1hnNUk1d0dGaU1Qa2ZsMERiTXVja1Y4aGNPYnFuM0o0eXlrdzVoTE9WZ2RDQkR4Qml5WHROTGZua1BJSXJySXRYSDZNQi1Qbk4ydGhjNGdwaS1UakdRb3lrUy1kelpteXV2ZzF0cTdqUGJhQQ?oc=5"
   },
   "business": {
-    "title": "Why a Grand Tour of Italy Should Include a Stop in Genoa",
+    "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaZzREcGVWUmx0RmthdXVjb29sVmNzMzczYWtKenBVZjRjUXV0RmxDcGFUcDE0dUZ6ZU84b0x5RWVFMUFXdVV1UFVkWDFhem42Vm5lbmtPVEx1aGFHMnpyaFRJVnlFV1p2VjBVOWRMWXpsVnIxd1czdzFR?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHR2Q2Z0R2R4OGhvT1NGN0NuZFREUHA1TkhKM21sSlF2ai1FWm9Del9Ob1VDa0U3S2lMZEs3U1I1ZVg0cXNOaWVYSFNfRGpiOFJFYTRjR21EeHBGb3BmcTRUaXUyUnZYekhWYk9VVjR6VXF2ak14N2x5NEdOV0VDQU9Xbk5OMlIxZWF6TnRYa2dRVzl3YXBDQmpDVXloRzZERTZnUmw0ZkN6czY4RlY5TFVFdzhGM3M?oc=5"
   },
   "deepRead": {
-    "title": "Time for a double dip?",
+    "title": "Time for a double dip? - economist.com",
     "category": "Approfondimento",
     "source": "The Economist",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
