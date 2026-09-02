@@ -1,5 +1,5 @@
 {
-  "date": "01 September 2026",
+  "date": "02 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,686",
-      "detail": "-0.58%"
+      "value": "7,631",
+      "detail": "-0.71%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,371",
-      "detail": "-0.64%"
+      "value": "26,100",
+      "detail": "-1.03%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1601",
-      "detail": "+0.10%"
+      "value": "1.1579",
+      "detail": "-0.34%"
     },
     {
       "name": "Oro",
-      "value": "$4,416.70",
-      "detail": "-0.32%"
+      "value": "$4,361.30",
+      "detail": "+0.31%"
     },
     {
       "name": "Brent",
-      "value": "$92.37",
-      "detail": "+2.08%"
+      "value": "$94.72",
+      "detail": "+0.07%"
     },
     {
       "name": "Bitcoin",
-      "value": "$77,911",
-      "detail": "-0.81%"
+      "value": "$76,963",
+      "detail": "-0.57%"
     },
     {
       "name": "VIX",
-      "value": "15.91",
-      "detail": "+6.64%"
+      "value": "16.72",
+      "detail": "+2.33%"
     }
   ],
   "ai": {
@@ -68,7 +68,7 @@
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84NXlaZ2VQOUw5YmwxNG1oQU0tbEI0WTU2blFTTVB1dy0tT3p4NHRad3kzdkJtblhnYWNiR0dDeWZYMmc0Rkl6MGs2ZkdtZkNvdXZNMDdWVTVpaHNxWndJR2ttd2NqNWd2cDRjS2lFVks?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ing think",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING THINK economic and financial analysis | ING THINK",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -92,7 +92,7 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHR2Q2Z0R2R4OGhvT1NGN0NuZFREUHA1TkhKM21sSlF2ai1FWm9Del9Ob1VDa0U3S2lMZEs3U1I1ZVg0cXNOaWVYSFNfRGpiOFJFYTRjR21EeHBGb3BmcTRUaXUyUnZYekhWYk9VVjR6VXF2ak14N2x5NEdOV0VDQU9Xbk5OMlIxZWF6TnRYa2dRVzl3YXBDQmpDVXloRzZERTZnUmw0ZkN6czY4RlY5TFVFdzhGM3M?oc=5"
   },
   "deepRead": {
-    "title": "Time for a double dip? - economist.com",
+    "title": "Time for a double dip?",
     "category": "Approfondimento",
     "source": "The Economist",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
