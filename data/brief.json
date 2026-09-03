@@ -1,5 +1,5 @@
 {
-  "date": "02 September 2026",
+  "date": "03 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,61 +14,61 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "Meloni wants a snap election to hide her economic failures",
+      "title": "Russia’s ‘Trojan horse’ in Italy tests Giorgia Meloni",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84NXlaZ2VQOUw5YmwxNG1oQU0tbEI0WTU2blFTTVB1dy0tT3p4NHRad3kzdkJtblhnYWNiR0dDeWZYMmc0Rkl6MGs2ZkdtZkNvdXZNMDdWVTVpaHNxWndJR2ttd2NqNWd2cDRjS2lFVks?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnFOSm1lS1hqbXVvenRaVGhtaG5fOGtFaWg3SFVrR1Q0bTduMXdxWGdHY2FEQnZJYnFQN3dRS3VKN3dtYnVFNm1PS0ozb0lxR2xGLWlOeDVyN3NOS1gwV0xZZ25JT19PR2FmbFZpZXhNWWFmVmF3NnZTd19KOFg0YnZZZmI?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,631",
-      "detail": "-0.71%"
+      "value": "7,667",
+      "detail": "-0.25%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,100",
-      "detail": "-1.03%"
+      "value": "26,218",
+      "detail": "-0.58%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1579",
-      "detail": "-0.34%"
+      "value": "1.1609",
+      "detail": "+0.11%"
     },
     {
       "name": "Oro",
-      "value": "$4,361.30",
-      "detail": "+0.31%"
+      "value": "$4,486.70",
+      "detail": "+2.76%"
     },
     {
       "name": "Brent",
-      "value": "$94.72",
-      "detail": "+0.07%"
+      "value": "$96.02",
+      "detail": "+0.41%"
     },
     {
       "name": "Bitcoin",
-      "value": "$76,963",
-      "detail": "-0.57%"
+      "value": "$77,851",
+      "detail": "+0.71%"
     },
     {
       "name": "VIX",
-      "value": "16.72",
-      "detail": "+2.33%"
+      "value": "15.20",
+      "detail": "+0.00%"
     }
   ],
   "ai": {
-    "title": "Meloni wants a snap election to hide her economic failures",
+    "title": "Russia’s ‘Trojan horse’ in Italy tests Giorgia Meloni",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84NXlaZ2VQOUw5YmwxNG1oQU0tbEI0WTU2blFTTVB1dy0tT3p4NHRad3kzdkJtblhnYWNiR0dDeWZYMmc0Rkl6MGs2ZkdtZkNvdXZNMDdWVTVpaHNxWndJR2ttd2NqNWd2cDRjS2lFVks?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnFOSm1lS1hqbXVvenRaVGhtaG5fOGtFaWg3SFVrR1Q0bTduMXdxWGdHY2FEQnZJYnFQN3dRS3VKN3dtYnVFNm1PS0ozb0lxR2xGLWlOeDVyN3NOS1gwV0xZZ25JT19PR2FmbFZpZXhNWWFmVmF3NnZTd19KOFg0YnZZZmI?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING THINK economic and financial analysis | ING THINK",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING Think",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -92,7 +92,7 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHR2Q2Z0R2R4OGhvT1NGN0NuZFREUHA1TkhKM21sSlF2ai1FWm9Del9Ob1VDa0U3S2lMZEs3U1I1ZVg0cXNOaWVYSFNfRGpiOFJFYTRjR21EeHBGb3BmcTRUaXUyUnZYekhWYk9VVjR6VXF2ak14N2x5NEdOV0VDQU9Xbk5OMlIxZWF6TnRYa2dRVzl3YXBDQmpDVXloRzZERTZnUmw0ZkN6czY4RlY5TFVFdzhGM3M?oc=5"
   },
   "deepRead": {
-    "title": "Time for a double dip?",
+    "title": "Time for a double dip? - economist.com",
     "category": "Approfondimento",
     "source": "The Economist",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
