@@ -1,5 +1,5 @@
 {
-  "date": "04 September 2026",
+  "date": "05 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,748",
-      "detail": "+1.52%"
+      "value": "7,719",
+      "detail": "+0.68%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,584",
-      "detail": "+1.86%"
+      "value": "26,507",
+      "detail": "+1.10%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1625",
-      "detail": "+0.35%"
+      "value": "1.1621",
+      "detail": "+0.31%"
     },
     {
       "name": "Oro",
-      "value": "$4,525.70",
-      "detail": "+0.76%"
+      "value": "$4,476.60",
+      "detail": "-0.34%"
     },
     {
       "name": "Brent",
-      "value": "$95.11",
-      "detail": "-0.43%"
+      "value": "$96.28",
+      "detail": "+0.80%"
     },
     {
       "name": "Bitcoin",
-      "value": "$81,123",
-      "detail": "-0.18%"
+      "value": "$79,617",
+      "detail": "-0.07%"
     },
     {
       "name": "VIX",
-      "value": "14.19",
-      "detail": "-0.91%"
+      "value": "14.53",
+      "detail": "+1.47%"
     }
   ],
   "ai": {
@@ -68,12 +68,12 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnFOSm1lS1hqbXVvenRaVGhtaG5fOGtFaWg3SFVrR1Q0bTduMXdxWGdHY2FEQnZJYnFQN3dRS3VKN3dtYnVFNm1PS0ozb0lxR2xGLWlOeDVyN3NOS1gwV0xZZ25JT19PR2FmbFZpZXhNWWFmVmF3NnZTd19KOFg0YnZZZmI?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ING THINK economic and financial analysis | ING THINK",
+    "title": "Calendario BCE e FED: prossime riunioni, analisi e previsioni - Investing.com",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IY3VHSEFNdjJmZENHM1EyQzBXdTlTcFZKeWRyNmFjX2M4Q3Z1Ulk2ZmVtTGU5alJXRHotYnllNzBOZ2NNNUo1YmpuMHd5bjViT1A3bVRBa3dfajVfNTJuLTlaLUVkeGUwWThHT2habWc0aE11TVVTWQ?oc=5"
   },
   "geopolitics": {
     "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
@@ -92,7 +92,7 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHR2Q2Z0R2R4OGhvT1NGN0NuZFREUHA1TkhKM21sSlF2ai1FWm9Del9Ob1VDa0U3S2lMZEs3U1I1ZVg0cXNOaWVYSFNfRGpiOFJFYTRjR21EeHBGb3BmcTRUaXUyUnZYekhWYk9VVjR6VXF2ak14N2x5NEdOV0VDQU9Xbk5OMlIxZWF6TnRYa2dRVzl3YXBDQmpDVXloRzZERTZnUmw0ZkN6czY4RlY5TFVFdzhGM3M?oc=5"
   },
   "deepRead": {
-    "title": "Time for a double dip? - economist.com",
+    "title": "Time for a double dip?",
     "category": "Approfondimento",
     "source": "The Economist",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
