@@ -1,12 +1,12 @@
 {
-  "date": "09 September 2026",
+  "date": "10 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources - reuters.com",
+      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources",
       "category": "Top Story",
       "source": "Reuters",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,674",
-      "detail": "-0.96%"
+      "value": "7,636",
+      "detail": "-1.07%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,421",
-      "detail": "-0.61%"
+      "value": "26,253",
+      "detail": "-0.96%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1636",
-      "detail": "+0.07%"
+      "value": "1.1643",
+      "detail": "+0.14%"
     },
     {
       "name": "Oro",
-      "value": "$4,445.70",
-      "detail": "+1.18%"
+      "value": "$4,436.80",
+      "detail": "+0.47%"
     },
     {
       "name": "Brent",
-      "value": "$100.39",
-      "detail": "+2.52%"
+      "value": "$102.05",
+      "detail": "+0.83%"
     },
     {
       "name": "Bitcoin",
-      "value": "$79,467",
-      "detail": "+1.31%"
+      "value": "$78,144",
+      "detail": "-0.15%"
     },
     {
       "name": "VIX",
-      "value": "15.83",
-      "detail": "+0.70%"
+      "value": "16.47",
+      "detail": "+0.06%"
     }
   ],
   "ai": {
@@ -76,7 +76,7 @@
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IY3VHSEFNdjJmZENHM1EyQzBXdTlTcFZKeWRyNmFjX2M4Q3Z1Ulk2ZmVtTGU5alJXRHotYnllNzBOZ2NNNUo1YmpuMHd5bjViT1A3bVRBa3dfajVfNTJuLTlaLUVkeGUwWThHT2habWc0aE11TVVTWQ?oc=5"
   },
   "geopolitics": {
-    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics - reuters.com",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
