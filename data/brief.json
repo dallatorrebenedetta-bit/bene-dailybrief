@@ -1,5 +1,5 @@
 {
-  "date": "10 September 2026",
+  "date": "11 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,66 +14,66 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "Russia’s ‘Trojan horse’ in Italy tests Giorgia Meloni",
+      "title": "EssilorLuxottica: Il Consiglio di Amministrazione di EssilorLuxottica conferma all’unanimità piena fiducia nella leadership e nella strategia del Gruppo – Company Announcement",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnFOSm1lS1hqbXVvenRaVGhtaG5fOGtFaWg3SFVrR1Q0bTduMXdxWGdHY2FEQnZJYnFQN3dRS3VKN3dtYnVFNm1PS0ozb0lxR2xGLWlOeDVyN3NOS1gwV0xZZ25JT19PR2FmbFZpZXhNWWFmVmF3NnZTd19KOFg0YnZZZmI?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNWF2Mi13WFRFdDZzU1VNT1ZzZWJGeWEzRHJSaGRra3BVREtkeTlSaVdqUjlnQVhzQ244dmRVR0VFSmlxMVJmeUhWclRGZjRuQlVock5PbWNleVJGQXBBeHVVSXA3QVcyaTlXQnlpZVNHWHhoQlJYd1ZGeDU3bzNZMFF6ZENTSm5JdUdsTUJZVlRQR2ttMW1aWkprcw?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,636",
+      "value": "7,592",
       "detail": "-1.07%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,253",
-      "detail": "-0.96%"
+      "value": "26,082",
+      "detail": "-1.29%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1643",
-      "detail": "+0.14%"
+      "value": "1.1601",
+      "detail": "-0.28%"
     },
     {
       "name": "Oro",
-      "value": "$4,436.80",
-      "detail": "+0.47%"
+      "value": "$4,389.80",
+      "detail": "+0.58%"
     },
     {
       "name": "Brent",
-      "value": "$102.05",
-      "detail": "+0.83%"
+      "value": "$104.77",
+      "detail": "-2.66%"
     },
     {
       "name": "Bitcoin",
-      "value": "$78,144",
-      "detail": "-0.15%"
+      "value": "$77,258",
+      "detail": "+0.90%"
     },
     {
       "name": "VIX",
-      "value": "16.47",
-      "detail": "+0.06%"
+      "value": "17.12",
+      "detail": "-4.04%"
     }
   ],
   "ai": {
-    "title": "Russia’s ‘Trojan horse’ in Italy tests Giorgia Meloni",
+    "title": "EssilorLuxottica: Il Consiglio di Amministrazione di EssilorLuxottica conferma all’unanimità piena fiducia nella leadership e nella strategia del Gruppo – Company Announcement",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnFOSm1lS1hqbXVvenRaVGhtaG5fOGtFaWg3SFVrR1Q0bTduMXdxWGdHY2FEQnZJYnFQN3dRS3VKN3dtYnVFNm1PS0ozb0lxR2xGLWlOeDVyN3NOS1gwV0xZZ25JT19PR2FmbFZpZXhNWWFmVmF3NnZTd19KOFg0YnZZZmI?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNWF2Mi13WFRFdDZzU1VNT1ZzZWJGeWEzRHJSaGRra3BVREtkeTlSaVdqUjlnQVhzQ244dmRVR0VFSmlxMVJmeUhWclRGZjRuQlVock5PbWNleVJGQXBBeHVVSXA3QVcyaTlXQnlpZVNHWHhoQlJYd1ZGeDU3bzNZMFF6ZENTSm5JdUdsTUJZVlRQR2ttMW1aWkprcw?oc=5"
   },
   "finance": {
-    "title": "Calendario BCE e FED: prossime riunioni, analisi e previsioni - Investing.com",
+    "title": "La BCE aumenta i tassi e rivede al rialzo le previsioni su inflazione e crescita - Morningstar",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IY3VHSEFNdjJmZENHM1EyQzBXdTlTcFZKeWRyNmFjX2M4Q3Z1Ulk2ZmVtTGU5alJXRHotYnllNzBOZ2NNNUo1YmpuMHd5bjViT1A3bVRBa3dfajVfNTJuLTlaLUVkeGUwWThHT2habWc0aE11TVVTWQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNV9hZGNyeEtoY0ZicExXSUhrb21JWWNfU1V2WHJQbkgzNjYwQ0F4X05nbHB3TnhQeUFicnIzWC14UVZOZFRWSDUwNWRDc29NdWlXd1VSNFByYXdmQ3ZpTmVEaG1sOG5tQzVaMUEtQjZReUJ0MDlfRDNtUWdWU2ZGenJ2RHZKSWRwSnBCTEVSMXR2Nzg3d1BKU3hpNVM1LWdPS00yd3FJQkNkNVhJSFNpejZFVmwtNTlsU3NtSnRUaUc?oc=5"
   },
   "geopolitics": {
     "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
@@ -84,12 +84,12 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
-    "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
+    "title": "Magnum Shares Surge on Robust Sales - wsj.com",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHR2Q2Z0R2R4OGhvT1NGN0NuZFREUHA1TkhKM21sSlF2ai1FWm9Del9Ob1VDa0U3S2lMZEs3U1I1ZVg0cXNOaWVYSFNfRGpiOFJFYTRjR21EeHBGb3BmcTRUaXUyUnZYekhWYk9VVjR6VXF2ak14N2x5NEdOV0VDQU9Xbk5OMlIxZWF6TnRYa2dRVzl3YXBDQmpDVXloRzZERTZnUmw0ZkN6czY4RlY5TFVFdzhGM3M?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk9ta1dBWk9JMUMxRHpkaHlmcnY4dVlsTFVuUmdQbzRNMW8zdWx3XzJMRS0yRW94aWsydDVYQUdOUkVoajRJRjcxbUJxOGJKN0ttS3JnWVhtaTNSX1RfWEFRNHd3d3BwdmhSSGYyM1FCUUJCN1BZQm02YlpoX0QwTkdCX2JBQzc3WkwtQ0tQWU1SU0NuQXlSS2N3X0ZPcUM0cXc?oc=5"
   },
   "deepRead": {
     "title": "Time for a double dip?",
