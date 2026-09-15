@@ -1,5 +1,5 @@
 {
-  "date": "14 September 2026",
+  "date": "15 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,7 +14,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "The environmental cost of AI - ft.com",
+      "title": "The environmental cost of AI",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -25,42 +25,42 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,657",
-      "detail": "+0.27%"
+      "value": "7,620",
+      "detail": "+0.37%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,333",
-      "detail": "+0.30%"
+      "value": "26,186",
+      "detail": "+0.40%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1543",
-      "detail": "-0.58%"
+      "value": "1.1538",
+      "detail": "-0.48%"
     },
     {
       "name": "Oro",
-      "value": "$4,320.70",
-      "detail": "-2.00%"
+      "value": "$4,306.40",
+      "detail": "-1.05%"
     },
     {
       "name": "Brent",
-      "value": "$107.59",
-      "detail": "+2.85%"
+      "value": "$103.09",
+      "detail": "-2.45%"
     },
     {
       "name": "Bitcoin",
-      "value": "$77,988",
-      "detail": "+1.50%"
+      "value": "$76,931",
+      "detail": "-1.58%"
     },
     {
       "name": "VIX",
-      "value": "18.07",
-      "detail": "+14.08%"
+      "value": "17.89",
+      "detail": "+4.62%"
     }
   ],
   "ai": {
-    "title": "The environmental cost of AI - ft.com",
+    "title": "The environmental cost of AI",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
