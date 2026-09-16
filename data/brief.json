@@ -1,5 +1,5 @@
 {
-  "date": "15 September 2026",
+  "date": "16 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,620",
-      "detail": "+0.37%"
+      "value": "7,586",
+      "detail": "-0.93%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,186",
-      "detail": "+0.40%"
+      "value": "25,982",
+      "detail": "-1.33%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1538",
-      "detail": "-0.48%"
+      "value": "1.1545",
+      "detail": "-0.03%"
     },
     {
       "name": "Oro",
-      "value": "$4,306.40",
-      "detail": "-1.05%"
+      "value": "$4,373.60",
+      "detail": "+0.94%"
     },
     {
       "name": "Brent",
-      "value": "$103.09",
-      "detail": "-2.45%"
+      "value": "$108.18",
+      "detail": "-0.52%"
     },
     {
       "name": "Bitcoin",
-      "value": "$76,931",
-      "detail": "-1.58%"
+      "value": "$75,844",
+      "detail": "+0.31%"
     },
     {
       "name": "VIX",
-      "value": "17.89",
-      "detail": "+4.62%"
+      "value": "17.10",
+      "detail": "-0.58%"
     }
   ],
   "ai": {
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNV9hZGNyeEtoY0ZicExXSUhrb21JWWNfU1V2WHJQbkgzNjYwQ0F4X05nbHB3TnhQeUFicnIzWC14UVZOZFRWSDUwNWRDc29NdWlXd1VSNFByYXdmQ3ZpTmVEaG1sOG5tQzVaMUEtQjZReUJ0MDlfRDNtUWdWU2ZGenJ2RHZKSWRwSnBCTEVSMXR2Nzg3d1BKU3hpNVM1LWdPS00yd3FJQkNkNVhJSFNpejZFVmwtNTlsU3NtSnRUaUc?oc=5"
   },
   "geopolitics": {
-    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
+    "title": "China hits EU dairy with tariffs, broadening trade conflict",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTRic2hCaFhhb3VjYmpUT3A0c1RpNGkwTjlmek5CeW9YT1hTQmFsaHB4eEdfYmdiYkg5X1hnNUk1d0dGaU1Qa2ZsMERiTXVja1Y4aGNPYnFuM0o0eXlrdzVoTE9WZ2RDQkR4Qml5WHROTGZua1BJSXJySXRYSDZNQi1Qbk4ydGhjNGdwaS1UakdRb3lrUy1kelpteXV2ZzF0cTdqUGJhQQ?oc=5"
   },
   "business": {
     "title": "Italy’s Leonardo Forecasts Growing Orders Amid Strong Defense Business",
