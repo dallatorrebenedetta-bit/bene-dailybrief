@@ -1,5 +1,5 @@
 {
-  "date": "17 September 2026",
+  "date": "18 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,552",
-      "detail": "-0.89%"
+      "value": "7,638",
+      "detail": "+0.69%"
     },
     {
       "name": "Nasdaq",
-      "value": "25,978",
-      "detail": "-0.79%"
+      "value": "26,418",
+      "detail": "+1.68%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1478",
-      "detail": "-0.52%"
+      "value": "1.1485",
+      "detail": "+0.13%"
     },
     {
       "name": "Oro",
-      "value": "$4,346.80",
-      "detail": "-0.93%"
+      "value": "$4,436.40",
+      "detail": "+0.83%"
     },
     {
       "name": "Brent",
-      "value": "$100.28",
-      "detail": "-5.24%"
+      "value": "$98.15",
+      "detail": "-6.36%"
     },
     {
       "name": "Bitcoin",
-      "value": "$76,522",
-      "detail": "+0.49%"
+      "value": "$78,238",
+      "detail": "+2.40%"
     },
     {
       "name": "VIX",
-      "value": "16.07",
-      "detail": "-9.26%"
+      "value": "15.23",
+      "detail": "-1.36%"
     }
   ],
   "ai": {
@@ -68,20 +68,20 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "La BCE aumenta i tassi e rivede al rialzo le previsioni su inflazione e crescita - Morningstar",
+    "title": "La Bank of Japan segue Fed ed ECB con un aumento dei tassi all'1,25% - it.beincrypto.com",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNV9hZGNyeEtoY0ZicExXSUhrb21JWWNfU1V2WHJQbkgzNjYwQ0F4X05nbHB3TnhQeUFicnIzWC14UVZOZFRWSDUwNWRDc29NdWlXd1VSNFByYXdmQ3ZpTmVEaG1sOG5tQzVaMUEtQjZReUJ0MDlfRDNtUWdWU2ZGenJ2RHZKSWRwSnBCTEVSMXR2Nzg3d1BKU3hpNVM1LWdPS00yd3FJQkNkNVhJSFNpejZFVmwtNTlsU3NtSnRUaUc?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXaHhvdDVQSEpEdV9rV0VacklCblQ4VzFaMWVham9aa3J1eDJKTmdUeWZvZG1uTG9WaERTb3VzVTlnY0JDT1lqZnBHMlZPRzdCcXJxclJIcjdPVnBpT3lUMklQRFhQdw?oc=5"
   },
   "geopolitics": {
-    "title": "Italy's Meloni scraps road tax for most cars as election approaches",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2t6dWdxN3FocnRRQjRfY0REUlZhMm1NdWw1WnRSTmRrVzJVU09uMUFCeXQ2QnBtRkM5Uy13QTRUSXU1R0xRbVlKY25PODczeVlZd2Z5QW03NXRQNGVwOWlEUUFNSDFORXl5YlEyVElBT1lqX0llRVlVQzVlQXdzdmRpdVA5V2plUGhMeE1vVWVGaGJKdUE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
     "title": "Banca Monte dei Paschi di Siena S.p.A. (BMPS) Stock Price Today",
