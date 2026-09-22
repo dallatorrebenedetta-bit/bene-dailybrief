@@ -1,5 +1,5 @@
 {
-  "date": "21 September 2026",
+  "date": "22 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,650",
-      "detail": "+1.31%"
+      "value": "7,765",
+      "detail": "+1.66%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,523",
-      "detail": "+2.09%"
+      "value": "27,122",
+      "detail": "+2.66%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1484",
-      "detail": "+0.07%"
+      "value": "1.1460",
+      "detail": "-0.17%"
     },
     {
       "name": "Oro",
-      "value": "$4,388.90",
-      "detail": "-0.81%"
+      "value": "$4,355.60",
+      "detail": "-0.65%"
     },
     {
       "name": "Brent",
-      "value": "$97.30",
-      "detail": "-2.00%"
+      "value": "$99.74",
+      "detail": "-0.60%"
     },
     {
       "name": "Bitcoin",
-      "value": "$84,588",
-      "detail": "+4.25%"
+      "value": "$85,928",
+      "detail": "-0.78%"
     },
     {
       "name": "VIX",
-      "value": "14.90",
-      "detail": "+0.61%"
+      "value": "14.89",
+      "detail": "+0.13%"
     }
   ],
   "ai": {
@@ -68,7 +68,7 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd24tOUJJM3BUS2JNWjczRDJaRGF4cGJRWjdRNWJQM082WGRYb1gtbGJmWkZKRmVVWWhhaHRRaXFEdTFGMzlTOU50cDNWSkU5RkhnaHd5NHg3SDhtV3VJdWVGUi00YVZTWUlpcHB5Q2tHVjF3VHhkOGpGTmd5QVBnQzJPcDE?oc=5"
   },
   "finance": {
-    "title": "Dopo la BCE, anche la FED alza i tassi: cosa succede alla rata del tuo mutuo? - MutuiOnline.it",
+    "title": "Dopo la BCE, anche la FED alza i tassi: cosa succede alla rata del tuo mutuo? - mutuionline.it",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
