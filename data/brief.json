@@ -1,5 +1,5 @@
 {
-  "date": "22 September 2026",
+  "date": "23 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,7 +14,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "Dealogic and Mergermarket owner’s bonds hit by AI fears",
+      "title": "Dealogic and Mergermarket owner’s bonds hit by AI fears - ft.com",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -26,41 +26,41 @@
     {
       "name": "S&P 500",
       "value": "7,765",
-      "detail": "+1.66%"
+      "detail": "+1.49%"
     },
     {
       "name": "Nasdaq",
-      "value": "27,122",
-      "detail": "+2.66%"
+      "value": "27,244",
+      "detail": "+2.72%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1460",
-      "detail": "-0.17%"
+      "value": "1.1416",
+      "detail": "-0.43%"
     },
     {
       "name": "Oro",
-      "value": "$4,355.60",
-      "detail": "-0.65%"
+      "value": "$4,353.10",
+      "detail": "-0.53%"
     },
     {
       "name": "Brent",
-      "value": "$99.74",
-      "detail": "-0.60%"
+      "value": "$95.54",
+      "detail": "-3.74%"
     },
     {
       "name": "Bitcoin",
-      "value": "$85,928",
-      "detail": "-0.78%"
+      "value": "$85,824",
+      "detail": "-0.40%"
     },
     {
       "name": "VIX",
-      "value": "14.89",
-      "detail": "+0.13%"
+      "value": "14.14",
+      "detail": "-0.49%"
     }
   ],
   "ai": {
-    "title": "Dealogic and Mergermarket owner’s bonds hit by AI fears",
+    "title": "Dealogic and Mergermarket owner’s bonds hit by AI fears - ft.com",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -68,20 +68,20 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd24tOUJJM3BUS2JNWjczRDJaRGF4cGJRWjdRNWJQM082WGRYb1gtbGJmWkZKRmVVWWhhaHRRaXFEdTFGMzlTOU50cDNWSkU5RkhnaHd5NHg3SDhtV3VJdWVGUi00YVZTWUlpcHB5Q2tHVjF3VHhkOGpGTmd5QVBnQzJPcDE?oc=5"
   },
   "finance": {
-    "title": "Dopo la BCE, anche la FED alza i tassi: cosa succede alla rata del tuo mutuo? - mutuionline.it",
+    "title": "La BCE aumenta i tassi e rivede al rialzo le previsioni su inflazione e crescita - Morningstar",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3ZTZEZVSEt2bzdHejlCNjEzYk92MDF3MzQwZU5icHI1N0RMSFM3dUI1eUdNZVN3REJmUGUtVnluRDBRcVluSEpuaC1pR1hCWVBNNDZSMVJCSk5xejE3cVQzY3U5bWdQWlVYVWhhdndRXzFSdmltVE5JVW5fX0tjOEtaaGl3T2Z2VEJBUElpbTh4UjJJUF9fY3ZjY2k5VEFfYW11R09SamQzSnlxNGZB?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNV9hZGNyeEtoY0ZicExXSUhrb21JWWNfU1V2WHJQbkgzNjYwQ0F4X05nbHB3TnhQeUFicnIzWC14UVZOZFRWSDUwNWRDc29NdWlXd1VSNFByYXdmQ3ZpTmVEaG1sOG5tQzVaMUEtQjZReUJ0MDlfRDNtUWdWU2ZGenJ2RHZKSWRwSnBCTEVSMXR2Nzg3d1BKU3hpNVM1LWdPS00yd3FJQkNkNVhJSFNpejZFVmwtNTlsU3NtSnRUaUc?oc=5"
   },
   "geopolitics": {
-    "title": "China hits EU dairy with tariffs, broadening trade conflict",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTRic2hCaFhhb3VjYmpUT3A0c1RpNGkwTjlmek5CeW9YT1hTQmFsaHB4eEdfYmdiYkg5X1hnNUk1d0dGaU1Qa2ZsMERiTXVja1Y4aGNPYnFuM0o0eXlrdzVoTE9WZ2RDQkR4Qml5WHROTGZua1BJSXJySXRYSDZNQi1Qbk4ydGhjNGdwaS1UakdRb3lrUy1kelpteXV2ZzF0cTdqUGJhQQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
     "title": "Banca Monte dei Paschi di Siena S.p.A. (BMPS) Stock Price Today",
@@ -89,7 +89,7 @@
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PNzFQUHN1MlBuZnlRa1RxcEc3NHc1OEVJSmdUQjlEcEN2cjI0My1VZTFvZ1pVM3FSaGVtRDdzaHNjeHFNMXU3aEc0aVNKSDNRYk82THN4dU9ndw?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTTR3endsUFRHOTJpUEc5YVNYSFlST09RZ1BwMFVLLXZJZzM5aG9iUzVTVTFqUlByaWE0cDJBTjlEdTV5SF91YklVVlV5M2xsMElJUXZMeFRkQQ?oc=5"
   },
   "deepRead": {
     "title": "Time for a double dip?",
