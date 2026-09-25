@@ -1,12 +1,12 @@
 {
-  "date": "24 September 2026",
+  "date": "25 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources - reuters.com",
+      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources",
       "category": "Top Story",
       "source": "Reuters",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -14,69 +14,69 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "Dealogic and Mergermarket owner’s bonds hit by AI fears",
+      "title": "Russia’s ‘Trojan horse’ in Italy tests Giorgia Meloni",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd24tOUJJM3BUS2JNWjczRDJaRGF4cGJRWjdRNWJQM082WGRYb1gtbGJmWkZKRmVVWWhhaHRRaXFEdTFGMzlTOU50cDNWSkU5RkhnaHd5NHg3SDhtV3VJdWVGUi00YVZTWUlpcHB5Q2tHVjF3VHhkOGpGTmd5QVBnQzJPcDE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnFOSm1lS1hqbXVvenRaVGhtaG5fOGtFaWg3SFVrR1Q0bTduMXdxWGdHY2FEQnZJYnFQN3dRS3VKN3dtYnVFNm1PS0ozb0lxR2xGLWlOeDVyN3NOS1gwV0xZZ25JT19PR2FmbFZpZXhNWWFmVmF3NnZTd19KOFg0YnZZZmI?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,706",
-      "detail": "-0.76%"
+      "value": "7,704",
+      "detail": "-0.02%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,936",
-      "detail": "-0.69%"
+      "value": "26,939",
+      "detail": "+0.01%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1375",
-      "detail": "-0.64%"
+      "value": "1.1393",
+      "detail": "+0.10%"
     },
     {
       "name": "Oro",
-      "value": "$4,292.10",
-      "detail": "-0.61%"
+      "value": "$4,330.00",
+      "detail": "+0.74%"
     },
     {
       "name": "Brent",
-      "value": "$100.14",
-      "detail": "-2.85%"
+      "value": "$98.70",
+      "detail": "-7.41%"
     },
     {
       "name": "Bitcoin",
-      "value": "$83,228",
-      "detail": "-1.37%"
+      "value": "$84,619",
+      "detail": "+0.28%"
     },
     {
       "name": "VIX",
-      "value": "16.27",
-      "detail": "+7.18%"
+      "value": "15.33",
+      "detail": "-2.17%"
     }
   ],
   "ai": {
-    "title": "Dealogic and Mergermarket owner’s bonds hit by AI fears",
+    "title": "Russia’s ‘Trojan horse’ in Italy tests Giorgia Meloni",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd24tOUJJM3BUS2JNWjczRDJaRGF4cGJRWjdRNWJQM082WGRYb1gtbGJmWkZKRmVVWWhhaHRRaXFEdTFGMzlTOU50cDNWSkU5RkhnaHd5NHg3SDhtV3VJdWVGUi00YVZTWUlpcHB5Q2tHVjF3VHhkOGpGTmd5QVBnQzJPcDE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnFOSm1lS1hqbXVvenRaVGhtaG5fOGtFaWg3SFVrR1Q0bTduMXdxWGdHY2FEQnZJYnFQN3dRS3VKN3dtYnVFNm1PS0ozb0lxR2xGLWlOeDVyN3NOS1gwV0xZZ25JT19PR2FmbFZpZXhNWWFmVmF3NnZTd19KOFg0YnZZZmI?oc=5"
   },
   "finance": {
-    "title": "La BCE aumenta i tassi e rivede al rialzo le previsioni su inflazione e crescita - Morningstar",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ing think",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNV9hZGNyeEtoY0ZicExXSUhrb21JWWNfU1V2WHJQbkgzNjYwQ0F4X05nbHB3TnhQeUFicnIzWC14UVZOZFRWSDUwNWRDc29NdWlXd1VSNFByYXdmQ3ZpTmVEaG1sOG5tQzVaMUEtQjZReUJ0MDlfRDNtUWdWU2ZGenJ2RHZKSWRwSnBCTEVSMXR2Nzg3d1BKU3hpNVM1LWdPS00yd3FJQkNkNVhJSFNpejZFVmwtNTlsU3NtSnRUaUc?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
   },
   "geopolitics": {
-    "title": "China hits EU dairy with tariffs, broadening trade conflict - reuters.com",
+    "title": "China hits EU dairy with tariffs, broadening trade conflict",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -92,7 +92,7 @@
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTTR3endsUFRHOTJpUEc5YVNYSFlST09RZ1BwMFVLLXZJZzM5aG9iUzVTVTFqUlByaWE0cDJBTjlEdTV5SF91YklVVlV5M2xsMElJUXZMeFRkQQ?oc=5"
   },
   "deepRead": {
-    "title": "Time for a double dip?",
+    "title": "Time for a double dip? - economist.com",
     "category": "Approfondimento",
     "source": "The Economist",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
