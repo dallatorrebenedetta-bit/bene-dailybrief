@@ -1,12 +1,12 @@
 {
-  "date": "27 September 2026",
+  "date": "28 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources",
+      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources - reuters.com",
       "category": "Top Story",
       "source": "Reuters",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -14,12 +14,12 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "Russia’s ‘Trojan horse’ in Italy tests Giorgia Meloni",
+      "title": "EU leaders begin heart-to-heart budget talks as year-end deadline looms large",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnFOSm1lS1hqbXVvenRaVGhtaG5fOGtFaWg3SFVrR1Q0bTduMXdxWGdHY2FEQnZJYnFQN3dRS3VKN3dtYnVFNm1PS0ozb0lxR2xGLWlOeDVyN3NOS1gwV0xZZ25JT19PR2FmbFZpZXhNWWFmVmF3NnZTd19KOFg0YnZZZmI?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOODFxX3BrUkd4M1JLT3pnRmVQQmU4SXNidFE1NDlNMnZqVTE3bjU5QUczbjZiLU5TSDR3cWIyakhpQU1YcVg5NGZlY1lLWkFRb2RxMTJnMkFTLUlqRkF0eUxnemRsSXdwOXpwS0FxMk96SERJMV9zS3pwQXVUTHNwdTBfOW0?oc=5"
     }
   ],
   "numbers": [
@@ -35,37 +35,37 @@
     },
     {
       "name": "EUR/USD",
-      "value": "1.1401",
-      "detail": "+0.17%"
-    },
-    {
-      "name": "Oro",
-      "value": "$4,321.20",
+      "value": "1.1375",
       "detail": "+0.00%"
     },
     {
+      "name": "Oro",
+      "value": "$4,184.10",
+      "detail": "-3.17%"
+    },
+    {
       "name": "Brent",
-      "value": "$97.44",
-      "detail": "-6.60%"
+      "value": "$100.99",
+      "detail": "+3.64%"
     },
     {
       "name": "Bitcoin",
-      "value": "$85,015",
-      "detail": "+0.72%"
+      "value": "$82,952",
+      "detail": "-1.78%"
     },
     {
       "name": "VIX",
-      "value": "14.87",
-      "detail": "-5.11%"
+      "value": "16.35",
+      "detail": "+9.95%"
     }
   ],
   "ai": {
-    "title": "Russia’s ‘Trojan horse’ in Italy tests Giorgia Meloni",
+    "title": "EU leaders begin heart-to-heart budget talks as year-end deadline looms large",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnFOSm1lS1hqbXVvenRaVGhtaG5fOGtFaWg3SFVrR1Q0bTduMXdxWGdHY2FEQnZJYnFQN3dRS3VKN3dtYnVFNm1PS0ozb0lxR2xGLWlOeDVyN3NOS1gwV0xZZ25JT19PR2FmbFZpZXhNWWFmVmF3NnZTd19KOFg0YnZZZmI?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOODFxX3BrUkd4M1JLT3pnRmVQQmU4SXNidFE1NDlNMnZqVTE3bjU5QUczbjZiLU5TSDR3cWIyakhpQU1YcVg5NGZlY1lLWkFRb2RxMTJnMkFTLUlqRkF0eUxnemRsSXdwOXpwS0FxMk96SERJMV9zS3pwQXVUTHNwdTBfOW0?oc=5"
   },
   "finance": {
     "title": "Dopo la BCE, anche la FED alza i tassi: cosa succede alla rata del tuo mutuo? - MutuiOnline.it",
@@ -76,7 +76,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3ZTZEZVSEt2bzdHejlCNjEzYk92MDF3MzQwZU5icHI1N0RMSFM3dUI1eUdNZVN3REJmUGUtVnluRDBRcVluSEpuaC1pR1hCWVBNNDZSMVJCSk5xejE3cVQzY3U5bWdQWlVYVWhhdndRXzFSdmltVE5JVW5fX0tjOEtaaGl3T2Z2VEJBUElpbTh4UjJJUF9fY3ZjY2k5VEFfYW11R09SamQzSnlxNGZB?oc=5"
   },
   "geopolitics": {
-    "title": "China hits EU dairy with tariffs, broadening trade conflict",
+    "title": "China hits EU dairy with tariffs, broadening trade conflict - reuters.com",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
