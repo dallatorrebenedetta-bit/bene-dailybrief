@@ -1,5 +1,5 @@
 {
-  "date": "29 September 2026",
+  "date": "30 September 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,7 +14,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "Intel abandons European manufacturing sites as part of turnaround plan",
+      "title": "Intel abandons European manufacturing sites as part of turnaround plan - ft.com",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -25,42 +25,42 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,684",
-      "detail": "-0.27%"
+      "value": "7,671",
+      "detail": "-0.94%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,820",
-      "detail": "-0.44%"
+      "value": "26,798",
+      "detail": "-1.00%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1353",
-      "detail": "-0.22%"
+      "value": "1.1360",
+      "detail": "-0.11%"
     },
     {
       "name": "Oro",
-      "value": "$4,183.10",
-      "detail": "+0.35%"
+      "value": "$4,220.40",
+      "detail": "+0.97%"
     },
     {
       "name": "Brent",
-      "value": "$97.42",
-      "detail": "-7.47%"
+      "value": "$97.05",
+      "detail": "-5.40%"
     },
     {
       "name": "Bitcoin",
-      "value": "$84,005",
-      "detail": "+0.60%"
+      "value": "$83,878",
+      "detail": "+0.31%"
     },
     {
       "name": "VIX",
-      "value": "16.05",
-      "detail": "-0.12%"
+      "value": "16.08",
+      "detail": "+0.25%"
     }
   ],
   "ai": {
-    "title": "Intel abandons European manufacturing sites as part of turnaround plan",
+    "title": "Intel abandons European manufacturing sites as part of turnaround plan - ft.com",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
