@@ -1,5 +1,5 @@
 {
-  "date": "30 September 2026",
+  "date": "01 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,7 +14,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "Intel abandons European manufacturing sites as part of turnaround plan - ft.com",
+      "title": "Intel abandons European manufacturing sites as part of turnaround plan",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -25,42 +25,42 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,671",
-      "detail": "-0.94%"
+      "value": "7,652",
+      "detail": "-0.42%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,798",
-      "detail": "-1.00%"
+      "value": "26,861",
+      "detail": "+0.15%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1360",
-      "detail": "-0.11%"
+      "value": "1.1291",
+      "detail": "-0.44%"
     },
     {
       "name": "Oro",
-      "value": "$4,220.40",
-      "detail": "+0.97%"
+      "value": "$4,201.70",
+      "detail": "+0.36%"
     },
     {
       "name": "Brent",
-      "value": "$97.05",
-      "detail": "-5.40%"
+      "value": "$100.09",
+      "detail": "-3.32%"
     },
     {
       "name": "Bitcoin",
-      "value": "$83,878",
-      "detail": "+0.31%"
+      "value": "$83,806",
+      "detail": "+0.30%"
     },
     {
       "name": "VIX",
-      "value": "16.08",
-      "detail": "+0.25%"
+      "value": "16.24",
+      "detail": "-0.61%"
     }
   ],
   "ai": {
-    "title": "Intel abandons European manufacturing sites as part of turnaround plan - ft.com",
+    "title": "Intel abandons European manufacturing sites as part of turnaround plan",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -84,7 +84,7 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTRic2hCaFhhb3VjYmpUT3A0c1RpNGkwTjlmek5CeW9YT1hTQmFsaHB4eEdfYmdiYkg5X1hnNUk1d0dGaU1Qa2ZsMERiTXVja1Y4aGNPYnFuM0o0eXlrdzVoTE9WZ2RDQkR4Qml5WHROTGZua1BJSXJySXRYSDZNQi1Qbk4ydGhjNGdwaS1UakdRb3lrUy1kelpteXV2ZzF0cTdqUGJhQQ?oc=5"
   },
   "business": {
-    "title": "MSTR | Strategy Inc. Company Profile & Executives",
+    "title": "MSTR | Strategy Inc. Company Profile & Executives - wsj.com",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
