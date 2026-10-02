@@ -1,12 +1,12 @@
 {
-  "date": "01 October 2026",
+  "date": "02 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources",
+      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources - reuters.com",
       "category": "Top Story",
       "source": "Reuters",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,652",
-      "detail": "-0.42%"
+      "value": "7,666",
+      "detail": "-0.06%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,861",
-      "detail": "+0.15%"
+      "value": "26,872",
+      "detail": "+0.28%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1291",
-      "detail": "-0.44%"
+      "value": "1.1241",
+      "detail": "-0.76%"
     },
     {
       "name": "Oro",
-      "value": "$4,201.70",
-      "detail": "+0.36%"
+      "value": "$4,207.50",
+      "detail": "+0.12%"
     },
     {
       "name": "Brent",
-      "value": "$100.09",
-      "detail": "-3.32%"
+      "value": "$99.73",
+      "detail": "-2.52%"
     },
     {
       "name": "Bitcoin",
-      "value": "$83,806",
-      "detail": "+0.30%"
+      "value": "$86,310",
+      "detail": "+1.72%"
     },
     {
       "name": "VIX",
-      "value": "16.24",
-      "detail": "-0.61%"
+      "value": "16.01",
+      "detail": "-2.32%"
     }
   ],
   "ai": {
@@ -76,15 +76,15 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3ZTZEZVSEt2bzdHejlCNjEzYk92MDF3MzQwZU5icHI1N0RMSFM3dUI1eUdNZVN3REJmUGUtVnluRDBRcVluSEpuaC1pR1hCWVBNNDZSMVJCSk5xejE3cVQzY3U5bWdQWlVYVWhhdndRXzFSdmltVE5JVW5fX0tjOEtaaGl3T2Z2VEJBUElpbTh4UjJJUF9fY3ZjY2k5VEFfYW11R09SamQzSnlxNGZB?oc=5"
   },
   "geopolitics": {
-    "title": "China hits EU dairy with tariffs, broadening trade conflict",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics - reuters.com",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTRic2hCaFhhb3VjYmpUT3A0c1RpNGkwTjlmek5CeW9YT1hTQmFsaHB4eEdfYmdiYkg5X1hnNUk1d0dGaU1Qa2ZsMERiTXVja1Y4aGNPYnFuM0o0eXlrdzVoTE9WZ2RDQkR4Qml5WHROTGZua1BJSXJySXRYSDZNQi1Qbk4ydGhjNGdwaS1UakdRb3lrUy1kelpteXV2ZzF0cTdqUGJhQQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
-    "title": "MSTR | Strategy Inc. Company Profile & Executives - wsj.com",
+    "title": "MSTR | Strategy Inc. Company Profile & Executives",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -92,7 +92,7 @@
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NUGR0NS1MdW8taTJhWklSX01XSjd0TTR4bThTd3dLcmhhaWt6c2x5WkxXaENmaGxwai13WXpVbHZjcG9KT0ZVYlNJVmVDNndEdG9EVk5KOWI2WXQtSnYzcTU0eGM4MURTQWc?oc=5"
   },
   "deepRead": {
-    "title": "Time for a double dip?",
+    "title": "Time for a double dip? - economist.com",
     "category": "Approfondimento",
     "source": "The Economist",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
