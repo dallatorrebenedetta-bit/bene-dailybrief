@@ -1,12 +1,12 @@
 {
-  "date": "02 October 2026",
+  "date": "03 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources - reuters.com",
+      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources",
       "category": "Top Story",
       "source": "Reuters",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,666",
-      "detail": "-0.06%"
+      "value": "7,723",
+      "detail": "+0.93%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,872",
-      "detail": "+0.28%"
+      "value": "27,191",
+      "detail": "+1.23%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1241",
-      "detail": "-0.76%"
+      "value": "1.1257",
+      "detail": "-0.62%"
     },
     {
       "name": "Oro",
-      "value": "$4,207.50",
-      "detail": "+0.12%"
+      "value": "$4,162.30",
+      "detail": "-0.95%"
     },
     {
       "name": "Brent",
-      "value": "$99.73",
-      "detail": "-2.52%"
+      "value": "$102.25",
+      "detail": "-0.06%"
     },
     {
       "name": "Bitcoin",
-      "value": "$86,310",
-      "detail": "+1.72%"
+      "value": "$84,569",
+      "detail": "+0.08%"
     },
     {
       "name": "VIX",
-      "value": "16.01",
-      "detail": "-2.32%"
+      "value": "15.31",
+      "detail": "-6.59%"
     }
   ],
   "ai": {
@@ -76,7 +76,7 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3ZTZEZVSEt2bzdHejlCNjEzYk92MDF3MzQwZU5icHI1N0RMSFM3dUI1eUdNZVN3REJmUGUtVnluRDBRcVluSEpuaC1pR1hCWVBNNDZSMVJCSk5xejE3cVQzY3U5bWdQWlVYVWhhdndRXzFSdmltVE5JVW5fX0tjOEtaaGl3T2Z2VEJBUElpbTh4UjJJUF9fY3ZjY2k5VEFfYW11R09SamQzSnlxNGZB?oc=5"
   },
   "geopolitics": {
-    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics - reuters.com",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -92,7 +92,7 @@
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NUGR0NS1MdW8taTJhWklSX01XSjd0TTR4bThTd3dLcmhhaWt6c2x5WkxXaENmaGxwai13WXpVbHZjcG9KT0ZVYlNJVmVDNndEdG9EVk5KOWI2WXQtSnYzcTU0eGM4MURTQWc?oc=5"
   },
   "deepRead": {
-    "title": "Time for a double dip? - economist.com",
+    "title": "Time for a double dip?",
     "category": "Approfondimento",
     "source": "The Economist",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
