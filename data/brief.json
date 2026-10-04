@@ -1,12 +1,12 @@
 {
-  "date": "03 October 2026",
+  "date": "04 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources",
+      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources - reuters.com",
       "category": "Top Story",
       "source": "Reuters",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -41,17 +41,17 @@
     {
       "name": "Oro",
       "value": "$4,162.30",
-      "detail": "-0.95%"
+      "detail": "+0.00%"
     },
     {
       "name": "Brent",
       "value": "$102.25",
-      "detail": "-0.06%"
+      "detail": "+0.00%"
     },
     {
       "name": "Bitcoin",
-      "value": "$84,569",
-      "detail": "+0.08%"
+      "value": "$85,324",
+      "detail": "+0.66%"
     },
     {
       "name": "VIX",
@@ -68,20 +68,20 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTm1YQk5hSHZ0THhRU2otQzFkWG5TcFdZS3ExSENjU1VvRlJHdVpSc0xaS2Rwd1JYYU5NUEhCTW5INzJQbkZjUkNvSDNRNFRDQ21BV21laWxxSTAybmt6dzVocjItcUZpdFpvSVU3RHNHSHpHSDUtckdnVUxuTFUxMlFoRXU?oc=5"
   },
   "finance": {
-    "title": "Dopo la BCE, anche la FED alza i tassi: cosa succede alla rata del tuo mutuo? - MutuiOnline.it",
+    "title": "La Federal Reserve e la BCE aumenteranno i tassi di interesse questo mese? - Vietnam.vn",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3ZTZEZVSEt2bzdHejlCNjEzYk92MDF3MzQwZU5icHI1N0RMSFM3dUI1eUdNZVN3REJmUGUtVnluRDBRcVluSEpuaC1pR1hCWVBNNDZSMVJCSk5xejE3cVQzY3U5bWdQWlVYVWhhdndRXzFSdmltVE5JVW5fX0tjOEtaaGl3T2Z2VEJBUElpbTh4UjJJUF9fY3ZjY2k5VEFfYW11R09SamQzSnlxNGZB?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85Z2pwS2lsSURibkNlZElRZDQ5U2JQLUZKTVhnQnlOdnp5WE44STBvLWxEVUNhTGtGN19YU2FLNEZsZ2hybWtpcnV1RHU2SlBEdTJ2ZjdiSmdJWUM4cHRTdG43T19wNWlZbHY4WTRTOVJBMm1sRmk4UlF1M2pLRDg?oc=5"
   },
   "geopolitics": {
-    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
+    "title": "China hits EU dairy with tariffs, broadening trade conflict - reuters.com",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTRic2hCaFhhb3VjYmpUT3A0c1RpNGkwTjlmek5CeW9YT1hTQmFsaHB4eEdfYmdiYkg5X1hnNUk1d0dGaU1Qa2ZsMERiTXVja1Y4aGNPYnFuM0o0eXlrdzVoTE9WZ2RDQkR4Qml5WHROTGZua1BJSXJySXRYSDZNQi1Qbk4ydGhjNGdwaS1UakdRb3lrUy1kelpteXV2ZzF0cTdqUGJhQQ?oc=5"
   },
   "business": {
     "title": "MSTR | Strategy Inc. Company Profile & Executives",
