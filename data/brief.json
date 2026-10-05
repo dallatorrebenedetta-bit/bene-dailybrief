@@ -1,12 +1,12 @@
 {
-  "date": "04 October 2026",
+  "date": "05 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources - reuters.com",
+      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources",
       "category": "Top Story",
       "source": "Reuters",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
@@ -35,28 +35,28 @@
     },
     {
       "name": "EUR/USD",
-      "value": "1.1257",
-      "detail": "-0.62%"
+      "value": "1.1207",
+      "detail": "-0.38%"
     },
     {
       "name": "Oro",
-      "value": "$4,162.30",
-      "detail": "+0.00%"
+      "value": "$4,182.00",
+      "detail": "+0.47%"
     },
     {
       "name": "Brent",
-      "value": "$102.25",
-      "detail": "+0.00%"
+      "value": "$102.63",
+      "detail": "+0.37%"
     },
     {
       "name": "Bitcoin",
-      "value": "$85,324",
-      "detail": "+0.66%"
+      "value": "$86,133",
+      "detail": "-0.40%"
     },
     {
       "name": "VIX",
-      "value": "15.31",
-      "detail": "-6.59%"
+      "value": "16.15",
+      "detail": "+5.49%"
     }
   ],
   "ai": {
@@ -76,7 +76,7 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85Z2pwS2lsSURibkNlZElRZDQ5U2JQLUZKTVhnQnlOdnp5WE44STBvLWxEVUNhTGtGN19YU2FLNEZsZ2hybWtpcnV1RHU2SlBEdTJ2ZjdiSmdJWUM4cHRTdG43T19wNWlZbHY4WTRTOVJBMm1sRmk4UlF1M2pLRDg?oc=5"
   },
   "geopolitics": {
-    "title": "China hits EU dairy with tariffs, broadening trade conflict - reuters.com",
+    "title": "China hits EU dairy with tariffs, broadening trade conflict",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
