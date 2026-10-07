@@ -1,5 +1,5 @@
 {
-  "date": "06 October 2026",
+  "date": "07 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,58 +14,58 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "Letter: Colleagues of Bonino recall an Italian radical",
+      "title": "EU leaders begin heart-to-heart budget talks as year-end deadline looms large",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wZ2t4YlhRM0dIbGczMm9lbjEyQzk5R0xna0J6dEozaEh2bjFJWkZPaWVaNUxZeGoyZnI3V2VzTGlDejNfRTZUYmtRUEtVYlNaSUVSR3FYdnh1N1dpcjZhMmg1b2xkbVpWZXdIVGc5T3k?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOODFxX3BrUkd4M1JLT3pnRmVQQmU4SXNidFE1NDlNMnZqVTE3bjU5QUczbjZiLU5TSDR3cWIyakhpQU1YcVg5NGZlY1lLWkFRb2RxMTJnMkFTLUlqRkF0eUxnemRsSXdwOXpwS0FxMk96SERJMV9zS3pwQXVUTHNwdTBfOW0?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,774",
-      "detail": "+1.40%"
+      "value": "7,819",
+      "detail": "+1.25%"
     },
     {
       "name": "Nasdaq",
-      "value": "27,477",
-      "detail": "+2.25%"
+      "value": "27,600",
+      "detail": "+1.50%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1263",
-      "detail": "+0.07%"
+      "value": "1.1189",
+      "detail": "-0.25%"
     },
     {
       "name": "Oro",
-      "value": "$4,191.90",
-      "detail": "+0.84%"
+      "value": "$4,146.20",
+      "detail": "-0.98%"
     },
     {
       "name": "Brent",
-      "value": "$98.37",
-      "detail": "-1.94%"
+      "value": "$101.96",
+      "detail": "+1.37%"
     },
     {
       "name": "Bitcoin",
-      "value": "$86,249",
-      "detail": "+0.54%"
+      "value": "$83,672",
+      "detail": "-2.20%"
     },
     {
       "name": "VIX",
-      "value": "15.29",
-      "detail": "-1.48%"
+      "value": "15.80",
+      "detail": "+5.26%"
     }
   ],
   "ai": {
-    "title": "Letter: Colleagues of Bonino recall an Italian radical",
+    "title": "EU leaders begin heart-to-heart budget talks as year-end deadline looms large",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wZ2t4YlhRM0dIbGczMm9lbjEyQzk5R0xna0J6dEozaEh2bjFJWkZPaWVaNUxZeGoyZnI3V2VzTGlDejNfRTZUYmtRUEtVYlNaSUVSR3FYdnh1N1dpcjZhMmg1b2xkbVpWZXdIVGc5T3k?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOODFxX3BrUkd4M1JLT3pnRmVQQmU4SXNidFE1NDlNMnZqVTE3bjU5QUczbjZiLU5TSDR3cWIyakhpQU1YcVg5NGZlY1lLWkFRb2RxMTJnMkFTLUlqRkF0eUxnemRsSXdwOXpwS0FxMk96SERJMV9zS3pwQXVUTHNwdTBfOW0?oc=5"
   },
   "finance": {
     "title": "La Federal Reserve e la BCE aumenteranno i tassi di interesse questo mese? - Vietnam.vn",
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85Z2pwS2lsSURibkNlZElRZDQ5U2JQLUZKTVhnQnlOdnp5WE44STBvLWxEVUNhTGtGN19YU2FLNEZsZ2hybWtpcnV1RHU2SlBEdTJ2ZjdiSmdJWUM4cHRTdG43T19wNWlZbHY4WTRTOVJBMm1sRmk4UlF1M2pLRDg?oc=5"
   },
   "geopolitics": {
-    "title": "Leonardo sees EU defence spending boosting cash flow, pays dividend",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGhWY0pIbzAtanVNWk03Y1N1bDF5RVN5c2M3YkhoR0tmM3h0YmVMWEFfVjlGaUc2MjNNNWhLUGdvS0JWS25keXRzZ3lDcUFlVnUwRXZrUmhiMkMtWHZJYkZCZXlXalBaeHlrWmk5c1hINkdIWUs1enA2S2RKbU53T2NTd1R5anItMmFiLTZUa2lOMDEzaW9nWlczR3pBUjJzQm9zcGU0aVFJaF9zUTdLSnBudFVXM3J0Q0U5Wm52UkZCd2syR25VOQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
     "title": "MSTR | Strategy Inc. Company Profile & Executives",
