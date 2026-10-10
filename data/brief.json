@@ -1,5 +1,5 @@
 {
-  "date": "09 October 2026",
+  "date": "10 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,66 +14,66 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "EU leaders begin heart-to-heart budget talks as year-end deadline looms large",
+      "title": "The environmental cost of AI",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOODFxX3BrUkd4M1JLT3pnRmVQQmU4SXNidFE1NDlNMnZqVTE3bjU5QUczbjZiLU5TSDR3cWIyakhpQU1YcVg5NGZlY1lLWkFRb2RxMTJnMkFTLUlqRkF0eUxnemRsSXdwOXpwS0FxMk96SERJMV9zS3pwQXVUTHNwdTBfOW0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,765",
-      "detail": "-0.69%"
+      "value": "7,812",
+      "detail": "+0.13%"
     },
     {
       "name": "Nasdaq",
-      "value": "27,193",
-      "detail": "-1.47%"
+      "value": "27,366",
+      "detail": "-0.63%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1217",
-      "detail": "+0.14%"
+      "value": "1.1206",
+      "detail": "+0.04%"
     },
     {
       "name": "Oro",
-      "value": "$4,207.80",
-      "detail": "+1.22%"
+      "value": "$4,216.30",
+      "detail": "+1.43%"
     },
     {
       "name": "Brent",
-      "value": "$102.76",
-      "detail": "-1.46%"
+      "value": "$104.72",
+      "detail": "+0.42%"
     },
     {
       "name": "Bitcoin",
-      "value": "$82,771",
-      "detail": "+1.34%"
+      "value": "$82,793",
+      "detail": "+0.30%"
     },
     {
       "name": "VIX",
-      "value": "15.22",
-      "detail": "-1.23%"
+      "value": "14.84",
+      "detail": "-3.70%"
     }
   ],
   "ai": {
-    "title": "EU leaders begin heart-to-heart budget talks as year-end deadline looms large",
+    "title": "The environmental cost of AI",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOODFxX3BrUkd4M1JLT3pnRmVQQmU4SXNidFE1NDlNMnZqVTE3bjU5QUczbjZiLU5TSDR3cWIyakhpQU1YcVg5NGZlY1lLWkFRb2RxMTJnMkFTLUlqRkF0eUxnemRsSXdwOXpwS0FxMk96SERJMV9zS3pwQXVUTHNwdTBfOW0?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "La Federal Reserve e la BCE aumenteranno i tassi di interesse questo mese? - Vietnam.vn",
+    "title": "La Federal Reserve e la BCE subiscono meno pressioni nella loro decisione sui tassi di interesse di ottobre. - Vietnam.vn",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85Z2pwS2lsSURibkNlZElRZDQ5U2JQLUZKTVhnQnlOdnp5WE44STBvLWxEVUNhTGtGN19YU2FLNEZsZ2hybWtpcnV1RHU2SlBEdTJ2ZjdiSmdJWUM4cHRTdG43T19wNWlZbHY4WTRTOVJBMm1sRmk4UlF1M2pLRDg?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUE5QlRpdDU4MTltRDJPQ1NQa09ZSHVyRGtQM1N2enQ3ZjBJdWN3NnJoRC16UDdJd2FtemhDanRKcTBlLVhBb1AyZzFPWS1Kck0xakx6NXdUWFI2c0pQcTYyLXNNRlVIRmFHckg3eFhaWHV2Y2xBSk41UkxfUE9wZXZOcWsyWS1qVmttVjV6WUh2ZjZpTTVaUg?oc=5"
   },
   "geopolitics": {
     "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
@@ -84,12 +84,12 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
-    "title": "MSTR | Strategy Inc. Company Profile & Executives",
+    "title": "Magnum Shares Surge on Robust Sales",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NUGR0NS1MdW8taTJhWklSX01XSjd0TTR4bThTd3dLcmhhaWt6c2x5WkxXaENmaGxwai13WXpVbHZjcG9KT0ZVYlNJVmVDNndEdG9EVk5KOWI2WXQtSnYzcTU0eGM4MURTQWc?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk9ta1dBWk9JMUMxRHpkaHlmcnY4dVlsTFVuUmdQbzRNMW8zdWx3XzJMRS0yRW94aWsydDVYQUdOUkVoajRJRjcxbUJxOGJKN0ttS3JnWVhtaTNSX1RfWEFRNHd3d3BwdmhSSGYyM1FCUUJCN1BZQm02YlpoX0QwTkdCX2JBQzc3WkwtQ0tQWU1SU0NuQXlSS2N3X0ZPcUM0cXc?oc=5"
   },
   "deepRead": {
     "title": "Time for a double dip?",
