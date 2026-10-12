@@ -1,5 +1,5 @@
 {
-  "date": "11 October 2026",
+  "date": "12 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -35,28 +35,28 @@
     },
     {
       "name": "EUR/USD",
-      "value": "1.1206",
-      "detail": "+0.04%"
+      "value": "1.1179",
+      "detail": "-0.30%"
     },
     {
       "name": "Oro",
-      "value": "$4,216.30",
-      "detail": "+0.00%"
+      "value": "$4,187.30",
+      "detail": "-0.69%"
     },
     {
       "name": "Brent",
-      "value": "$104.72",
-      "detail": "+0.00%"
+      "value": "$106.06",
+      "detail": "+1.28%"
     },
     {
       "name": "Bitcoin",
-      "value": "$82,945",
-      "detail": "+0.04%"
+      "value": "$82,867",
+      "detail": "-0.97%"
     },
     {
       "name": "VIX",
-      "value": "14.84",
-      "detail": "-3.70%"
+      "value": "15.42",
+      "detail": "+3.91%"
     }
   ],
   "ai": {
