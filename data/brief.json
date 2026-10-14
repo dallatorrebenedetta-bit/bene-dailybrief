@@ -1,5 +1,5 @@
 {
-  "date": "13 October 2026",
+  "date": "14 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,807",
-      "detail": "+0.54%"
+      "value": "7,805",
+      "detail": "-0.08%"
     },
     {
       "name": "Nasdaq",
-      "value": "27,246",
-      "detail": "+0.19%"
+      "value": "27,204",
+      "detail": "-0.59%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1191",
-      "detail": "+0.27%"
+      "value": "1.1197",
+      "detail": "+0.33%"
     },
     {
       "name": "Oro",
-      "value": "$4,212.90",
-      "detail": "+0.53%"
+      "value": "$4,164.60",
+      "detail": "-0.30%"
     },
     {
       "name": "Brent",
-      "value": "$104.73",
-      "detail": "-1.80%"
+      "value": "$105.85",
+      "detail": "+0.15%"
     },
     {
       "name": "Bitcoin",
-      "value": "$83,104",
-      "detail": "+1.64%"
+      "value": "$83,181",
+      "detail": "+0.10%"
     },
     {
       "name": "VIX",
-      "value": "15.41",
-      "detail": "+1.31%"
+      "value": "15.22",
+      "detail": "-0.33%"
     }
   ],
   "ai": {
