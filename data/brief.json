@@ -1,17 +1,17 @@
 {
-  "date": "14 October 2026",
+  "date": "15 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Italy talking to banks, energy groups over contribution to 2027 budget",
+      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources",
       "category": "Top Story",
       "source": "Reuters",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0dFRlh1RzlocVFxd0wtNWswSGRxdzFTZE5hQlNpRzBtLUpSUXl4Zi1LNVNlY2lxUGhNbVlSQ3UtUkNKTFVndWRDV3E3U1NZS0J6UmgyRHZZWVRHQWk5Z1dKSk81a0NySXNXMWM5UnVTQzdlbFZBdldmZ3haVnRMQ0xUeU5jR0ZFa2FLUXNYWTVONmZXSlRTaG1FZy11enJ6TGpSME51Q0dTZFhHZDYyazBwUEZTQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
       "title": "The environmental cost of AI",
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,805",
-      "detail": "-0.08%"
+      "value": "7,719",
+      "detail": "-1.13%"
     },
     {
       "name": "Nasdaq",
-      "value": "27,204",
-      "detail": "-0.59%"
+      "value": "26,693",
+      "detail": "-2.03%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1197",
-      "detail": "+0.33%"
+      "value": "1.1228",
+      "detail": "+0.21%"
     },
     {
       "name": "Oro",
-      "value": "$4,164.60",
-      "detail": "-0.30%"
+      "value": "$4,179.10",
+      "detail": "+1.73%"
     },
     {
       "name": "Brent",
-      "value": "$105.85",
-      "detail": "+0.15%"
+      "value": "$103.93",
+      "detail": "-2.01%"
     },
     {
       "name": "Bitcoin",
-      "value": "$83,181",
-      "detail": "+0.10%"
+      "value": "$81,137",
+      "detail": "-0.52%"
     },
     {
       "name": "VIX",
-      "value": "15.22",
-      "detail": "-0.33%"
+      "value": "17.39",
+      "detail": "+3.08%"
     }
   ],
   "ai": {
