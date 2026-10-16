@@ -1,17 +1,17 @@
 {
-  "date": "15 October 2026",
+  "date": "16 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources",
+      "title": "Italy to raise almost €11 billion from financial sector in next three years",
       "category": "Top Story",
       "source": "Reuters",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEJnc0tiQnU3dWhLUWowM01FOFp5ZjUtd0dMWU1VbjV1QVJBNjZzb1FLbm8zU1E2NjFqTk01eUtpT2ttM2dQR1BvVHZublJweHFhSWNyYnlYT2h0NlMxV0o1ZmJneGFKa1hiajNQWHlGM2pKME52dXZpdnY4Q1pnTjRnY1NHMjFjRnZ6dzBXZl90MlVWbXBPQkZaeWNla25oUXpTbnRTQjVPZw?oc=5"
     },
     {
       "title": "The environmental cost of AI",
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,719",
-      "detail": "-1.13%"
+      "value": "7,744",
+      "detail": "-0.79%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,693",
-      "detail": "-2.03%"
+      "value": "26,713",
+      "detail": "-1.81%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1228",
-      "detail": "+0.21%"
+      "value": "1.1259",
+      "detail": "+0.57%"
     },
     {
       "name": "Oro",
-      "value": "$4,179.10",
-      "detail": "+1.73%"
+      "value": "$4,212.40",
+      "detail": "+1.01%"
     },
     {
       "name": "Brent",
-      "value": "$103.93",
-      "detail": "-2.01%"
+      "value": "$102.55",
+      "detail": "-3.18%"
     },
     {
       "name": "Bitcoin",
-      "value": "$81,137",
-      "detail": "-0.52%"
+      "value": "$82,046",
+      "detail": "-0.12%"
     },
     {
       "name": "VIX",
-      "value": "17.39",
-      "detail": "+3.08%"
+      "value": "16.03",
+      "detail": "-2.61%"
     }
   ],
   "ai": {
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM2JXSEpKWWdINzkzVU9vaGRsd3o1XzlDNUxwUktNTS1TSXlDUXhBUjBlZE5hQy1jNUlTREoyUWdkOS1jS2UyNVlxVDk1UkIzOEpuNW1RZ21yNm5vaGFkb1lYQ2NSRzY4UmdmWmxjOVRobmV3T2dzbkZoTzJqaFFiVlFPZWNjVkZpWHJmRTM1dDkzeTYzZWhNRw?oc=5"
   },
   "geopolitics": {
-    "title": "Btp lima perdite dopo intervento Draghi in Senato",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOV82Z3IyYUtwaHVud2pDcGlWNFd3d3laQ2RJeGtOeFcyeGZpUzNkeDZSTWttQjJvczNqUHNRc1dUalB6N29uTUFBQnJtOU1tZFJSY3U2UERRSEswb0hzWVVKYmgxWDBLa3lxcWlPSk5LVFM5R000Um1NWUN2UGV5eXAyTzFSRk5yNFdvU2R2NXgzN0QycWhfSkNMU3A?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
     "title": "Doctors Weigh in on Peptides and Fertility",
