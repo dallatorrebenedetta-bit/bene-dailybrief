@@ -1,5 +1,5 @@
 {
-  "date": "16 October 2026",
+  "date": "17 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,744",
-      "detail": "-0.79%"
+      "value": "7,659",
+      "detail": "-0.77%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,713",
-      "detail": "-1.81%"
+      "value": "26,140",
+      "detail": "-2.07%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1259",
-      "detail": "+0.57%"
+      "value": "1.1244",
+      "detail": "+0.44%"
     },
     {
       "name": "Oro",
-      "value": "$4,212.40",
-      "detail": "+1.01%"
+      "value": "$4,181.10",
+      "detail": "+0.26%"
     },
     {
       "name": "Brent",
-      "value": "$102.55",
-      "detail": "-3.18%"
+      "value": "$109.86",
+      "detail": "+3.72%"
     },
     {
       "name": "Bitcoin",
-      "value": "$82,046",
-      "detail": "-0.12%"
+      "value": "$81,589",
+      "detail": "+0.11%"
     },
     {
       "name": "VIX",
-      "value": "16.03",
-      "detail": "-2.61%"
+      "value": "19.99",
+      "detail": "+21.45%"
     }
   ],
   "ai": {
@@ -84,12 +84,12 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
-    "title": "Doctors Weigh in on Peptides and Fertility",
+    "title": "Magnum Shares Surge on Robust Sales",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaFU4OXExeUhOX25PX2YwdEZWdm9YV0dPVENmMDJBMjNFam1oS256elJvRU50dVMxVU00djBac0VUMzZLaDlmQV85Y1AtTloxNVlPOWhXSUdfR2lxVnU2VnczbE4waWRBZXA5TVJsQlQtRUNLUGRWOVNzVi03WjFWSXhyaXQ2WEUyUWR6UlR3Skw?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk9ta1dBWk9JMUMxRHpkaHlmcnY4dVlsTFVuUmdQbzRNMW8zdWx3XzJMRS0yRW94aWsydDVYQUdOUkVoajRJRjcxbUJxOGJKN0ttS3JnWVhtaTNSX1RfWEFRNHd3d3BwdmhSSGYyM1FCUUJCN1BZQm02YlpoX0QwTkdCX2JBQzc3WkwtQ0tQWU1SU0NuQXlSS2N3X0ZPcUM0cXc?oc=5"
   },
   "deepRead": {
     "title": "Time for a double dip?",
