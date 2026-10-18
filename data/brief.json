@@ -1,5 +1,5 @@
 {
-  "date": "17 October 2026",
+  "date": "18 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -35,23 +35,23 @@
     },
     {
       "name": "EUR/USD",
-      "value": "1.1244",
-      "detail": "+0.44%"
+      "value": "1.1242",
+      "detail": "+0.42%"
     },
     {
       "name": "Oro",
       "value": "$4,181.10",
-      "detail": "+0.26%"
+      "detail": "+0.00%"
     },
     {
       "name": "Brent",
       "value": "$109.86",
-      "detail": "+3.72%"
+      "detail": "+0.00%"
     },
     {
       "name": "Bitcoin",
-      "value": "$81,589",
-      "detail": "+0.11%"
+      "value": "$81,864",
+      "detail": "+0.59%"
     },
     {
       "name": "VIX",
@@ -68,12 +68,12 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "Banche centrali, la previsione di ING su Fed, BCE, BoE e BoJ di settembre 2026 - ing think",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ing think",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM2JXSEpKWWdINzkzVU9vaGRsd3o1XzlDNUxwUktNTS1TSXlDUXhBUjBlZE5hQy1jNUlTREoyUWdkOS1jS2UyNVlxVDk1UkIzOEpuNW1RZ21yNm5vaGFkb1lYQ2NSRzY4UmdmWmxjOVRobmV3T2dzbkZoTzJqaFFiVlFPZWNjVkZpWHJmRTM1dDkzeTYzZWhNRw?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
   },
   "geopolitics": {
     "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
