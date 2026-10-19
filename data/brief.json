@@ -1,5 +1,5 @@
 {
-  "date": "18 October 2026",
+  "date": "19 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -35,28 +35,28 @@
     },
     {
       "name": "EUR/USD",
-      "value": "1.1242",
-      "detail": "+0.42%"
+      "value": "1.1210",
+      "detail": "-0.03%"
     },
     {
       "name": "Oro",
-      "value": "$4,181.10",
-      "detail": "+0.00%"
+      "value": "$4,188.80",
+      "detail": "+0.18%"
     },
     {
       "name": "Brent",
-      "value": "$109.86",
-      "detail": "+0.00%"
+      "value": "$108.64",
+      "detail": "-1.11%"
     },
     {
       "name": "Bitcoin",
-      "value": "$81,864",
-      "detail": "+0.59%"
+      "value": "$82,453",
+      "detail": "+0.53%"
     },
     {
       "name": "VIX",
-      "value": "19.99",
-      "detail": "+21.45%"
+      "value": "18.63",
+      "detail": "-6.80%"
     }
   ],
   "ai": {
@@ -76,20 +76,20 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
   },
   "geopolitics": {
-    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
+    "title": "Italy to raise almost €11 billion from financial sector in next three years",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEJnc0tiQnU3dWhLUWowM01FOFp5ZjUtd0dMWU1VbjV1QVJBNjZzb1FLbm8zU1E2NjFqTk01eUtpT2ttM2dQR1BvVHZublJweHFhSWNyYnlYT2h0NlMxV0o1ZmJneGFKa1hiajNQWHlGM2pKME52dXZpdnY4Q1pnTjRnY1NHMjFjRnZ6dzBXZl90MlVWbXBPQkZaeWNla25oUXpTbnRTQjVPZw?oc=5"
   },
   "business": {
-    "title": "Magnum Shares Surge on Robust Sales",
+    "title": "Doctors Weigh in on Peptides and Fertility",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk9ta1dBWk9JMUMxRHpkaHlmcnY4dVlsTFVuUmdQbzRNMW8zdWx3XzJMRS0yRW94aWsydDVYQUdOUkVoajRJRjcxbUJxOGJKN0ttS3JnWVhtaTNSX1RfWEFRNHd3d3BwdmhSSGYyM1FCUUJCN1BZQm02YlpoX0QwTkdCX2JBQzc3WkwtQ0tQWU1SU0NuQXlSS2N3X0ZPcUM0cXc?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaFU4OXExeUhOX25PX2YwdEZWdm9YV0dPVENmMDJBMjNFam1oS256elJvRU50dVMxVU00djBac0VUMzZLaDlmQV85Y1AtTloxNVlPOWhXSUdfR2lxVnU2VnczbE4waWRBZXA5TVJsQlQtRUNLUGRWOVNzVi03WjFWSXhyaXQ2WEUyUWR6UlR3Skw?oc=5"
   },
   "deepRead": {
     "title": "Time for a double dip?",
