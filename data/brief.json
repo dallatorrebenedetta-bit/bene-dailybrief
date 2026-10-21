@@ -1,5 +1,5 @@
 {
-  "date": "20 October 2026",
+  "date": "21 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,691",
-      "detail": "-0.69%"
+      "value": "7,713",
+      "detail": "+0.69%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,431",
-      "detail": "-1.06%"
+      "value": "26,425",
+      "detail": "+1.09%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1220",
-      "detail": "-0.04%"
+      "value": "1.1226",
+      "detail": "+0.09%"
     },
     {
       "name": "Oro",
-      "value": "$4,139.60",
-      "detail": "-0.49%"
+      "value": "$4,143.90",
+      "detail": "+0.03%"
     },
     {
       "name": "Brent",
-      "value": "$111.24",
-      "detail": "+1.54%"
+      "value": "$109.90",
+      "detail": "+1.02%"
     },
     {
       "name": "Bitcoin",
-      "value": "$81,318",
-      "detail": "-0.65%"
+      "value": "$83,321",
+      "detail": "+0.46%"
     },
     {
       "name": "VIX",
-      "value": "18.67",
-      "detail": "+1.25%"
+      "value": "17.41",
+      "detail": "+0.58%"
     }
   ],
   "ai": {
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdEVINGJmc3F2Q0tfSjA2RnVLTEpSRjJHR2ZTdjA2bWFHSEJxRjRDZmplLXRhM3loTFJURV9iN0tUYzJqYTVBZ0VyWjJXT0k5dnNEY0hZYkNwdEozdnRYN08zMkpvS1RiaEhlaEc4QmVDS0wtVlVfVnpncG1aUkVucElaVDhxakZkRENkaDR5czlGZzh0bWVZZmo5UlRVODNxMEh6UXJWUUN2RUo4VUNteDI2S19JY1YwaGJ0RmRSanBjSkVnNElqR0pHbW1wTDkxMTVGaWhrUEk0UkxuQUNFMTRqNlNUY29f0gHuAUFVX3lxTE9tTzZnOWZldnoxanNjNG90MFNkNXNTcE14WldUQUZ6R2xadi13dERXTjJHY3pWelZqc1JOZmZOeTJ5ZVdKR2dDeHNES3l1US15Q2JwUEdUVDVSbWt2Wm14MGQ3X05nRXRvOUdzMHc1dHZLTlN6U051NXNONnRrWllyTTlXbmFkRGl0RWpCcmNhemZYMnZ1T29lUnc1RXQyNThRakhKbWl0bVdNRnR1WFA1T0syUGpTS014dko5VWdBdlRIMFVFcU9PLWlsSHZZMm9qMGhNMEZrZ19pTVFqSkIxUkw1TFNSOTNEWTFYVWc?oc=5"
   },
   "geopolitics": {
-    "title": "China hits EU dairy with tariffs, broadening trade conflict",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTRic2hCaFhhb3VjYmpUT3A0c1RpNGkwTjlmek5CeW9YT1hTQmFsaHB4eEdfYmdiYkg5X1hnNUk1d0dGaU1Qa2ZsMERiTXVja1Y4aGNPYnFuM0o0eXlrdzVoTE9WZ2RDQkR4Qml5WHROTGZua1BJSXJySXRYSDZNQi1Qbk4ydGhjNGdwaS1UakdRb3lrUy1kelpteXV2ZzF0cTdqUGJhQQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
     "title": "MSTR | Strategy Inc. Company Profile & Executives",
