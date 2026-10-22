@@ -1,5 +1,5 @@
 {
-  "date": "21 October 2026",
+  "date": "22 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,82 +14,82 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEJnc0tiQnU3dWhLUWowM01FOFp5ZjUtd0dMWU1VbjV1QVJBNjZzb1FLbm8zU1E2NjFqTk01eUtpT2ttM2dQR1BvVHZublJweHFhSWNyYnlYT2h0NlMxV0o1ZmJneGFKa1hiajNQWHlGM2pKME52dXZpdnY4Q1pnTjRnY1NHMjFjRnZ6dzBXZl90MlVWbXBPQkZaeWNla25oUXpTbnRTQjVPZw?oc=5"
     },
     {
-      "title": "Letter: Colleagues of Bonino recall an Italian radical",
+      "title": "The environmental cost of AI",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wZ2t4YlhRM0dIbGczMm9lbjEyQzk5R0xna0J6dEozaEh2bjFJWkZPaWVaNUxZeGoyZnI3V2VzTGlDejNfRTZUYmtRUEtVYlNaSUVSR3FYdnh1N1dpcjZhMmg1b2xkbVpWZXdIVGc5T3k?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,713",
-      "detail": "+0.69%"
+      "value": "7,757",
+      "detail": "+0.86%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,425",
-      "detail": "+1.09%"
+      "value": "26,703",
+      "detail": "+1.03%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1226",
-      "detail": "+0.09%"
+      "value": "1.1231",
+      "detail": "+0.04%"
     },
     {
       "name": "Oro",
-      "value": "$4,143.90",
-      "detail": "+0.03%"
+      "value": "$4,100.10",
+      "detail": "-1.20%"
     },
     {
       "name": "Brent",
-      "value": "$109.90",
-      "detail": "+1.02%"
+      "value": "$112.15",
+      "detail": "+3.06%"
     },
     {
       "name": "Bitcoin",
-      "value": "$83,321",
-      "detail": "+0.46%"
+      "value": "$81,686",
+      "detail": "-2.77%"
     },
     {
       "name": "VIX",
-      "value": "17.41",
-      "detail": "+0.58%"
+      "value": "18.50",
+      "detail": "+10.91%"
     }
   ],
   "ai": {
-    "title": "Letter: Colleagues of Bonino recall an Italian radical",
+    "title": "The environmental cost of AI",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wZ2t4YlhRM0dIbGczMm9lbjEyQzk5R0xna0J6dEozaEh2bjFJWkZPaWVaNUxZeGoyZnI3V2VzTGlDejNfRTZUYmtRUEtVYlNaSUVSR3FYdnh1N1dpcjZhMmg1b2xkbVpWZXdIVGc5T3k?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "Su Bce, debiti sovrani e inflazione tira aria di tempesta perfetta - Corriere della Sera",
+    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ing think",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdEVINGJmc3F2Q0tfSjA2RnVLTEpSRjJHR2ZTdjA2bWFHSEJxRjRDZmplLXRhM3loTFJURV9iN0tUYzJqYTVBZ0VyWjJXT0k5dnNEY0hZYkNwdEozdnRYN08zMkpvS1RiaEhlaEc4QmVDS0wtVlVfVnpncG1aUkVucElaVDhxakZkRENkaDR5czlGZzh0bWVZZmo5UlRVODNxMEh6UXJWUUN2RUo4VUNteDI2S19JY1YwaGJ0RmRSanBjSkVnNElqR0pHbW1wTDkxMTVGaWhrUEk0UkxuQUNFMTRqNlNUY29f0gHuAUFVX3lxTE9tTzZnOWZldnoxanNjNG90MFNkNXNTcE14WldUQUZ6R2xadi13dERXTjJHY3pWelZqc1JOZmZOeTJ5ZVdKR2dDeHNES3l1US15Q2JwUEdUVDVSbWt2Wm14MGQ3X05nRXRvOUdzMHc1dHZLTlN6U051NXNONnRrWllyTTlXbmFkRGl0RWpCcmNhemZYMnZ1T29lUnc1RXQyNThRakhKbWl0bVdNRnR1WFA1T0syUGpTS014dko5VWdBdlRIMFVFcU9PLWlsSHZZMm9qMGhNMEZrZ19pTVFqSkIxUkw1TFNSOTNEWTFYVWc?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
   },
   "geopolitics": {
-    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
+    "title": "Italy's Lombardy to revise data centre law next week after application surge",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORXRTcUliSUM2cVJLcUFzQU9qUTYzSDlRXzhYTEU4RUdLZkNMbndSWXVCYk1fdlNvMkpTS2FSNjVhekhpdDNmOFB6UFpZUmVpVGlrUElXbEZyb1ZfSGtTVGpwR1BwS3ZJZHRLR1V1SXk2cURDQkotTVZYOXhhYW5WQnpvWTFKNjEyYzZXcXAxbWhmTFE3Q0lXT24xMWlJV1JwZm9wd0NTUVNodWFoUmNhWnFoZzhwdTVXb1BYOHdlZTRRdm8?oc=5"
   },
   "business": {
-    "title": "MSTR | Strategy Inc. Company Profile & Executives",
+    "title": "Magnum Shares Surge on Robust Sales",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NUGR0NS1MdW8taTJhWklSX01XSjd0TTR4bThTd3dLcmhhaWt6c2x5WkxXaENmaGxwai13WXpVbHZjcG9KT0ZVYlNJVmVDNndEdG9EVk5KOWI2WXQtSnYzcTU0eGM4MURTQWc?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk9ta1dBWk9JMUMxRHpkaHlmcnY4dVlsTFVuUmdQbzRNMW8zdWx3XzJMRS0yRW94aWsydDVYQUdOUkVoajRJRjcxbUJxOGJKN0ttS3JnWVhtaTNSX1RfWEFRNHd3d3BwdmhSSGYyM1FCUUJCN1BZQm02YlpoX0QwTkdCX2JBQzc3WkwtQ0tQWU1SU0NuQXlSS2N3X0ZPcUM0cXc?oc=5"
   },
   "deepRead": {
     "title": "Time for a double dip?",
