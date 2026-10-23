@@ -1,17 +1,17 @@
 {
-  "date": "22 October 2026",
+  "date": "23 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Italy to raise almost €11 billion from financial sector in next three years",
+      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources",
       "category": "Top Story",
       "source": "Reuters",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEJnc0tiQnU3dWhLUWowM01FOFp5ZjUtd0dMWU1VbjV1QVJBNjZzb1FLbm8zU1E2NjFqTk01eUtpT2ttM2dQR1BvVHZublJweHFhSWNyYnlYT2h0NlMxV0o1ZmJneGFKa1hiajNQWHlGM2pKME52dXZpdnY4Q1pnTjRnY1NHMjFjRnZ6dzBXZl90MlVWbXBPQkZaeWNla25oUXpTbnRTQjVPZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
       "title": "The environmental cost of AI",
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,757",
-      "detail": "+0.86%"
+      "value": "7,663",
+      "detail": "-0.64%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,703",
-      "detail": "+1.03%"
+      "value": "26,009",
+      "detail": "-1.57%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1231",
-      "detail": "+0.04%"
+      "value": "1.1201",
+      "detail": "-0.30%"
     },
     {
       "name": "Oro",
-      "value": "$4,100.10",
-      "detail": "-1.20%"
+      "value": "$4,042.80",
+      "detail": "-0.43%"
     },
     {
       "name": "Brent",
-      "value": "$112.15",
-      "detail": "+3.06%"
+      "value": "$109.44",
+      "detail": "-3.30%"
     },
     {
       "name": "Bitcoin",
-      "value": "$81,686",
-      "detail": "-2.77%"
+      "value": "$81,442",
+      "detail": "+0.16%"
     },
     {
       "name": "VIX",
-      "value": "18.50",
-      "detail": "+10.91%"
+      "value": "19.41",
+      "detail": "+2.00%"
     }
   ],
   "ai": {
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
   },
   "geopolitics": {
-    "title": "Italy's Lombardy to revise data centre law next week after application surge",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORXRTcUliSUM2cVJLcUFzQU9qUTYzSDlRXzhYTEU4RUdLZkNMbndSWXVCYk1fdlNvMkpTS2FSNjVhekhpdDNmOFB6UFpZUmVpVGlrUElXbEZyb1ZfSGtTVGpwR1BwS3ZJZHRLR1V1SXk2cURDQkotTVZYOXhhYW5WQnpvWTFKNjEyYzZXcXAxbWhmTFE3Q0lXT24xMWlJV1JwZm9wd0NTUVNodWFoUmNhWnFoZzhwdTVXb1BYOHdlZTRRdm8?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
     "title": "Magnum Shares Surge on Robust Sales",
