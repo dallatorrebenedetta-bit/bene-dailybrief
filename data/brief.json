@@ -1,5 +1,5 @@
 {
-  "date": "27 October 2026",
+  "date": "28 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,677",
-      "detail": "+0.17%"
+      "value": "7,723",
+      "detail": "+1.30%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,169",
-      "detail": "+0.62%"
+      "value": "26,478",
+      "detail": "+2.01%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1145",
-      "detail": "-0.65%"
+      "value": "1.1126",
+      "detail": "-0.43%"
     },
     {
       "name": "Oro",
-      "value": "$4,010.30",
-      "detail": "-0.70%"
+      "value": "$4,061.10",
+      "detail": "-0.33%"
     },
     {
       "name": "Brent",
-      "value": "$110.82",
-      "detail": "-4.31%"
+      "value": "$110.85",
+      "detail": "-2.66%"
     },
     {
       "name": "Bitcoin",
-      "value": "$79,479",
-      "detail": "-0.66%"
+      "value": "$81,427",
+      "detail": "+0.77%"
     },
     {
       "name": "VIX",
-      "value": "18.25",
-      "detail": "-0.76%"
+      "value": "17.47",
+      "detail": "-0.29%"
     }
   ],
   "ai": {
@@ -68,20 +68,20 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "BCE, BoE e BoJ verso il rialzo dei tassi. La Fed può tagliare. La previsione di ING sulle banche centrali - ing think",
+    "title": "Banche centrali, la previsione di ING su Fed, BCE, BoE e BoJ di settembre 2026 - ing think",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHFSY0cweTJWTjFnSjExNjF2XzYwTWc5VXBOc0h2LVhzZnFuaVh2Tnhld0wwajNBRkdZWGs5Wm1WTWQ0RkxmMEdXbVFpYnctUDJXSjJ6dWtiSi1qeEFhVHJrbU10OXdLYlpVNjZRaUp3QmRZN1B6amdETXpkZXZndlZXSWFfRTJWbzdfTE9UMA?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM2JXSEpKWWdINzkzVU9vaGRsd3o1XzlDNUxwUktNTS1TSXlDUXhBUjBlZE5hQy1jNUlTREoyUWdkOS1jS2UyNVlxVDk1UkIzOEpuNW1RZ21yNm5vaGFkb1lYQ2NSRzY4UmdmWmxjOVRobmV3T2dzbkZoTzJqaFFiVlFPZWNjVkZpWHJmRTM1dDkzeTYzZWhNRw?oc=5"
   },
   "geopolitics": {
-    "title": "China hits EU dairy with tariffs, broadening trade conflict",
+    "title": "COMMENTARY: Morning Bid: Global markets take a breath",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTRic2hCaFhhb3VjYmpUT3A0c1RpNGkwTjlmek5CeW9YT1hTQmFsaHB4eEdfYmdiYkg5X1hnNUk1d0dGaU1Qa2ZsMERiTXVja1Y4aGNPYnFuM0o0eXlrdzVoTE9WZ2RDQkR4Qml5WHROTGZua1BJSXJySXRYSDZNQi1Qbk4ydGhjNGdwaS1UakdRb3lrUy1kelpteXV2ZzF0cTdqUGJhQQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdEpUOXVJeDFHMGZPdWtyeHRMQWhYcENqWDgyS3AyT2JWQUxzYmpvOWljc0F3WFdQbkxmRGY5bG4tOGxwRnJ4d2p6NWFSUVVYSnJLTkt0YnhpdHQwVkd6RTUzVGNnem5MS2dWUHgzaGVMd1ItYXpVZmx0NXduUDRwYlRR?oc=5"
   },
   "business": {
     "title": "Magnum Shares Surge on Robust Sales",
