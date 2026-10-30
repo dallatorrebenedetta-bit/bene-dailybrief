@@ -1,79 +1,79 @@
 {
-  "date": "29 October 2026",
+  "date": "30 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources",
+      "title": "Russia's central bank signals rates to come down further after surprise 50bp cut",
       "category": "Top Story",
       "source": "Reuters",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjNNTVBoOFdMV2RVSFg5R1FjdzExdjJoajdyVW9yb0k5SlRkVHNLdmRza2pDcUFzNkx6cUJ2TlZuV0hPN0E4andJUmxqczYtcS04bzVGRV9WZmRSTGYxNTZvNzYtdV9EU0J5OW9wVGNyTzN5QldmTHRSVGtZVVBZQ2lUUGZzUkNKYmJ6RXVRdnFyY2k3M01WajlfZXNZNWhxTGEwZnF5MU80ZGJQaU1r?oc=5"
     },
     {
-      "title": "The environmental cost of AI",
+      "title": "BYD Energy Storage accelera l’espansione della rete post-vendita globale per i sistemi di accumulo di energia (BESS)",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQem8wNnR6QTFkRjFiczVNTTFXQkxjS25pQTJQclFmNWhNZEZuQlp4NlUyTEM0QXpxU3B0MU5ZVDZpRGduZmpxeEFrdzFUeFRPOUhnLU1zaFQxdlp1RmtLTEpPREFuREFMd3d6QWRSckZJVE1xU2xwV3Q4NTl3azluLVFlYTI2cWx2R2R5Nl83ZWZLc1hCN2dV?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,744",
-      "detail": "+0.88%"
+      "value": "7,720",
+      "detail": "-0.03%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,550",
-      "detail": "+1.45%"
+      "value": "26,185",
+      "detail": "-1.11%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1153",
-      "detail": "+0.21%"
+      "value": "1.1204",
+      "detail": "+0.43%"
     },
     {
       "name": "Oro",
-      "value": "$4,044.80",
-      "detail": "-0.17%"
+      "value": "$3,987.30",
+      "detail": "-1.09%"
     },
     {
       "name": "Brent",
-      "value": "$110.03",
-      "detail": "-4.59%"
+      "value": "$113.63",
+      "detail": "-1.09%"
     },
     {
       "name": "Bitcoin",
-      "value": "$80,142",
-      "detail": "-1.39%"
+      "value": "$77,598",
+      "detail": "-0.23%"
     },
     {
       "name": "VIX",
-      "value": "16.99",
-      "detail": "+0.47%"
+      "value": "18.60",
+      "detail": "+8.14%"
     }
   ],
   "ai": {
-    "title": "The environmental cost of AI",
+    "title": "BYD Energy Storage accelera l’espansione della rete post-vendita globale per i sistemi di accumulo di energia (BESS)",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQem8wNnR6QTFkRjFiczVNTTFXQkxjS25pQTJQclFmNWhNZEZuQlp4NlUyTEM0QXpxU3B0MU5ZVDZpRGduZmpxeEFrdzFUeFRPOUhnLU1zaFQxdlp1RmtLTEpPREFuREFMd3d6QWRSckZJVE1xU2xwV3Q4NTl3azluLVFlYTI2cWx2R2R5Nl83ZWZLc1hCN2dV?oc=5"
   },
   "finance": {
-    "title": "Su Bce, debiti sovrani e inflazione tira aria di tempesta perfetta - Corriere della Sera",
+    "title": "La Bce lascia i tassi d'interesse invariati: depositi al 2,50% - Sky TG24",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdEVINGJmc3F2Q0tfSjA2RnVLTEpSRjJHR2ZTdjA2bWFHSEJxRjRDZmplLXRhM3loTFJURV9iN0tUYzJqYTVBZ0VyWjJXT0k5dnNEY0hZYkNwdEozdnRYN08zMkpvS1RiaEhlaEc4QmVDS0wtVlVfVnpncG1aUkVucElaVDhxakZkRENkaDR5czlGZzh0bWVZZmo5UlRVODNxMEh6UXJWUUN2RUo4VUNteDI2S19JY1YwaGJ0RmRSanBjSkVnNElqR0pHbW1wTDkxMTVGaWhrUEk0UkxuQUNFMTRqNlNUY29f0gHuAUFVX3lxTE9tTzZnOWZldnoxanNjNG90MFNkNXNTcE14WldUQUZ6R2xadi13dERXTjJHY3pWelZqc1JOZmZOeTJ5ZVdKR2dDeHNES3l1US15Q2JwUEdUVDVSbWt2Wm14MGQ3X05nRXRvOUdzMHc1dHZLTlN6U051NXNONnRrWllyTTlXbmFkRGl0RWpCcmNhemZYMnZ1T29lUnc1RXQyNThRakhKbWl0bVdNRnR1WFA1T0syUGpTS014dko5VWdBdlRIMFVFcU9PLWlsSHZZMm9qMGhNMEZrZ19pTVFqSkIxUkw1TFNSOTNEWTFYVWc?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMURFN3ZJWWRLNDJVOVFwZTM1V3hLbjlTWTBlV2gtODNiZ0lUN0tQRW9tQzkwYUVKMHZJM1Q3dVRQRXg0aGozU3NiN0FJVkVCbDd3azJVZFBhcXJkbDdLOHpJLTFHRHZXRDFzNTB2MA?oc=5"
   },
   "geopolitics": {
     "title": "COMMENTARY: Morning Bid: Global markets take a breath",
