@@ -1,71 +1,71 @@
 {
-  "date": "30 October 2026",
+  "date": "31 October 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Russia's central bank signals rates to come down further after surprise 50bp cut",
+      "title": "Argentina's economy chief frontrunner pitches Milei's 'shock' therapy to banks - sources",
       "category": "Top Story",
       "source": "Reuters",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjNNTVBoOFdMV2RVSFg5R1FjdzExdjJoajdyVW9yb0k5SlRkVHNLdmRza2pDcUFzNkx6cUJ2TlZuV0hPN0E4andJUmxqczYtcS04bzVGRV9WZmRSTGYxNTZvNzYtdV9EU0J5OW9wVGNyTzN5QldmTHRSVGtZVVBZQ2lUUGZzUkNKYmJ6RXVRdnFyY2k3M01WajlfZXNZNWhxTGEwZnF5MU80ZGJQaU1r?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "BYD Energy Storage accelera l’espansione della rete post-vendita globale per i sistemi di accumulo di energia (BESS)",
+      "title": "The environmental cost of AI",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQem8wNnR6QTFkRjFiczVNTTFXQkxjS25pQTJQclFmNWhNZEZuQlp4NlUyTEM0QXpxU3B0MU5ZVDZpRGduZmpxeEFrdzFUeFRPOUhnLU1zaFQxdlp1RmtLTEpPREFuREFMd3d6QWRSckZJVE1xU2xwV3Q4NTl3azluLVFlYTI2cWx2R2R5Nl83ZWZLc1hCN2dV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,720",
-      "detail": "-0.03%"
+      "value": "7,580",
+      "detail": "-2.12%"
     },
     {
       "name": "Nasdaq",
-      "value": "26,185",
-      "detail": "-1.11%"
+      "value": "25,437",
+      "detail": "-4.19%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1204",
-      "detail": "+0.43%"
+      "value": "1.1166",
+      "detail": "+0.09%"
     },
     {
       "name": "Oro",
-      "value": "$3,987.30",
-      "detail": "-1.09%"
+      "value": "$3,898.90",
+      "detail": "-3.29%"
     },
     {
       "name": "Brent",
-      "value": "$113.63",
-      "detail": "-1.09%"
+      "value": "$113.43",
+      "detail": "-1.26%"
     },
     {
       "name": "Bitcoin",
-      "value": "$77,598",
-      "detail": "-0.23%"
+      "value": "$77,341",
+      "detail": "+0.18%"
     },
     {
       "name": "VIX",
-      "value": "18.60",
-      "detail": "+8.14%"
+      "value": "19.42",
+      "detail": "+12.91%"
     }
   ],
   "ai": {
-    "title": "BYD Energy Storage accelera l’espansione della rete post-vendita globale per i sistemi di accumulo di energia (BESS)",
+    "title": "The environmental cost of AI",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQem8wNnR6QTFkRjFiczVNTTFXQkxjS25pQTJQclFmNWhNZEZuQlp4NlUyTEM0QXpxU3B0MU5ZVDZpRGduZmpxeEFrdzFUeFRPOUhnLU1zaFQxdlp1RmtLTEpPREFuREFMd3d6QWRSckZJVE1xU2xwV3Q4NTl3azluLVFlYTI2cWx2R2R5Nl83ZWZLc1hCN2dV?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
     "title": "La Bce lascia i tassi d'interesse invariati: depositi al 2,50% - Sky TG24",
