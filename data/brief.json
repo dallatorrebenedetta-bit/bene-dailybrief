@@ -1,5 +1,5 @@
 {
-  "date": "31 October 2026",
+  "date": "01 November 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -41,17 +41,17 @@
     {
       "name": "Oro",
       "value": "$3,898.90",
-      "detail": "-3.29%"
+      "detail": "+0.00%"
     },
     {
       "name": "Brent",
       "value": "$113.43",
-      "detail": "-1.26%"
+      "detail": "-3.58%"
     },
     {
       "name": "Bitcoin",
-      "value": "$77,341",
-      "detail": "+0.18%"
+      "value": "$77,773",
+      "detail": "+0.44%"
     },
     {
       "name": "VIX",
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMURFN3ZJWWRLNDJVOVFwZTM1V3hLbjlTWTBlV2gtODNiZ0lUN0tQRW9tQzkwYUVKMHZJM1Q3dVRQRXg0aGozU3NiN0FJVkVCbDd3azJVZFBhcXJkbDdLOHpJLTFHRHZXRDFzNTB2MA?oc=5"
   },
   "geopolitics": {
-    "title": "COMMENTARY: Morning Bid: Global markets take a breath",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdEpUOXVJeDFHMGZPdWtyeHRMQWhYcENqWDgyS3AyT2JWQUxzYmpvOWljc0F3WFdQbkxmRGY5bG4tOGxwRnJ4d2p6NWFSUVVYSnJLTkt0YnhpdHQwVkd6RTUzVGNnem5MS2dWUHgzaGVMd1ItYXpVZmx0NXduUDRwYlRR?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
     "title": "Magnum Shares Surge on Robust Sales",
