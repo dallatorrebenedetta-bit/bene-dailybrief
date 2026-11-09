@@ -1,5 +1,5 @@
 {
-  "date": "08 November 2026",
+  "date": "09 November 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -35,28 +35,28 @@
     },
     {
       "name": "EUR/USD",
-      "value": "1.1143",
-      "detail": "-0.82%"
+      "value": "1.1196",
+      "detail": "-0.29%"
     },
     {
       "name": "Oro",
-      "value": "$4,074.90",
-      "detail": "+0.00%"
+      "value": "$4,137.60",
+      "detail": "+1.54%"
     },
     {
       "name": "Brent",
-      "value": "$98.32",
-      "detail": "+0.00%"
+      "value": "$94.20",
+      "detail": "-4.19%"
     },
     {
       "name": "Bitcoin",
-      "value": "$75,866",
-      "detail": "+0.16%"
+      "value": "$74,674",
+      "detail": "+0.12%"
     },
     {
       "name": "VIX",
-      "value": "25.64",
-      "detail": "-9.01%"
+      "value": "23.42",
+      "detail": "-8.66%"
     }
   ],
   "ai": {
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMURFN3ZJWWRLNDJVOVFwZTM1V3hLbjlTWTBlV2gtODNiZ0lUN0tQRW9tQzkwYUVKMHZJM1Q3dVRQRXg0aGozU3NiN0FJVkVCbDd3azJVZFBhcXJkbDdLOHpJLTFHRHZXRDFzNTB2MA?oc=5"
   },
   "geopolitics": {
-    "title": "China hits EU dairy with tariffs, broadening trade conflict",
+    "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTRic2hCaFhhb3VjYmpUT3A0c1RpNGkwTjlmek5CeW9YT1hTQmFsaHB4eEdfYmdiYkg5X1hnNUk1d0dGaU1Qa2ZsMERiTXVja1Y4aGNPYnFuM0o0eXlrdzVoTE9WZ2RDQkR4Qml5WHROTGZua1BJSXJySXRYSDZNQi1Qbk4ydGhjNGdwaS1UakdRb3lrUy1kelpteXV2ZzF0cTdqUGJhQQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
     "title": "Magnum Shares Surge on Robust Sales",
