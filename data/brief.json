@@ -1,5 +1,5 @@
 {
-  "date": "11 November 2026",
+  "date": "12 November 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,58 +14,58 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "The environmental cost of AI",
+      "title": "Swiss Life continua a crescere: progressione dei proventi da tasse e commissioni e dei premi incassati nei primi nove mesi del 2026 – Company Announcement - FT.com",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRUwzclFpZ0tXTjdsZEgwa295bWxKS3BqRjVMLWxCelcxemhVTzlQMGxvRXJzS2g4bUNZdlZkbjhOY2dWNFNGYlZEckdfQVFEVWZ5ZW0wWk5rN2d2dXZzN3RfbFR2SXFXNnV4UnZjYU5SWXRhX1p1dVJfVkNiWU9rMFB0VVBWUlh4VTFmYS1uUmtHdVlCVGZjenRWYWxONUJIX3l2WA?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,521",
-      "detail": "+1.95%"
+      "value": "7,619",
+      "detail": "+0.92%"
     },
     {
       "name": "Nasdaq",
-      "value": "25,066",
-      "detail": "+1.98%"
+      "value": "25,466",
+      "detail": "+0.84%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1138",
-      "detail": "-0.75%"
+      "value": "1.1086",
+      "detail": "-0.74%"
     },
     {
       "name": "Oro",
-      "value": "$4,054.50",
-      "detail": "+0.60%"
+      "value": "$3,932.40",
+      "detail": "-1.70%"
     },
     {
       "name": "Brent",
-      "value": "$93.23",
-      "detail": "+1.90%"
+      "value": "$94.25",
+      "detail": "+1.61%"
     },
     {
       "name": "Bitcoin",
-      "value": "$73,982",
-      "detail": "+0.35%"
+      "value": "$72,507",
+      "detail": "-1.97%"
     },
     {
       "name": "VIX",
-      "value": "18.53",
-      "detail": "-4.78%"
+      "value": "19.00",
+      "detail": "+8.63%"
     }
   ],
   "ai": {
-    "title": "The environmental cost of AI",
+    "title": "Swiss Life continua a crescere: progressione dei proventi da tasse e commissioni e dei premi incassati nei primi nove mesi del 2026 – Company Announcement - FT.com",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRUwzclFpZ0tXTjdsZEgwa295bWxKS3BqRjVMLWxCelcxemhVTzlQMGxvRXJzS2g4bUNZdlZkbjhOY2dWNFNGYlZEckdfQVFEVWZ5ZW0wWk5rN2d2dXZzN3RfbFR2SXFXNnV4UnZjYU5SWXRhX1p1dVJfVkNiWU9rMFB0VVBWUlh4VTFmYS1uUmtHdVlCVGZjenRWYWxONUJIX3l2WA?oc=5"
   },
   "finance": {
     "title": "La Bce lascia i tassi d'interesse invariati: depositi al 2,50% - Sky TG24",
