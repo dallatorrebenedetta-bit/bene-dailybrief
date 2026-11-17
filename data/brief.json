@@ -1,5 +1,5 @@
 {
-  "date": "16 November 2026",
+  "date": "17 November 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,58 +14,58 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "Attenzione agli acquisti per il Black Friday! Le truffe online legate agli acquisti sono il rischio informatico più frequente in Svizzera – Company Announcement - FT.com",
+      "title": "The environmental cost of AI",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVW14SFVnYndtNXRNQzNGaHJlemsxVVZjM0RxOVZoYU8wcE9UQkRyMFFEMUhtMGhqQUt3OElvLXhweHcwT1RaVTFfNEVsaXVGdzltT1RrSkpUMVZIZXoxZG1oZFB0M0RIQVoxazVQdmJvT3NxQWNZaTZiNzYzZzJBYXlKd2V3dDlPUzlocG5pVndRaHZKd1JsS0cyeVZ4WVlnaU5RUXFKQ0l5dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,562",
-      "detail": "-0.76%"
+      "value": "7,417",
+      "detail": "-2.32%"
     },
     {
       "name": "Nasdaq",
-      "value": "25,136",
-      "detail": "-1.30%"
+      "value": "24,510",
+      "detail": "-3.38%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1018",
-      "detail": "-0.29%"
+      "value": "1.0984",
+      "detail": "-0.37%"
     },
     {
       "name": "Oro",
-      "value": "$3,876.40",
-      "detail": "-0.25%"
+      "value": "$3,850.80",
+      "detail": "-0.06%"
     },
     {
       "name": "Brent",
-      "value": "$94.62",
-      "detail": "-1.27%"
+      "value": "$93.66",
+      "detail": "+1.32%"
     },
     {
       "name": "Bitcoin",
-      "value": "$64,097",
-      "detail": "-1.85%"
+      "value": "$65,032",
+      "detail": "+0.27%"
     },
     {
       "name": "VIX",
-      "value": "20.64",
-      "detail": "+6.94%"
+      "value": "23.10",
+      "detail": "+0.83%"
     }
   ],
   "ai": {
-    "title": "Attenzione agli acquisti per il Black Friday! Le truffe online legate agli acquisti sono il rischio informatico più frequente in Svizzera – Company Announcement - FT.com",
+    "title": "The environmental cost of AI",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVW14SFVnYndtNXRNQzNGaHJlemsxVVZjM0RxOVZoYU8wcE9UQkRyMFFEMUhtMGhqQUt3OElvLXhweHcwT1RaVTFfNEVsaXVGdzltT1RrSkpUMVZIZXoxZG1oZFB0M0RIQVoxazVQdmJvT3NxQWNZaTZiNzYzZzJBYXlKd2V3dDlPUzlocG5pVndRaHZKd1JsS0cyeVZ4WVlnaU5RUXFKQ0l5dw?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
     "title": "Banche centrali, la previsione di ING su Fed, BCE, BoE e BoJ di settembre 2026 - ING Think",
