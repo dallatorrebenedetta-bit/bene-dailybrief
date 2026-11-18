@@ -1,5 +1,5 @@
 {
-  "date": "17 November 2026",
+  "date": "18 November 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,417",
-      "detail": "-2.32%"
+      "value": "7,341",
+      "detail": "-2.92%"
     },
     {
       "name": "Nasdaq",
-      "value": "24,510",
-      "detail": "-3.38%"
+      "value": "24,328",
+      "detail": "-3.21%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.0984",
-      "detail": "-0.37%"
+      "value": "1.0975",
+      "detail": "-0.21%"
     },
     {
       "name": "Oro",
-      "value": "$3,850.80",
-      "detail": "-0.06%"
+      "value": "$3,774.90",
+      "detail": "-2.31%"
     },
     {
       "name": "Brent",
-      "value": "$93.66",
-      "detail": "+1.32%"
+      "value": "$89.75",
+      "detail": "-3.64%"
     },
     {
       "name": "Bitcoin",
-      "value": "$65,032",
-      "detail": "+0.27%"
+      "value": "$64,076",
+      "detail": "-1.26%"
     },
     {
       "name": "VIX",
-      "value": "23.10",
-      "detail": "+0.83%"
+      "value": "24.62",
+      "detail": "-3.30%"
     }
   ],
   "ai": {
@@ -68,7 +68,7 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
   },
   "finance": {
-    "title": "Banche centrali, la previsione di ING su Fed, BCE, BoE e BoJ di settembre 2026 - ING Think",
+    "title": "Banche centrali, la previsione di ING su Fed, BCE, BoE e BoJ di settembre 2026 - ing think",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
