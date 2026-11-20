@@ -1,5 +1,5 @@
 {
-  "date": "19 November 2026",
+  "date": "20 November 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -14,66 +14,66 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEdueXpXSkZPRF9qMUFVOEpFWmNNdmZyZWtXd3ZVclp0RXFKdEQxdk5kRjlzTUxGQUJ4cnJRS2EwQ0RLQlhXSXFLc2dBN0JnQ2dvUEk5LUM3MkZraXlJRUwwQ0RyS21nMGpfM3VwNERJdEdXZURYbGxpQzRMZmxOcS1sQjFCeVZQNTVnaDB0VnotTzBZNzZXaG5FM1ZGeHJmTzlVWTlKTng3azRtUGpmb3pzbmo2WTYwallBUW9QTjBEQlNLZWtUZzhB?oc=5"
     },
     {
-      "title": "The environmental cost of AI",
+      "title": "La casco danno totale di Helvetia vince lo Swiss Insurance Innovation Award – Company Announcement",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUQ5b2c5ZDRMZXNwaTk3RXFMU0RxdGNlOE0tbUdnOGtvVVNRc0xVNlZwUDlsSUd1Yy1CczVWWURlM0dZZFEwdzJnQmxuclNjN1hfZnpZWUFiSEFVbEhqY0NsZ2ptX1d6cTk0Q2h4cFV6WWxGaTZOWWpQMmlvelZuTVZCVG55bFR1dTNHMGVranJWcHBFZ1o1TC1SaFJnN0lsS2tnNkJxOGs5Zw?oc=5"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,324",
-      "detail": "-1.25%"
+      "value": "7,176",
+      "detail": "-2.24%"
     },
     {
       "name": "Nasdaq",
-      "value": "24,430",
-      "detail": "-0.33%"
+      "value": "23,879",
+      "detail": "-1.85%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.1002",
-      "detail": "+0.08%"
+      "value": "1.0995",
+      "detail": "+0.21%"
     },
     {
       "name": "Oro",
-      "value": "$3,716.40",
-      "detail": "-0.68%"
+      "value": "$3,557.50",
+      "detail": "-3.47%"
     },
     {
       "name": "Brent",
-      "value": "$90.04",
-      "detail": "-2.08%"
+      "value": "$89.13",
+      "detail": "-3.10%"
     },
     {
       "name": "Bitcoin",
-      "value": "$63,925",
-      "detail": "+1.49%"
+      "value": "$61,366",
+      "detail": "-0.87%"
     },
     {
       "name": "VIX",
-      "value": "22.60",
-      "detail": "-7.98%"
+      "value": "30.93",
+      "detail": "+8.76%"
     }
   ],
   "ai": {
-    "title": "The environmental cost of AI",
+    "title": "La casco danno totale di Helvetia vince lo Swiss Insurance Innovation Award – Company Announcement",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUQ5b2c5ZDRMZXNwaTk3RXFMU0RxdGNlOE0tbUdnOGtvVVNRc0xVNlZwUDlsSUd1Yy1CczVWWURlM0dZZFEwdzJnQmxuclNjN1hfZnpZWUFiSEFVbEhqY0NsZ2ptX1d6cTk0Q2h4cFV6WWxGaTZOWWpQMmlvelZuTVZCVG55bFR1dTNHMGVranJWcHBFZ1o1TC1SaFJnN0lsS2tnNkJxOGs5Zw?oc=5"
   },
   "finance": {
-    "title": "Fed, Bce, BoE e BoJ: quando arriveranno i prossimi rialzi dei tassi? - OraFinanza.it",
+    "title": "Banche centrali, la previsione di ING su Fed, BCE, BoE e BoJ di settembre 2026 - ING Think",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdVN1NWVJTjA0WTBCVnNyUDd6OE5Zck5PX0hIWEhzVWdQcVRkQ1Q2eDRwdXJOMHJzS2NmOWxCb3ZLUjNNOGxRZFV3em5ONTVoZXBybHJhM09wemFpcE44V2wwWGlyZ2kzM0t4cTFNc2x6eEttcUpPTWhLRXhwMUswRXkteEpNZGtadEJnRmp3T2hwaDlXbDROcG1R?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM2JXSEpKWWdINzkzVU9vaGRsd3o1XzlDNUxwUktNTS1TSXlDUXhBUjBlZE5hQy1jNUlTREoyUWdkOS1jS2UyNVlxVDk1UkIzOEpuNW1RZ21yNm5vaGFkb1lYQ2NSRzY4UmdmWmxjOVRobmV3T2dzbkZoTzJqaFFiVlFPZWNjVkZpWHJmRTM1dDkzeTYzZWhNRw?oc=5"
   },
   "geopolitics": {
     "title": "Italy to propose global ceasefire for 2026 Milano-Cortina winter Olympics",
@@ -84,12 +84,12 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkZleWpsOGZpdkpudHF5ZF9hLXlMbnNYeTRGYVpjcm91NWxhMnF1UDd3TzNzVUF4WlRwbUx2UkhZZ0w3aHZicExqakhkRlVfVzdfaWpPMFBhTllGNHFjQV9Fc1hQU1FvTjZFYjAwWTU0NnJJUE5oVTZTNDI5aWFHb0xBSlhzMk5WTGtjUDhUQlltWjJXbFo3M0c3b3FmNFRDc3ZYUWlVQWlDQmt2WlE?oc=5"
   },
   "business": {
-    "title": "Le aziende adattano le strategie tra AI, tassi e supply chain",
+    "title": "Magnum Shares Surge on Robust Sales",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "#"
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk9ta1dBWk9JMUMxRHpkaHlmcnY4dVlsTFVuUmdQbzRNMW8zdWx3XzJMRS0yRW94aWsydDVYQUdOUkVoajRJRjcxbUJxOGJKN0ttS3JnWVhtaTNSX1RfWEFRNHd3d3BwdmhSSGYyM1FCUUJCN1BZQm02YlpoX0QwTkdCX2JBQzc3WkwtQ0tQWU1SU0NuQXlSS2N3X0ZPcUM0cXc?oc=5"
   },
   "deepRead": {
     "title": "Time for a double dip?",
