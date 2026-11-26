@@ -1,5 +1,5 @@
 {
-  "date": "25 November 2026",
+  "date": "26 November 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
@@ -25,38 +25,38 @@
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,034",
-      "detail": "-2.81%"
+      "value": "7,183",
+      "detail": "-0.75%"
     },
     {
       "name": "Nasdaq",
-      "value": "22,916",
-      "detail": "-4.87%"
+      "value": "23,586",
+      "detail": "-2.09%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.0943",
-      "detail": "+0.32%"
+      "value": "1.0989",
+      "detail": "+0.25%"
     },
     {
       "name": "Oro",
-      "value": "$3,489.60",
-      "detail": "-2.03%"
+      "value": "$3,602.30",
+      "detail": "+1.13%"
     },
     {
       "name": "Brent",
-      "value": "$90.04",
-      "detail": "-1.49%"
+      "value": "$91.56",
+      "detail": "+0.18%"
     },
     {
       "name": "Bitcoin",
-      "value": "$57,830",
-      "detail": "-3.21%"
+      "value": "$60,730",
+      "detail": "+0.58%"
     },
     {
       "name": "VIX",
-      "value": "33.64",
-      "detail": "+27.62%"
+      "value": "27.12",
+      "detail": "-4.14%"
     }
   ],
   "ai": {
@@ -76,12 +76,12 @@
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcXBZMnB3QUlhQnF4N3A3LUw1VVBtaXFXY2hxUFJDZ1ZwbFZQanRjTWM3Nms0SWgyVzduZzBLcnRrQTBzcUVaWGwzLVgzQkxQU25SR29ZRmJKVzJVREhYVldsTWhkQlJuTHA2SURtNmpMdlMtMUlvRHhfNnpOOW1JRzV3?oc=5"
   },
   "geopolitics": {
-    "title": "China hits EU dairy with tariffs, broadening trade conflict",
+    "title": "European shares snap 4-week rally as higher oil prices temper strong earnings",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTRic2hCaFhhb3VjYmpUT3A0c1RpNGkwTjlmek5CeW9YT1hTQmFsaHB4eEdfYmdiYkg5X1hnNUk1d0dGaU1Qa2ZsMERiTXVja1Y4aGNPYnFuM0o0eXlrdzVoTE9WZ2RDQkR4Qml5WHROTGZua1BJSXJySXRYSDZNQi1Qbk4ydGhjNGdwaS1UakdRb3lrUy1kelpteXV2ZzF0cTdqUGJhQQ?oc=5"
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3JRTDJxWjQ5cXhiMXUwMkJSb2FrXzg0S3FvMkV0Z1VYRFV1a0dKcHEwaG9yWG1hb0RyWF9qQzFlek0zT2hXOGl0b2pSTHVTZ1lhclRuY1FsUm00alVhUkYzVEtVN1BTRUVzdmZHVXdVX2g5emE2NGRWN1ZyMXFMTnFVdmhvbVhVclFHajE5LUtGU0VnS2hJTVJTZGJHWDgzMDNhcmlWNHhtVm5MWXZz?oc=5"
   },
   "business": {
     "title": "Magnum Shares Surge on Robust Sales",
