@@ -1,102 +1,102 @@
 {
-  "date": "26 November 2026",
+  "date": "27 November 2026",
   "theme": {
     "title": "Mercati concentrati su tassi, AI e rischio geopolitico.",
     "text": "Il brief di oggi è generato automaticamente da fonti pubbliche selezionate. Il focus resta su banche centrali, mercati, tecnologia, geopolitica e grandi aziende."
   },
   "topStories": [
     {
-      "title": "Russia's central bank signals rates to come down further after surprise 50bp cut",
+      "title": "I mercati seguono banche centrali e dati macro",
       "category": "Top Story",
       "source": "Reuters",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjNNTVBoOFdMV2RVSFg5R1FjdzExdjJoajdyVW9yb0k5SlRkVHNLdmRza2pDcUFzNkx6cUJ2TlZuV0hPN0E4andJUmxqczYtcS04bzVGRV9WZmRSTGYxNTZvNzYtdV9EU0J5OW9wVGNyTzN5QldmTHRSVGtZVVBZQ2lUUGZzUkNKYmJ6RXVRdnFyY2k3M01WajlfZXNZNWhxTGEwZnF5MU80ZGJQaU1r?oc=5"
+      "url": "#"
     },
     {
-      "title": "The environmental cost of AI",
+      "title": "L’intelligenza artificiale resta al centro degli investimenti",
       "category": "AI & Tecnologia",
       "source": "Financial Times",
       "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
       "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
+      "url": "#"
     }
   ],
   "numbers": [
     {
       "name": "S&P 500",
-      "value": "7,183",
-      "detail": "-0.75%"
+      "value": "7,265",
+      "detail": "+0.89%"
     },
     {
       "name": "Nasdaq",
-      "value": "23,586",
-      "detail": "-2.09%"
+      "value": "23,940",
+      "detail": "+0.87%"
     },
     {
       "name": "EUR/USD",
-      "value": "1.0989",
-      "detail": "+0.25%"
+      "value": "1.0952",
+      "detail": "-0.16%"
     },
     {
       "name": "Oro",
-      "value": "$3,602.30",
-      "detail": "+1.13%"
+      "value": "$3,666.60",
+      "detail": "+3.70%"
     },
     {
       "name": "Brent",
-      "value": "$91.56",
-      "detail": "+0.18%"
+      "value": "$91.49",
+      "detail": "-3.30%"
     },
     {
       "name": "Bitcoin",
-      "value": "$60,730",
-      "detail": "+0.58%"
+      "value": "$61,063",
+      "detail": "+0.94%"
     },
     {
       "name": "VIX",
-      "value": "27.12",
-      "detail": "-4.14%"
+      "value": "25.65",
+      "detail": "-4.29%"
     }
   ],
   "ai": {
-    "title": "The environmental cost of AI",
+    "title": "L’AI resta un tema centrale per tecnologia e mercati",
     "category": "AI & Tecnologia",
     "source": "Financial Times",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUpkQkVyanV0QTl3d29Vcm5BLU5SbHV4TnVWNmlMSE54UHRiSEpwSjY2WWVJRDEyQkJMd1J6Y183eWk2el9QQVpQMGlQWFVyM28xTWY2Z3N3bmp1S3NUX0pRTmdVOXdIcEVfQl9CcVBuNm5ndF9iM2R3R3FvNlZ3S1gwZF8?oc=5"
+    "url": "#"
   },
   "finance": {
-    "title": "L’inflazione continua a correre, ma Fed e Bce dovrebbero lasciare fermi i tassi - Forbes Italia",
+    "title": "Banche centrali caute su inflazione e tassi",
     "category": "Finanza",
     "source": "ECB / Fed",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcXBZMnB3QUlhQnF4N3A3LUw1VVBtaXFXY2hxUFJDZ1ZwbFZQanRjTWM3Nms0SWgyVzduZzBLcnRrQTBzcUVaWGwzLVgzQkxQU25SR29ZRmJKVzJVREhYVldsTWhkQlJuTHA2SURtNmpMdlMtMUlvRHhfNnpOOW1JRzV3?oc=5"
+    "url": "#"
   },
   "geopolitics": {
-    "title": "European shares snap 4-week rally as higher oil prices temper strong earnings",
+    "title": "La geopolitica resta una fonte di incertezza per i mercati",
     "category": "Politica & Geopolitica",
     "source": "Reuters",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3JRTDJxWjQ5cXhiMXUwMkJSb2FrXzg0S3FvMkV0Z1VYRFV1a0dKcHEwaG9yWG1hb0RyWF9qQzFlek0zT2hXOGl0b2pSTHVTZ1lhclRuY1FsUm00alVhUkYzVEtVN1BTRUVzdmZHVXdVX2g5emE2NGRWN1ZyMXFMTnFVdmhvbVhVclFHajE5LUtGU0VnS2hJTVJTZGJHWDgzMDNhcmlWNHhtVm5MWXZz?oc=5"
+    "url": "#"
   },
   "business": {
-    "title": "Magnum Shares Surge on Robust Sales",
+    "title": "Le aziende adattano le strategie tra AI, tassi e supply chain",
     "category": "Business",
     "source": "Wall Street Journal",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNk9ta1dBWk9JMUMxRHpkaHlmcnY4dVlsTFVuUmdQbzRNMW8zdWx3XzJMRS0yRW94aWsydDVYQUdOUkVoajRJRjcxbUJxOGJKN0ttS3JnWVhtaTNSX1RfWEFRNHd3d3BwdmhSSGYyM1FCUUJCN1BZQm02YlpoX0QwTkdCX2JBQzc3WkwtQ0tQWU1SU0NuQXlSS2N3X0ZPcUM0cXc?oc=5"
+    "url": "#"
   },
   "deepRead": {
-    "title": "Time for a double dip?",
+    "title": "Un approfondimento utile per capire il quadro macro",
     "category": "Approfondimento",
     "source": "The Economist",
     "summary": "Questa notizia è stata selezionata automaticamente da fonti pubbliche monitorate. È utile per capire il contesto della giornata tra mercati, economia, tecnologia e geopolitica.",
     "why": "È rilevante perché può influenzare aspettative degli investitori, sentiment di mercato, costo del capitale o percezione del rischio globale.",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRkNLbTg4RzlWcFM1ZHpleUdxeXFiNzVuU2FBN3A0cDRqdER3RmIxVHVWNmtjYTZtdHFYTl93eV9Ra2xFVWNIalM1clVWRFlReW5ObWJiZjRraDhGTEpB?oc=5"
+    "url": "#"
   }
 }
